@@ -1,0 +1,4038 @@
+country,animal,element,year,value
+Australia,Cattle,Export Quantity,1996,1161930
+Australia,Cattle,Export Quantity,1997,1530584
+Australia,Cattle,Export Quantity,1998,1003630
+Australia,Cattle,Export Quantity,1999,1387184
+Australia,Sheep,Export Quantity,1973,1134730
+Australia,Sheep,Export Quantity,1974,1060464
+Australia,Sheep,Export Quantity,1975,1448935
+Australia,Sheep,Export Quantity,1976,1844856
+Australia,Sheep,Export Quantity,1977,3388203
+Australia,Sheep,Export Quantity,1978,4123702
+Australia,Sheep,Export Quantity,1979,3864755
+Australia,Sheep,Export Quantity,1980,6161946
+Australia,Sheep,Export Quantity,1981,5740378
+Australia,Sheep,Export Quantity,1982,6009382
+Australia,Sheep,Export Quantity,1983,7003785
+Australia,Sheep,Export Quantity,1984,6348571
+Australia,Sheep,Export Quantity,1985,6256188
+Australia,Sheep,Export Quantity,1986,6368494
+Australia,Sheep,Export Quantity,1987,7658000
+Australia,Sheep,Export Quantity,1988,6881156
+Australia,Sheep,Export Quantity,1989,6374347
+Australia,Sheep,Export Quantity,1990,4334026
+Australia,Sheep,Export Quantity,1991,3308076
+Australia,Sheep,Export Quantity,1992,4453720
+Australia,Sheep,Export Quantity,1993,5117659
+Australia,Sheep,Export Quantity,1994,5499000
+Australia,Sheep,Export Quantity,1995,5801725
+Australia,Sheep,Export Quantity,1996,5820840
+Australia,Sheep,Export Quantity,1997,5267168
+Australia,Sheep,Export Quantity,1998,5117443
+Australia,Sheep,Export Quantity,1999,5086442
+Australia,Sheep,Export Quantity,2000,5421408
+Australia,Sheep,Export Quantity,2001,6818250
+Australia,Sheep,Export Quantity,2002,6076802
+Australia,Sheep,Export Quantity,2003,4742432
+Australia,Sheep,Export Quantity,2004,3397140
+Australia,Sheep,Export Quantity,2005,4184920
+Australia,Sheep,Export Quantity,2006,4185538
+Australia,Sheep,Export Quantity,2007,3773029
+Australia,Sheep,Export Quantity,2008,4214989
+Australia,Sheep,Export Quantity,2009,3567609
+Australia,Sheep,Export Quantity,2010,2978154
+Australia,Sheep,Export Quantity,2011,2308449
+Australia,Sheep,Export Quantity,2012,2279622
+Australia,Sheep,Export Quantity,2013,1973418
+Belgium,Pigs,Import Quantity,2007,1182083
+Belgium,Pigs,Import Quantity,2008,1235613
+Belgium,Pigs,Import Quantity,2009,1451219
+Belgium,Pigs,Import Quantity,2010,1399383
+Belgium,Pigs,Import Quantity,2011,1280443
+Belgium,Pigs,Import Quantity,2012,1219796
+Belgium,Pigs,Import Quantity,2013,1152767
+Belgium-Luxembourg,Pigs,Import Quantity,1981,1002733
+Belgium-Luxembourg,Pigs,Import Quantity,1982,1052074
+Belgium-Luxembourg,Pigs,Import Quantity,1983,1104918
+Belgium-Luxembourg,Pigs,Import Quantity,1984,1332649
+Belgium-Luxembourg,Pigs,Import Quantity,1985,1159991
+Belgium-Luxembourg,Pigs,Import Quantity,1986,1638019
+Belgium-Luxembourg,Pigs,Import Quantity,1987,1805307
+Belgium-Luxembourg,Pigs,Import Quantity,1988,1761014
+Belgium-Luxembourg,Pigs,Import Quantity,1989,1805809
+Belgium-Luxembourg,Pigs,Import Quantity,1990,1615785
+Belgium-Luxembourg,Pigs,Import Quantity,1991,2042013
+Belgium-Luxembourg,Pigs,Import Quantity,1992,1919420
+Belgium-Luxembourg,Pigs,Import Quantity,1993,1721932
+Belgium-Luxembourg,Pigs,Import Quantity,1994,1651049
+Belgium-Luxembourg,Pigs,Import Quantity,1995,1473099
+Belgium-Luxembourg,Pigs,Import Quantity,1996,1344623
+Belgium-Luxembourg,Pigs,Export Quantity,1970,1097130
+Belgium-Luxembourg,Pigs,Export Quantity,1971,1231645
+Belgium-Luxembourg,Pigs,Export Quantity,1972,1243261
+Belgium-Luxembourg,Pigs,Export Quantity,1973,1133461
+Belgium-Luxembourg,Pigs,Export Quantity,1974,1084011
+Belgium-Luxembourg,Pigs,Export Quantity,1975,1038934
+Belgium-Luxembourg,Pigs,Export Quantity,1976,1097154
+Belgium-Luxembourg,Pigs,Export Quantity,1977,1222177
+Belgium-Luxembourg,Pigs,Export Quantity,1978,1164269
+Belgium-Luxembourg,Pigs,Export Quantity,1979,1029238
+Belgium-Luxembourg,Pigs,Export Quantity,1988,1007420
+Belgium-Luxembourg,Pigs,Export Quantity,1989,1013968
+Belgium-Luxembourg,Pigs,Export Quantity,1999,1079092
+Bulgaria,Sheep,Export Quantity,1966,1005068
+Bulgaria,Sheep,Export Quantity,1978,1042465
+Bulgaria,Sheep,Export Quantity,1979,1454242
+Bulgaria,Sheep,Export Quantity,1980,1533887
+Bulgaria,Sheep,Export Quantity,1981,1387858
+Bulgaria,Sheep,Export Quantity,1982,1218841
+Bulgaria,Sheep,Export Quantity,1983,1277130
+Bulgaria,Sheep,Export Quantity,1984,1288133
+Bulgaria,Sheep,Export Quantity,1987,1118925
+Bulgaria,Sheep,Export Quantity,1988,1348047
+Bulgaria,Sheep,Export Quantity,1992,1477400
+Canada,Cattle,Export Quantity,1992,1287434
+Canada,Cattle,Export Quantity,1993,1212518
+Canada,Cattle,Export Quantity,1994,1017257
+Canada,Cattle,Export Quantity,1995,1135518
+Canada,Cattle,Export Quantity,1996,1514250
+Canada,Cattle,Export Quantity,1997,1382980
+Canada,Cattle,Export Quantity,1998,1318003
+Canada,Cattle,Export Quantity,2001,1309886
+Canada,Cattle,Export Quantity,2002,1690708
+Canada,Cattle,Export Quantity,2006,1045081
+Canada,Cattle,Export Quantity,2007,1432703
+Canada,Cattle,Export Quantity,2008,1627602
+Canada,Cattle,Export Quantity,2009,1092483
+Canada,Cattle,Export Quantity,2010,1089264
+Canada,Cattle,Export Quantity,2013,1047899
+Canada,Pigs,Export Quantity,1984,1346472
+Canada,Pigs,Export Quantity,1985,1152442
+Canada,Pigs,Export Quantity,1989,1204403
+Canada,Pigs,Export Quantity,1991,1065904
+Canada,Pigs,Export Quantity,1995,1748351
+Canada,Pigs,Export Quantity,1996,2779067
+Canada,Pigs,Export Quantity,1997,3180778
+Canada,Pigs,Export Quantity,1998,4122807
+Canada,Pigs,Export Quantity,1999,4137316
+Canada,Pigs,Export Quantity,2000,4359682
+Canada,Pigs,Export Quantity,2001,5344239
+Canada,Pigs,Export Quantity,2002,5741363
+Canada,Pigs,Export Quantity,2003,7442352
+Canada,Pigs,Export Quantity,2004,8511409
+Canada,Pigs,Export Quantity,2005,8214983
+Canada,Pigs,Export Quantity,2006,8776985
+Canada,Pigs,Export Quantity,2007,10031949
+Canada,Pigs,Export Quantity,2008,9357045
+Canada,Pigs,Export Quantity,2009,6375667
+Canada,Pigs,Export Quantity,2010,5761318
+Canada,Pigs,Export Quantity,2011,5821056
+Canada,Pigs,Export Quantity,2012,5676354
+Canada,Pigs,Export Quantity,2013,4975472
+China,Pigs,Import Quantity,1962,1106158
+China,Pigs,Import Quantity,1963,1488383
+China,Pigs,Import Quantity,1964,1785619
+China,Pigs,Import Quantity,1965,1914525
+China,Pigs,Import Quantity,1966,1969665
+China,Pigs,Import Quantity,1967,1843835
+China,Pigs,Import Quantity,1968,1822968
+China,Pigs,Import Quantity,1969,1807780
+China,Pigs,Import Quantity,1970,1844115
+China,Pigs,Import Quantity,1971,2396747
+China,Pigs,Import Quantity,1972,2630841
+China,Pigs,Import Quantity,1973,2642806
+China,Pigs,Import Quantity,1974,2581398
+China,Pigs,Import Quantity,1975,2747623
+China,Pigs,Import Quantity,1976,2956453
+China,Pigs,Import Quantity,1977,2984826
+China,Pigs,Import Quantity,1978,3077518
+China,Pigs,Import Quantity,1979,3049692
+China,Pigs,Import Quantity,1980,4506704
+China,Pigs,Import Quantity,1981,3151798
+China,Pigs,Import Quantity,1982,3283396
+China,Pigs,Import Quantity,1983,3205074
+China,Pigs,Import Quantity,1984,3163423
+China,Pigs,Import Quantity,1985,3120056
+China,Pigs,Import Quantity,1986,3237449
+China,Pigs,Import Quantity,1987,3131774
+China,Pigs,Import Quantity,1988,3073821
+China,Pigs,Import Quantity,1989,2978759
+China,Pigs,Import Quantity,1990,3006811
+China,Pigs,Import Quantity,1991,2953543
+China,Pigs,Import Quantity,1992,2938805
+China,Pigs,Import Quantity,1993,2755139
+China,Pigs,Import Quantity,1994,2733640
+China,Pigs,Import Quantity,1995,2657046
+China,Pigs,Import Quantity,1996,2423255
+China,Pigs,Import Quantity,1997,2284452
+China,Pigs,Import Quantity,1998,2179669
+China,Pigs,Import Quantity,1999,2002818
+China,Pigs,Import Quantity,2000,2000945
+China,Pigs,Import Quantity,2001,1980278
+China,Pigs,Import Quantity,2002,1853281
+China,Pigs,Import Quantity,2003,1896404
+China,Pigs,Import Quantity,2004,1999879
+China,Pigs,Import Quantity,2005,1803036
+China,Pigs,Import Quantity,2006,1712710
+China,Pigs,Import Quantity,2007,1606846
+China,Pigs,Import Quantity,2008,1601162
+China,Pigs,Import Quantity,2009,1698202
+China,Pigs,Import Quantity,2010,1725946
+China,Pigs,Import Quantity,2011,1574100
+China,Pigs,Import Quantity,2012,1658401
+China,Pigs,Import Quantity,2013,1704075
+China,Pigs,Export Quantity,1963,1330200
+China,Pigs,Export Quantity,1964,1655900
+China,Pigs,Export Quantity,1965,1726253
+China,Pigs,Export Quantity,1966,1958348
+China,Pigs,Export Quantity,1967,1833947
+China,Pigs,Export Quantity,1968,1840050
+China,Pigs,Export Quantity,1969,1816835
+China,Pigs,Export Quantity,1970,1864384
+China,Pigs,Export Quantity,1971,2396813
+China,Pigs,Export Quantity,1972,2680042
+China,Pigs,Export Quantity,1973,2760262
+China,Pigs,Export Quantity,1974,2540706
+China,Pigs,Export Quantity,1975,2715007
+China,Pigs,Export Quantity,1976,2916690
+China,Pigs,Export Quantity,1977,2980000
+China,Pigs,Export Quantity,1978,3114000
+China,Pigs,Export Quantity,1979,3078519
+China,Pigs,Export Quantity,1980,4547840
+China,Pigs,Export Quantity,1981,3189253
+China,Pigs,Export Quantity,1982,3253247
+China,Pigs,Export Quantity,1983,3216712
+China,Pigs,Export Quantity,1984,3091387
+China,Pigs,Export Quantity,1985,3007383
+China,Pigs,Export Quantity,1986,3122620
+China,Pigs,Export Quantity,1987,3030179
+China,Pigs,Export Quantity,1988,3031078
+China,Pigs,Export Quantity,1989,2973800
+China,Pigs,Export Quantity,1990,2999249
+China,Pigs,Export Quantity,1991,2850809
+China,Pigs,Export Quantity,1992,2916075
+China,Pigs,Export Quantity,1993,2727064
+China,Pigs,Export Quantity,1994,2704692
+China,Pigs,Export Quantity,1995,2539033
+China,Pigs,Export Quantity,1996,2414789
+China,Pigs,Export Quantity,1997,2281521
+China,Pigs,Export Quantity,1998,2204115
+China,Pigs,Export Quantity,1999,1961250
+China,Pigs,Export Quantity,2000,2038930
+China,Pigs,Export Quantity,2001,1972512
+China,Pigs,Export Quantity,2002,1888606
+China,Pigs,Export Quantity,2003,1887295
+China,Pigs,Export Quantity,2004,1972911
+China,Pigs,Export Quantity,2005,1768772
+China,Pigs,Export Quantity,2006,1722541
+China,Pigs,Export Quantity,2007,1609008
+China,Pigs,Export Quantity,2008,1645411
+China,Pigs,Export Quantity,2009,1689949
+China,Pigs,Export Quantity,2010,1717813
+China,Pigs,Export Quantity,2011,1562224
+China,Pigs,Export Quantity,2012,1642190
+China,Pigs,Export Quantity,2013,1682811
+"China, Hong Kong SAR",Pigs,Import Quantity,1962,1030300
+"China, Hong Kong SAR",Pigs,Import Quantity,1963,1401600
+"China, Hong Kong SAR",Pigs,Import Quantity,1964,1694300
+"China, Hong Kong SAR",Pigs,Import Quantity,1965,1829200
+"China, Hong Kong SAR",Pigs,Import Quantity,1966,1875883
+"China, Hong Kong SAR",Pigs,Import Quantity,1967,1760249
+"China, Hong Kong SAR",Pigs,Import Quantity,1968,1749480
+"China, Hong Kong SAR",Pigs,Import Quantity,1969,1728000
+"China, Hong Kong SAR",Pigs,Import Quantity,1970,1760354
+"China, Hong Kong SAR",Pigs,Import Quantity,1971,2300670
+"China, Hong Kong SAR",Pigs,Import Quantity,1972,2537863
+"China, Hong Kong SAR",Pigs,Import Quantity,1973,2547675
+"China, Hong Kong SAR",Pigs,Import Quantity,1974,2470859
+"China, Hong Kong SAR",Pigs,Import Quantity,1975,2643847
+"China, Hong Kong SAR",Pigs,Import Quantity,1976,2826443
+"China, Hong Kong SAR",Pigs,Import Quantity,1977,2857047
+"China, Hong Kong SAR",Pigs,Import Quantity,1978,2939699
+"China, Hong Kong SAR",Pigs,Import Quantity,1979,2896154
+"China, Hong Kong SAR",Pigs,Import Quantity,1980,4339265
+"China, Hong Kong SAR",Pigs,Import Quantity,1981,2984475
+"China, Hong Kong SAR",Pigs,Import Quantity,1982,3102102
+"China, Hong Kong SAR",Pigs,Import Quantity,1983,3052560
+"China, Hong Kong SAR",Pigs,Import Quantity,1984,2996682
+"China, Hong Kong SAR",Pigs,Import Quantity,1985,2977683
+"China, Hong Kong SAR",Pigs,Import Quantity,1986,3085092
+"China, Hong Kong SAR",Pigs,Import Quantity,1987,2980957
+"China, Hong Kong SAR",Pigs,Import Quantity,1988,2923295
+"China, Hong Kong SAR",Pigs,Import Quantity,1989,2821266
+"China, Hong Kong SAR",Pigs,Import Quantity,1990,2847821
+"China, Hong Kong SAR",Pigs,Import Quantity,1991,2821423
+"China, Hong Kong SAR",Pigs,Import Quantity,1992,2792405
+"China, Hong Kong SAR",Pigs,Import Quantity,1993,2605277
+"China, Hong Kong SAR",Pigs,Import Quantity,1994,2569200
+"China, Hong Kong SAR",Pigs,Import Quantity,1995,2395028
+"China, Hong Kong SAR",Pigs,Import Quantity,1996,2257619
+"China, Hong Kong SAR",Pigs,Import Quantity,1997,2125953
+"China, Hong Kong SAR",Pigs,Import Quantity,1998,2018467
+"China, Hong Kong SAR",Pigs,Import Quantity,1999,1856896
+"China, Hong Kong SAR",Pigs,Import Quantity,2000,1862372
+"China, Hong Kong SAR",Pigs,Import Quantity,2001,1845760
+"China, Hong Kong SAR",Pigs,Import Quantity,2002,1740337
+"China, Hong Kong SAR",Pigs,Import Quantity,2003,1773106
+"China, Hong Kong SAR",Pigs,Import Quantity,2004,1874838
+"China, Hong Kong SAR",Pigs,Import Quantity,2005,1678583
+"China, Hong Kong SAR",Pigs,Import Quantity,2006,1592978
+"China, Hong Kong SAR",Pigs,Import Quantity,2007,1488037
+"China, Hong Kong SAR",Pigs,Import Quantity,2008,1494999
+"China, Hong Kong SAR",Pigs,Import Quantity,2009,1601623
+"China, Hong Kong SAR",Pigs,Import Quantity,2010,1636044
+"China, Hong Kong SAR",Pigs,Import Quantity,2011,1467863
+"China, Hong Kong SAR",Pigs,Import Quantity,2012,1544345
+"China, Hong Kong SAR",Pigs,Import Quantity,2013,1578858
+"China, mainland",Pigs,Export Quantity,1963,1301900
+"China, mainland",Pigs,Export Quantity,1964,1646700
+"China, mainland",Pigs,Export Quantity,1965,1718600
+"China, mainland",Pigs,Export Quantity,1966,1951500
+"China, mainland",Pigs,Export Quantity,1967,1816000
+"China, mainland",Pigs,Export Quantity,1968,1830300
+"China, mainland",Pigs,Export Quantity,1969,1800000
+"China, mainland",Pigs,Export Quantity,1970,1830000
+"China, mainland",Pigs,Export Quantity,1971,2380000
+"China, mainland",Pigs,Export Quantity,1972,2660000
+"China, mainland",Pigs,Export Quantity,1973,2690000
+"China, mainland",Pigs,Export Quantity,1974,2510000
+"China, mainland",Pigs,Export Quantity,1975,2715000
+"China, mainland",Pigs,Export Quantity,1976,2910000
+"China, mainland",Pigs,Export Quantity,1977,2970000
+"China, mainland",Pigs,Export Quantity,1978,3100000
+"China, mainland",Pigs,Export Quantity,1979,3030000
+"China, mainland",Pigs,Export Quantity,1980,4450000
+"China, mainland",Pigs,Export Quantity,1981,3178500
+"China, mainland",Pigs,Export Quantity,1982,3240000
+"China, mainland",Pigs,Export Quantity,1983,3210000
+"China, mainland",Pigs,Export Quantity,1984,3080000
+"China, mainland",Pigs,Export Quantity,1985,2955470
+"China, mainland",Pigs,Export Quantity,1986,3104856
+"China, mainland",Pigs,Export Quantity,1987,3020368
+"China, mainland",Pigs,Export Quantity,1988,3027309
+"China, mainland",Pigs,Export Quantity,1989,2973535
+"China, mainland",Pigs,Export Quantity,1990,2999123
+"China, mainland",Pigs,Export Quantity,1991,2849669
+"China, mainland",Pigs,Export Quantity,1992,2914438
+"China, mainland",Pigs,Export Quantity,1993,2724545
+"China, mainland",Pigs,Export Quantity,1994,2703418
+"China, mainland",Pigs,Export Quantity,1995,2537417
+"China, mainland",Pigs,Export Quantity,1996,2411298
+"China, mainland",Pigs,Export Quantity,1997,2280647
+"China, mainland",Pigs,Export Quantity,1998,2204115
+"China, mainland",Pigs,Export Quantity,1999,1961250
+"China, mainland",Pigs,Export Quantity,2000,2038930
+"China, mainland",Pigs,Export Quantity,2001,1972512
+"China, mainland",Pigs,Export Quantity,2002,1888606
+"China, mainland",Pigs,Export Quantity,2003,1887295
+"China, mainland",Pigs,Export Quantity,2004,1972911
+"China, mainland",Pigs,Export Quantity,2005,1768772
+"China, mainland",Pigs,Export Quantity,2006,1722540
+"China, mainland",Pigs,Export Quantity,2007,1609008
+"China, mainland",Pigs,Export Quantity,2008,1645411
+"China, mainland",Pigs,Export Quantity,2009,1689949
+"China, mainland",Pigs,Export Quantity,2010,1717813
+"China, mainland",Pigs,Export Quantity,2011,1562224
+"China, mainland",Pigs,Export Quantity,2012,1642190
+"China, mainland",Pigs,Export Quantity,2013,1682630
+Denmark,Pigs,Export Quantity,1997,1196619
+Denmark,Pigs,Export Quantity,1998,1732817
+Denmark,Pigs,Export Quantity,1999,1426979
+Denmark,Pigs,Export Quantity,2000,1483754
+Denmark,Pigs,Export Quantity,2001,1458584
+Denmark,Pigs,Export Quantity,2002,2021186
+Denmark,Pigs,Export Quantity,2003,2134753
+Denmark,Pigs,Export Quantity,2004,2495938
+Denmark,Pigs,Export Quantity,2005,3272909
+Denmark,Pigs,Export Quantity,2006,3828907
+Denmark,Pigs,Export Quantity,2007,4231819
+Denmark,Pigs,Export Quantity,2008,4609655
+Denmark,Pigs,Export Quantity,2009,6089573
+Denmark,Pigs,Export Quantity,2010,6396984
+Denmark,Pigs,Export Quantity,2011,8591742
+Denmark,Pigs,Export Quantity,2012,9732865
+Denmark,Pigs,Export Quantity,2013,10386381
+France,Cattle,Export Quantity,1975,1354025
+France,Cattle,Export Quantity,1976,1375720
+France,Cattle,Export Quantity,1977,1092989
+France,Cattle,Export Quantity,1978,1320088
+France,Cattle,Export Quantity,1979,1480857
+France,Cattle,Export Quantity,1980,1522417
+France,Cattle,Export Quantity,1981,1611737
+France,Cattle,Export Quantity,1982,1629590
+France,Cattle,Export Quantity,1983,1612799
+France,Cattle,Export Quantity,1984,1571301
+France,Cattle,Export Quantity,1985,1608806
+France,Cattle,Export Quantity,1986,1790060
+France,Cattle,Export Quantity,1987,1684053
+France,Cattle,Export Quantity,1988,1652114
+France,Cattle,Export Quantity,1989,1521924
+France,Cattle,Export Quantity,1990,1437851
+France,Cattle,Export Quantity,1991,1585611
+France,Cattle,Export Quantity,1992,1698036
+France,Cattle,Export Quantity,1993,1779804
+France,Cattle,Export Quantity,1994,1783097
+France,Cattle,Export Quantity,1995,1763388
+France,Cattle,Export Quantity,1996,1763225
+France,Cattle,Export Quantity,1997,1787250
+France,Cattle,Export Quantity,1998,1668038
+France,Cattle,Export Quantity,1999,1597459
+France,Cattle,Export Quantity,2000,1561374
+France,Cattle,Export Quantity,2001,1421940
+France,Cattle,Export Quantity,2002,1732343
+France,Cattle,Export Quantity,2003,1717920
+France,Cattle,Export Quantity,2004,1551796
+France,Cattle,Export Quantity,2005,1478322
+France,Cattle,Export Quantity,2006,1443929
+France,Cattle,Export Quantity,2007,1330036
+France,Cattle,Export Quantity,2008,1196752
+France,Cattle,Export Quantity,2009,1306576
+France,Cattle,Export Quantity,2010,1403448
+France,Cattle,Export Quantity,2011,1563657
+France,Cattle,Export Quantity,2012,1393851
+France,Cattle,Export Quantity,2013,1309566
+France,Pigs,Import Quantity,1969,1231897
+France,Pigs,Import Quantity,1970,1127734
+France,Pigs,Import Quantity,1971,1129313
+France,Pigs,Import Quantity,1975,1171708
+France,Pigs,Import Quantity,1976,1292675
+France,Pigs,Import Quantity,1977,1330490
+France,Pigs,Import Quantity,1978,1658430
+France,Pigs,Import Quantity,1979,1754519
+France,Pigs,Import Quantity,1980,1970036
+France,Pigs,Import Quantity,1981,2014842
+France,Pigs,Import Quantity,1982,1466239
+France,Pigs,Import Quantity,1983,1797995
+France,Pigs,Import Quantity,1984,1759603
+France,Pigs,Import Quantity,1985,1471161
+France,Pigs,Import Quantity,1986,1613527
+France,Pigs,Import Quantity,1987,1601102
+France,Pigs,Import Quantity,1988,1498988
+France,Pigs,Import Quantity,1989,1494717
+France,Pigs,Import Quantity,1990,1299194
+France,Pigs,Import Quantity,1991,1296979
+France,Pigs,Import Quantity,1992,1268769
+France,Sheep,Import Quantity,1988,1080847
+France,Sheep,Import Quantity,1989,1017510
+France,Sheep,Import Quantity,1990,1523797
+France,Sheep,Import Quantity,1991,1616760
+France,Sheep,Import Quantity,1992,1678310
+France,Sheep,Import Quantity,1993,1516006
+France,Sheep,Import Quantity,1994,1210693
+France,Sheep,Export Quantity,1990,1008801
+France,Sheep,Export Quantity,1991,1282554
+France,Sheep,Export Quantity,1992,1321482
+France,Sheep,Export Quantity,1993,1087170
+France,Sheep,Export Quantity,1996,1068091
+Germany,Pigs,Import Quantity,1973,1065745
+Germany,Pigs,Import Quantity,1974,1039338
+Germany,Pigs,Import Quantity,1975,1050339
+Germany,Pigs,Import Quantity,1979,1057130
+Germany,Pigs,Import Quantity,1981,1096391
+Germany,Pigs,Import Quantity,1985,1083662
+Germany,Pigs,Import Quantity,1987,1118510
+Germany,Pigs,Import Quantity,1988,1350248
+Germany,Pigs,Import Quantity,1989,1029612
+Germany,Pigs,Import Quantity,1990,1088074
+Germany,Pigs,Import Quantity,1991,1174658
+Germany,Pigs,Import Quantity,1992,2276363
+Germany,Pigs,Import Quantity,1993,1175449
+Germany,Pigs,Import Quantity,1994,1733510
+Germany,Pigs,Import Quantity,1995,1992419
+Germany,Pigs,Import Quantity,1996,3163354
+Germany,Pigs,Import Quantity,1997,1558445
+Germany,Pigs,Import Quantity,1998,2522160
+Germany,Pigs,Import Quantity,1999,2811025
+Germany,Pigs,Import Quantity,2000,3188092
+Germany,Pigs,Import Quantity,2001,3239627
+Germany,Pigs,Import Quantity,2002,3908357
+Germany,Pigs,Import Quantity,2003,4537551
+Germany,Pigs,Import Quantity,2004,4638280
+Germany,Pigs,Import Quantity,2005,5736944
+Germany,Pigs,Import Quantity,2006,6701770
+Germany,Pigs,Import Quantity,2007,8296509
+Germany,Pigs,Import Quantity,2008,9105682
+Germany,Pigs,Import Quantity,2009,10735473
+Germany,Pigs,Import Quantity,2010,12173194
+Germany,Pigs,Import Quantity,2011,12902105
+Germany,Pigs,Import Quantity,2012,14191997
+Germany,Pigs,Import Quantity,2013,14150339
+Germany,Pigs,Export Quantity,1981,1180478
+Germany,Pigs,Export Quantity,1986,2139743
+Germany,Pigs,Export Quantity,1987,1976933
+Germany,Pigs,Export Quantity,1988,1721456
+Germany,Pigs,Export Quantity,1989,1793515
+Germany,Pigs,Export Quantity,1990,2072107
+Germany,Pigs,Export Quantity,1991,2129233
+Germany,Pigs,Export Quantity,1992,1522850
+Germany,Pigs,Export Quantity,1993,1117776
+Germany,Pigs,Export Quantity,1998,1066648
+Germany,Pigs,Export Quantity,1999,1073227
+Germany,Pigs,Export Quantity,2000,1086761
+Germany,Pigs,Export Quantity,2002,1119232
+Germany,Pigs,Export Quantity,2005,1106904
+Germany,Pigs,Export Quantity,2006,1152127
+Germany,Pigs,Export Quantity,2007,1301797
+Germany,Pigs,Export Quantity,2008,1665380
+Germany,Pigs,Export Quantity,2009,2484619
+Germany,Pigs,Export Quantity,2010,2414878
+Germany,Pigs,Export Quantity,2011,2747865
+Germany,Pigs,Export Quantity,2012,3470900
+Germany,Pigs,Export Quantity,2013,3216293
+Hungary,Pigs,Import Quantity,2010,1076454
+Hungary,Sheep,Export Quantity,1970,1008173
+Hungary,Sheep,Export Quantity,1971,1205869
+Hungary,Sheep,Export Quantity,1979,1034594
+Hungary,Sheep,Export Quantity,1980,1006492
+Hungary,Sheep,Export Quantity,1981,1020809
+Hungary,Sheep,Export Quantity,1982,1189622
+Hungary,Sheep,Export Quantity,1983,1418753
+Hungary,Sheep,Export Quantity,1984,1398467
+Hungary,Sheep,Export Quantity,1985,1234001
+Hungary,Sheep,Export Quantity,1987,1165606
+Hungary,Sheep,Export Quantity,1988,1374059
+Hungary,Sheep,Export Quantity,1989,1252180
+Hungary,Sheep,Export Quantity,1990,1075018
+Hungary,Sheep,Export Quantity,1991,1372802
+Hungary,Sheep,Export Quantity,1992,1185000
+Hungary,Sheep,Export Quantity,1994,1064197
+Hungary,Sheep,Export Quantity,1995,1013858
+Hungary,Sheep,Export Quantity,2003,1072067
+Hungary,Sheep,Export Quantity,2005,1031153
+Iran (Islamic Republic of),Sheep,Import Quantity,1975,1350000
+Iran (Islamic Republic of),Sheep,Import Quantity,1976,1650000
+Iran (Islamic Republic of),Sheep,Import Quantity,1977,2900000
+Iran (Islamic Republic of),Sheep,Import Quantity,1978,1425283
+Iran (Islamic Republic of),Sheep,Import Quantity,1979,1550000
+Iran (Islamic Republic of),Sheep,Import Quantity,1980,1304000
+Iran (Islamic Republic of),Sheep,Export Quantity,1994,1063540
+Iran (Islamic Republic of),Sheep,Export Quantity,2005,1257203
+Iran (Islamic Republic of),Sheep,Export Quantity,2007,1098343
+Iran (Islamic Republic of),Sheep,Export Quantity,2008,1248884
+Italy,Cattle,Import Quantity,1967,1301316
+Italy,Cattle,Import Quantity,1968,1657763
+Italy,Cattle,Import Quantity,1969,1956241
+Italy,Cattle,Import Quantity,1970,2100331
+Italy,Cattle,Import Quantity,1971,2333030
+Italy,Cattle,Import Quantity,1972,2613962
+Italy,Cattle,Import Quantity,1973,2239559
+Italy,Cattle,Import Quantity,1974,1786012
+Italy,Cattle,Import Quantity,1975,2304606
+Italy,Cattle,Import Quantity,1976,2355511
+Italy,Cattle,Import Quantity,1977,1894450
+Italy,Cattle,Import Quantity,1978,2145684
+Italy,Cattle,Import Quantity,1979,2340548
+Italy,Cattle,Import Quantity,1980,2346491
+Italy,Cattle,Import Quantity,1981,2275348
+Italy,Cattle,Import Quantity,1982,2499739
+Italy,Cattle,Import Quantity,1983,2324160
+Italy,Cattle,Import Quantity,1984,2162391
+Italy,Cattle,Import Quantity,1985,2406222
+Italy,Cattle,Import Quantity,1986,2334746
+Italy,Cattle,Import Quantity,1987,2168551
+Italy,Cattle,Import Quantity,1988,1937698
+Italy,Cattle,Import Quantity,1989,2065784
+Italy,Cattle,Import Quantity,1990,1970914
+Italy,Cattle,Import Quantity,1991,1970860
+Italy,Cattle,Import Quantity,1992,1847655
+Italy,Cattle,Import Quantity,1993,1551154
+Italy,Cattle,Import Quantity,1994,1524468
+Italy,Cattle,Import Quantity,1995,1342630
+Italy,Cattle,Import Quantity,1996,1487703
+Italy,Cattle,Import Quantity,1997,1675102
+Italy,Cattle,Import Quantity,1998,1925171
+Italy,Cattle,Import Quantity,1999,1598885
+Italy,Cattle,Import Quantity,2000,1562202
+Italy,Cattle,Import Quantity,2001,1341009
+Italy,Cattle,Import Quantity,2002,1467988
+Italy,Cattle,Import Quantity,2003,1441226
+Italy,Cattle,Import Quantity,2004,1468059
+Italy,Cattle,Import Quantity,2005,1349378
+Italy,Cattle,Import Quantity,2006,1474075
+Italy,Cattle,Import Quantity,2007,1229484
+Italy,Cattle,Import Quantity,2008,1100083
+Italy,Cattle,Import Quantity,2009,1130587
+Italy,Cattle,Import Quantity,2010,1368146
+Italy,Cattle,Import Quantity,2011,1341117
+Italy,Cattle,Import Quantity,2012,1212348
+Italy,Cattle,Import Quantity,2013,1155942
+Italy,Pigs,Import Quantity,1980,1136675
+Italy,Pigs,Import Quantity,1986,1635204
+Italy,Pigs,Import Quantity,1987,1528224
+Italy,Pigs,Import Quantity,1988,1603580
+Italy,Pigs,Import Quantity,1989,1679417
+Italy,Pigs,Import Quantity,1990,1879882
+Italy,Pigs,Import Quantity,1991,1709533
+Italy,Pigs,Import Quantity,1992,1857569
+Italy,Pigs,Import Quantity,1993,1652610
+Italy,Pigs,Import Quantity,1994,1106230
+Italy,Pigs,Import Quantity,1996,1014711
+Italy,Pigs,Import Quantity,1998,1128616
+Italy,Pigs,Import Quantity,1999,1166425
+Italy,Pigs,Import Quantity,2000,1068955
+Italy,Pigs,Import Quantity,2001,1298136
+Italy,Pigs,Import Quantity,2002,1116789
+Italy,Pigs,Import Quantity,2003,1017972
+Italy,Pigs,Import Quantity,2011,1131253
+Italy,Sheep,Import Quantity,1969,1039688
+Italy,Sheep,Import Quantity,1970,1459540
+Italy,Sheep,Import Quantity,1971,1846174
+Italy,Sheep,Import Quantity,1972,1941713
+Italy,Sheep,Import Quantity,1973,1452255
+Italy,Sheep,Import Quantity,1974,1160070
+Italy,Sheep,Import Quantity,1975,1315302
+Italy,Sheep,Import Quantity,1976,1007394
+Italy,Sheep,Import Quantity,1979,1142853
+Italy,Sheep,Import Quantity,1980,1244334
+Italy,Sheep,Import Quantity,1981,1036188
+Italy,Sheep,Import Quantity,1982,1164974
+Italy,Sheep,Import Quantity,1983,1389491
+Italy,Sheep,Import Quantity,1984,1421211
+Italy,Sheep,Import Quantity,1985,1798008
+Italy,Sheep,Import Quantity,1986,1576809
+Italy,Sheep,Import Quantity,1987,1871425
+Italy,Sheep,Import Quantity,1988,1627541
+Italy,Sheep,Import Quantity,1989,2056660
+Italy,Sheep,Import Quantity,1990,2371881
+Italy,Sheep,Import Quantity,1991,2531619
+Italy,Sheep,Import Quantity,1992,2526105
+Italy,Sheep,Import Quantity,1993,1900721
+Italy,Sheep,Import Quantity,1994,2151064
+Italy,Sheep,Import Quantity,1995,1831953
+Italy,Sheep,Import Quantity,1996,2025976
+Italy,Sheep,Import Quantity,1997,1841146
+Italy,Sheep,Import Quantity,1998,1863283
+Italy,Sheep,Import Quantity,1999,1909607
+Italy,Sheep,Import Quantity,2000,1773414
+Italy,Sheep,Import Quantity,2001,1561933
+Italy,Sheep,Import Quantity,2002,1702099
+Italy,Sheep,Import Quantity,2003,1807480
+Italy,Sheep,Import Quantity,2004,1715426
+Italy,Sheep,Import Quantity,2005,1807568
+Italy,Sheep,Import Quantity,2006,1690704
+Italy,Sheep,Import Quantity,2007,1688888
+Italy,Sheep,Import Quantity,2008,1461646
+Italy,Sheep,Import Quantity,2009,1501456
+Italy,Sheep,Import Quantity,2010,1619278
+Italy,Sheep,Import Quantity,2011,1346178
+Italy,Sheep,Import Quantity,2012,1193682
+Italy,Sheep,Import Quantity,2013,1073517
+Kuwait,Sheep,Import Quantity,1979,1425756
+Kuwait,Sheep,Import Quantity,1980,1475421
+Kuwait,Sheep,Import Quantity,1981,1517920
+Kuwait,Sheep,Import Quantity,1982,2011729
+Kuwait,Sheep,Import Quantity,1983,2259721
+Kuwait,Sheep,Import Quantity,1984,2752787
+Kuwait,Sheep,Import Quantity,1985,2000000
+Kuwait,Sheep,Import Quantity,1986,2412062
+Kuwait,Sheep,Import Quantity,1987,2200000
+Kuwait,Sheep,Import Quantity,1988,2532058
+Kuwait,Sheep,Import Quantity,1989,2237957
+Kuwait,Sheep,Import Quantity,1990,1213360
+Kuwait,Sheep,Import Quantity,1992,1952730
+Kuwait,Sheep,Import Quantity,1993,2149672
+Kuwait,Sheep,Import Quantity,1994,2498924
+Kuwait,Sheep,Import Quantity,1995,1941127
+Kuwait,Sheep,Import Quantity,1996,2225993
+Kuwait,Sheep,Import Quantity,1997,1887872
+Kuwait,Sheep,Import Quantity,1998,1878057
+Kuwait,Sheep,Import Quantity,1999,1856495
+Kuwait,Sheep,Import Quantity,2000,1771604
+Kuwait,Sheep,Import Quantity,2001,1625995
+Kuwait,Sheep,Import Quantity,2002,1910000
+Kuwait,Sheep,Import Quantity,2003,2150000
+Kuwait,Sheep,Import Quantity,2004,2230000
+Kuwait,Sheep,Import Quantity,2005,2500000
+Kuwait,Sheep,Import Quantity,2006,2200000
+Kuwait,Sheep,Import Quantity,2007,2000000
+Kuwait,Sheep,Import Quantity,2008,2175000
+Kuwait,Sheep,Import Quantity,2009,1700000
+Kuwait,Sheep,Import Quantity,2010,1900000
+Kuwait,Sheep,Import Quantity,2013,1400100
+Libya,Sheep,Import Quantity,1977,1257613
+Libya,Sheep,Import Quantity,1978,1907318
+Libya,Sheep,Import Quantity,1979,1797906
+Libya,Sheep,Import Quantity,1980,1940905
+Libya,Sheep,Import Quantity,1981,2502943
+Libya,Sheep,Import Quantity,1982,1952335
+Libya,Sheep,Import Quantity,1983,2279982
+Libya,Sheep,Import Quantity,1984,2293438
+Libya,Sheep,Import Quantity,1985,1200000
+Libya,Sheep,Import Quantity,1987,1130846
+Libya,Sheep,Import Quantity,1988,1351539
+Libya,Sheep,Import Quantity,2013,1276096
+Malaysia,Pigs,Export Quantity,1992,1060677
+Malaysia,Pigs,Export Quantity,1993,1115317
+Malaysia,Pigs,Export Quantity,1994,1175161
+Malaysia,Pigs,Export Quantity,1995,1243193
+Malaysia,Pigs,Export Quantity,1996,1135607
+Malaysia,Pigs,Export Quantity,1997,1046000
+Malaysia,Pigs,Export Quantity,1998,1063760
+Mexico,Cattle,Export Quantity,1987,1022322
+Mexico,Cattle,Export Quantity,1990,1351106
+Mexico,Cattle,Export Quantity,1991,1181290
+Mexico,Cattle,Export Quantity,1992,1120000
+Mexico,Cattle,Export Quantity,1993,1383237
+Mexico,Cattle,Export Quantity,1994,1094508
+Mexico,Cattle,Export Quantity,1995,1658153
+Mexico,Cattle,Export Quantity,2000,1223898
+Mexico,Cattle,Export Quantity,2001,1141662
+Mexico,Cattle,Export Quantity,2003,1239897
+Mexico,Cattle,Export Quantity,2004,1374814
+Mexico,Cattle,Export Quantity,2005,1258785
+Mexico,Cattle,Export Quantity,2006,1570673
+Mexico,Cattle,Export Quantity,2007,1089285
+Mexico,Cattle,Export Quantity,2010,1261315
+Mexico,Cattle,Export Quantity,2011,1898833
+Mexico,Cattle,Export Quantity,2012,1538602
+Mexico,Cattle,Export Quantity,2013,1045179
+Mongolia,Sheep,Export Quantity,1961,1656200
+Mongolia,Sheep,Export Quantity,1962,1376400
+Mongolia,Sheep,Export Quantity,1963,1246000
+Mongolia,Sheep,Export Quantity,1964,1133800
+Mongolia,Sheep,Export Quantity,1965,1403800
+Mongolia,Sheep,Export Quantity,1966,1917100
+Mongolia,Sheep,Export Quantity,1967,1617400
+Mongolia,Sheep,Export Quantity,1968,1088100
+Mongolia,Sheep,Export Quantity,1971,1017400
+Mongolia,Sheep,Export Quantity,1972,1165000
+Mongolia,Sheep,Export Quantity,1973,1198300
+Mongolia,Sheep,Export Quantity,1974,1209000
+Mongolia,Sheep,Export Quantity,1975,1010000
+Namibia,Sheep,Export Quantity,1992,1045809
+Namibia,Sheep,Export Quantity,1995,1008662
+Namibia,Sheep,Export Quantity,1998,1086320
+Netherlands,Pigs,Import Quantity,2007,1041641
+Netherlands,Pigs,Import Quantity,2008,1135530
+Netherlands,Pigs,Import Quantity,2009,1153646
+Netherlands,Pigs,Import Quantity,2010,1159862
+Netherlands,Pigs,Import Quantity,2011,1136975
+Netherlands,Pigs,Export Quantity,1975,1076806
+Netherlands,Pigs,Export Quantity,1977,1271676
+Netherlands,Pigs,Export Quantity,1978,1654690
+Netherlands,Pigs,Export Quantity,1979,2270358
+Netherlands,Pigs,Export Quantity,1980,2745816
+Netherlands,Pigs,Export Quantity,1981,2593589
+Netherlands,Pigs,Export Quantity,1982,2552304
+Netherlands,Pigs,Export Quantity,1983,2551166
+Netherlands,Pigs,Export Quantity,1984,2623566
+Netherlands,Pigs,Export Quantity,1985,3014426
+Netherlands,Pigs,Export Quantity,1986,3538255
+Netherlands,Pigs,Export Quantity,1987,3994432
+Netherlands,Pigs,Export Quantity,1988,4181405
+Netherlands,Pigs,Export Quantity,1989,4195987
+Netherlands,Pigs,Export Quantity,1990,4439128
+Netherlands,Pigs,Export Quantity,1991,3726138
+Netherlands,Pigs,Export Quantity,1992,5361090
+Netherlands,Pigs,Export Quantity,1993,4427861
+Netherlands,Pigs,Export Quantity,1994,5402825
+Netherlands,Pigs,Export Quantity,1995,4936099
+Netherlands,Pigs,Export Quantity,1996,5762748
+Netherlands,Pigs,Export Quantity,1997,1583812
+Netherlands,Pigs,Export Quantity,1998,1502570
+Netherlands,Pigs,Export Quantity,1999,3436246
+Netherlands,Pigs,Export Quantity,2000,2863424
+Netherlands,Pigs,Export Quantity,2001,3052002
+Netherlands,Pigs,Export Quantity,2002,2843795
+Netherlands,Pigs,Export Quantity,2003,5077523
+Netherlands,Pigs,Export Quantity,2004,4821845
+Netherlands,Pigs,Export Quantity,2005,5354638
+Netherlands,Pigs,Export Quantity,2006,6602923
+Netherlands,Pigs,Export Quantity,2007,7766913
+Netherlands,Pigs,Export Quantity,2008,8874301
+Netherlands,Pigs,Export Quantity,2009,10424570
+Netherlands,Pigs,Export Quantity,2010,11371905
+Netherlands,Pigs,Export Quantity,2011,9832095
+Netherlands,Pigs,Export Quantity,2012,9612356
+Netherlands,Pigs,Export Quantity,2013,10935783
+New Zealand,Sheep,Export Quantity,1989,1008805
+New Zealand,Sheep,Export Quantity,1991,1698037
+New Zealand,Sheep,Export Quantity,1992,1509401
+New Zealand,Sheep,Export Quantity,1993,1253103
+Poland,Pigs,Import Quantity,2008,1040696
+Poland,Pigs,Import Quantity,2009,1997670
+Poland,Pigs,Import Quantity,2010,2003636
+Poland,Pigs,Import Quantity,2011,2632996
+Poland,Pigs,Import Quantity,2012,3824308
+Poland,Pigs,Import Quantity,2013,5126292
+Poland,Sheep,Export Quantity,1991,1339328
+Portugal,Pigs,Import Quantity,2006,1064322
+Portugal,Pigs,Import Quantity,2007,1020488
+Portugal,Pigs,Import Quantity,2008,1008573
+Portugal,Pigs,Import Quantity,2009,1123837
+Portugal,Pigs,Import Quantity,2010,1179543
+Portugal,Pigs,Import Quantity,2011,1282784
+Portugal,Pigs,Import Quantity,2012,1289732
+Portugal,Pigs,Import Quantity,2013,1333585
+Qatar,Sheep,Import Quantity,1986,1128449
+Romania,Pigs,Import Quantity,2009,1074678
+Romania,Pigs,Import Quantity,2013,1088627
+Romania,Sheep,Export Quantity,1972,1090100
+Romania,Sheep,Export Quantity,1973,1248552
+Romania,Sheep,Export Quantity,1974,1294500
+Romania,Sheep,Export Quantity,1975,1370624
+Romania,Sheep,Export Quantity,1976,1208500
+Romania,Sheep,Export Quantity,1977,1573200
+Romania,Sheep,Export Quantity,1978,1545900
+Romania,Sheep,Export Quantity,1979,1378200
+Romania,Sheep,Export Quantity,1980,1173500
+Romania,Sheep,Export Quantity,1992,1187190
+Romania,Sheep,Export Quantity,1993,1078183
+Romania,Sheep,Export Quantity,1994,1497816
+Romania,Sheep,Export Quantity,1995,1367969
+Romania,Sheep,Export Quantity,1996,1286388
+Romania,Sheep,Export Quantity,1997,1260129
+Romania,Sheep,Export Quantity,1998,1127998
+Romania,Sheep,Export Quantity,1999,1220000
+Romania,Sheep,Export Quantity,2000,1160120
+Romania,Sheep,Export Quantity,2001,1768650
+Romania,Sheep,Export Quantity,2002,1484280
+Romania,Sheep,Export Quantity,2003,1863788
+Romania,Sheep,Export Quantity,2004,2008818
+Romania,Sheep,Export Quantity,2005,1564625
+Romania,Sheep,Export Quantity,2006,1519181
+Romania,Sheep,Export Quantity,2007,1667318
+Romania,Sheep,Export Quantity,2008,1525849
+Romania,Sheep,Export Quantity,2009,1590511
+Romania,Sheep,Export Quantity,2010,1592399
+Romania,Sheep,Export Quantity,2011,1791595
+Romania,Sheep,Export Quantity,2012,1800795
+Romania,Sheep,Export Quantity,2013,1942683
+Russian Federation,Pigs,Import Quantity,2009,1212348
+Saudi Arabia,Sheep,Import Quantity,1968,1905847
+Saudi Arabia,Sheep,Import Quantity,1972,1449179
+Saudi Arabia,Sheep,Import Quantity,1974,1036998
+Saudi Arabia,Sheep,Import Quantity,1977,1320000
+Saudi Arabia,Sheep,Import Quantity,1978,2170000
+Saudi Arabia,Sheep,Import Quantity,1979,3332576
+Saudi Arabia,Sheep,Import Quantity,1980,4162011
+Saudi Arabia,Sheep,Import Quantity,1981,5946257
+Saudi Arabia,Sheep,Import Quantity,1982,5970286
+Saudi Arabia,Sheep,Import Quantity,1983,6065545
+Saudi Arabia,Sheep,Import Quantity,1984,6260499
+Saudi Arabia,Sheep,Import Quantity,1985,6238660
+Saudi Arabia,Sheep,Import Quantity,1986,6290292
+Saudi Arabia,Sheep,Import Quantity,1987,6749125
+Saudi Arabia,Sheep,Import Quantity,1988,6042298
+Saudi Arabia,Sheep,Import Quantity,1989,4930700
+Saudi Arabia,Sheep,Import Quantity,1990,4775442
+Saudi Arabia,Sheep,Import Quantity,1991,4618516
+Saudi Arabia,Sheep,Import Quantity,1992,4548920
+Saudi Arabia,Sheep,Import Quantity,1993,6579260
+Saudi Arabia,Sheep,Import Quantity,1994,4947220
+Saudi Arabia,Sheep,Import Quantity,1995,4869213
+Saudi Arabia,Sheep,Import Quantity,1996,5004791
+Saudi Arabia,Sheep,Import Quantity,1997,4117784
+Saudi Arabia,Sheep,Import Quantity,1998,3386317
+Saudi Arabia,Sheep,Import Quantity,1999,4160310
+Saudi Arabia,Sheep,Import Quantity,2000,4170944
+Saudi Arabia,Sheep,Import Quantity,2001,2389253
+Saudi Arabia,Sheep,Import Quantity,2002,5342806
+Saudi Arabia,Sheep,Import Quantity,2003,4333486
+Saudi Arabia,Sheep,Import Quantity,2004,4482368
+Saudi Arabia,Sheep,Import Quantity,2005,6042607
+Saudi Arabia,Sheep,Import Quantity,2006,5179286
+Saudi Arabia,Sheep,Import Quantity,2007,4910578
+Saudi Arabia,Sheep,Import Quantity,2008,3822128
+Saudi Arabia,Sheep,Import Quantity,2009,3867182
+Saudi Arabia,Sheep,Import Quantity,2010,3780576
+Saudi Arabia,Sheep,Import Quantity,2011,4714975
+Saudi Arabia,Sheep,Import Quantity,2012,5874385
+Saudi Arabia,Sheep,Import Quantity,2013,5977202
+Singapore,Pigs,Import Quantity,1993,1037579
+Singapore,Pigs,Import Quantity,1994,1153158
+Singapore,Pigs,Import Quantity,1995,1145696
+Singapore,Pigs,Import Quantity,1996,1113648
+Singapore,Pigs,Import Quantity,1997,1046648
+Singapore,Pigs,Import Quantity,1998,1018652
+Somalia,Sheep,Export Quantity,1993,1200000
+Somalia,Sheep,Export Quantity,1994,1066656
+Somalia,Sheep,Export Quantity,1995,1270000
+Somalia,Sheep,Export Quantity,1996,1330000
+Somalia,Sheep,Export Quantity,1997,1640000
+Somalia,Sheep,Export Quantity,1998,1171106
+Somalia,Sheep,Export Quantity,1999,2271505
+Somalia,Sheep,Export Quantity,2000,1500000
+Somalia,Sheep,Export Quantity,2002,1459545
+Somalia,Sheep,Export Quantity,2003,1632135
+Somalia,Sheep,Export Quantity,2004,1182955
+Somalia,Sheep,Export Quantity,2005,1408489
+Somalia,Sheep,Export Quantity,2006,1458417
+Somalia,Sheep,Export Quantity,2007,1260337
+Somalia,Sheep,Export Quantity,2008,1506754
+Somalia,Sheep,Export Quantity,2009,1763600
+Somalia,Sheep,Export Quantity,2010,1800000
+Somalia,Sheep,Export Quantity,2011,2007934
+Somalia,Sheep,Export Quantity,2012,2182563
+Somalia,Sheep,Export Quantity,2013,2193164
+South Africa,Sheep,Import Quantity,1992,1045809
+South Africa,Sheep,Import Quantity,1995,1008660
+South Africa,Sheep,Import Quantity,1998,1370570
+Spain,Pigs,Import Quantity,1986,1156183
+Spain,Pigs,Import Quantity,1987,1009355
+Spain,Pigs,Import Quantity,1990,1058553
+Spain,Pigs,Import Quantity,1993,1390225
+Spain,Pigs,Import Quantity,1994,1487724
+Spain,Pigs,Import Quantity,1995,1633872
+Spain,Pigs,Import Quantity,1996,1726632
+Spain,Pigs,Import Quantity,1998,1110999
+Spain,Pigs,Import Quantity,1999,1288940
+Spain,Pigs,Import Quantity,2000,1266173
+Spain,Pigs,Import Quantity,2002,1477137
+Spain,Pigs,Import Quantity,2003,1270368
+Spain,Pigs,Import Quantity,2004,1092199
+Spain,Pigs,Import Quantity,2006,1426959
+Spain,Pigs,Import Quantity,2007,1983824
+Spain,Pigs,Export Quantity,2000,1235871
+Spain,Pigs,Export Quantity,2001,1020237
+Spain,Pigs,Export Quantity,2002,1134194
+Spain,Pigs,Export Quantity,2003,1129274
+Spain,Pigs,Export Quantity,2004,1453668
+Spain,Pigs,Export Quantity,2005,1458769
+Spain,Pigs,Export Quantity,2006,1307096
+Spain,Pigs,Export Quantity,2007,1782536
+Spain,Pigs,Export Quantity,2008,1466401
+Spain,Pigs,Export Quantity,2009,1955772
+Spain,Pigs,Export Quantity,2010,2020115
+Spain,Pigs,Export Quantity,2011,1678904
+Spain,Pigs,Export Quantity,2012,1517627
+Spain,Pigs,Export Quantity,2013,1417810
+Spain,Sheep,Import Quantity,1990,1221119
+Spain,Sheep,Import Quantity,1991,1323219
+Spain,Sheep,Import Quantity,1992,1314500
+Sudan,Sheep,Export Quantity,2012,3494340
+Sudan,Sheep,Export Quantity,2013,3706797
+Sudan (former),Sheep,Export Quantity,1994,1035000
+Sudan (former),Sheep,Export Quantity,1996,1187753
+Sudan (former),Sheep,Export Quantity,1997,1050367
+Sudan (former),Sheep,Export Quantity,1998,1181846
+Sudan (former),Sheep,Export Quantity,1999,1388170
+Sudan (former),Sheep,Export Quantity,2002,1576931
+Sudan (former),Sheep,Export Quantity,2003,1351685
+Sudan (former),Sheep,Export Quantity,2004,1480116
+Sudan (former),Sheep,Export Quantity,2005,1147028
+Sudan (former),Sheep,Export Quantity,2006,1040754
+Sudan (former),Sheep,Export Quantity,2009,1220055
+Sudan (former),Sheep,Export Quantity,2010,1699155
+Sudan (former),Sheep,Export Quantity,2011,2566266
+Syrian Arab Republic,Sheep,Import Quantity,1991,1114000
+Syrian Arab Republic,Sheep,Import Quantity,1992,1801847
+Syrian Arab Republic,Sheep,Import Quantity,1993,2350568
+Syrian Arab Republic,Sheep,Import Quantity,1994,1949749
+Syrian Arab Republic,Sheep,Import Quantity,1995,1087496
+Syrian Arab Republic,Sheep,Import Quantity,1996,1215000
+Syrian Arab Republic,Sheep,Export Quantity,1991,1190004
+Syrian Arab Republic,Sheep,Export Quantity,1992,1163825
+Syrian Arab Republic,Sheep,Export Quantity,1993,1045044
+Syrian Arab Republic,Sheep,Export Quantity,2002,2417933
+Syrian Arab Republic,Sheep,Export Quantity,2003,1699952
+Syrian Arab Republic,Sheep,Export Quantity,2004,2132939
+Syrian Arab Republic,Sheep,Export Quantity,2005,1700000
+Syrian Arab Republic,Sheep,Export Quantity,2006,1891926
+Syrian Arab Republic,Sheep,Export Quantity,2007,1942305
+Syrian Arab Republic,Sheep,Export Quantity,2008,1815565
+Turkey,Sheep,Import Quantity,2011,1447496
+Turkey,Sheep,Export Quantity,1981,1608592
+Turkey,Sheep,Export Quantity,1982,2008834
+Turkey,Sheep,Export Quantity,1983,2070316
+Turkey,Sheep,Export Quantity,1984,2117614
+Turkey,Sheep,Export Quantity,1985,1772296
+Turkey,Sheep,Export Quantity,1986,2583224
+Turkey,Sheep,Export Quantity,1987,2644010
+Turkey,Sheep,Export Quantity,1988,2945477
+Turkey,Sheep,Export Quantity,1989,2891687
+Turkey,Sheep,Export Quantity,1990,2276061
+Turkey,Sheep,Export Quantity,1991,1901234
+Turkey,Sheep,Export Quantity,1993,1201271
+Turkey,Sheep,Export Quantity,1994,1659933
+United Arab Emirates,Sheep,Import Quantity,1987,1150000
+United Arab Emirates,Sheep,Import Quantity,1988,1220000
+United Arab Emirates,Sheep,Import Quantity,1990,1100000
+United Arab Emirates,Sheep,Import Quantity,1991,1580000
+United Arab Emirates,Sheep,Import Quantity,1992,1450000
+United Arab Emirates,Sheep,Import Quantity,1993,1720000
+United Arab Emirates,Sheep,Import Quantity,1994,1760000
+United Arab Emirates,Sheep,Import Quantity,1995,1815000
+United Arab Emirates,Sheep,Import Quantity,1996,1846000
+United Arab Emirates,Sheep,Import Quantity,1997,1764000
+United Arab Emirates,Sheep,Import Quantity,1998,1328000
+United Kingdom,Sheep,Export Quantity,1992,1422429
+United States of America,Cattle,Import Quantity,1961,1042721
+United States of America,Cattle,Import Quantity,1962,1250029
+United States of America,Cattle,Import Quantity,1965,1128448
+United States of America,Cattle,Import Quantity,1966,1100350
+United States of America,Cattle,Import Quantity,1968,1039215
+United States of America,Cattle,Import Quantity,1969,1042725
+United States of America,Cattle,Import Quantity,1970,1167663
+United States of America,Cattle,Import Quantity,1972,1186492
+United States of America,Cattle,Import Quantity,1973,1034950
+United States of America,Cattle,Import Quantity,1977,1133279
+United States of America,Cattle,Import Quantity,1978,1252388
+United States of America,Cattle,Import Quantity,1982,1004744
+United States of America,Cattle,Import Quantity,1986,1335389
+United States of America,Cattle,Import Quantity,1987,1200484
+United States of America,Cattle,Import Quantity,1988,1332565
+United States of America,Cattle,Import Quantity,1989,1459415
+United States of America,Cattle,Import Quantity,1990,2135000
+United States of America,Cattle,Import Quantity,1991,1934416
+United States of America,Cattle,Import Quantity,1992,2255265
+United States of America,Cattle,Import Quantity,1993,2499152
+United States of America,Cattle,Import Quantity,1994,2082504
+United States of America,Cattle,Import Quantity,1995,2786245
+United States of America,Cattle,Import Quantity,1996,1966597
+United States of America,Cattle,Import Quantity,1997,2048363
+United States of America,Cattle,Import Quantity,1998,2036746
+United States of America,Cattle,Import Quantity,1999,1949566
+United States of America,Cattle,Import Quantity,2000,2191199
+United States of America,Cattle,Import Quantity,2001,2439200
+United States of America,Cattle,Import Quantity,2002,2505279
+United States of America,Cattle,Import Quantity,2003,1752576
+United States of America,Cattle,Import Quantity,2004,1373768
+United States of America,Cattle,Import Quantity,2005,1818201
+United States of America,Cattle,Import Quantity,2006,2302018
+United States of America,Cattle,Import Quantity,2007,2516092
+United States of America,Cattle,Import Quantity,2008,2313663
+United States of America,Cattle,Import Quantity,2009,2027619
+United States of America,Cattle,Import Quantity,2010,2308543
+United States of America,Cattle,Import Quantity,2011,2123930
+United States of America,Cattle,Import Quantity,2012,2141165
+United States of America,Cattle,Import Quantity,2013,2033144
+United States of America,Pigs,Import Quantity,1984,1322017
+United States of America,Pigs,Import Quantity,1985,1226571
+United States of America,Pigs,Import Quantity,1989,1073646
+United States of America,Pigs,Import Quantity,1991,1056843
+United States of America,Pigs,Import Quantity,1995,1750138
+United States of America,Pigs,Import Quantity,1996,2779175
+United States of America,Pigs,Import Quantity,1997,3179578
+United States of America,Pigs,Import Quantity,1998,4122914
+United States of America,Pigs,Import Quantity,1999,4135663
+United States of America,Pigs,Import Quantity,2000,4359355
+United States of America,Pigs,Import Quantity,2001,5337088
+United States of America,Pigs,Import Quantity,2002,5741275
+United States of America,Pigs,Import Quantity,2003,7438254
+United States of America,Pigs,Import Quantity,2004,8504507
+United States of America,Pigs,Import Quantity,2005,8190542
+United States of America,Pigs,Import Quantity,2006,8763378
+United States of America,Pigs,Import Quantity,2007,10004348
+United States of America,Pigs,Import Quantity,2008,9347924
+United States of America,Pigs,Import Quantity,2009,6364553
+United States of America,Pigs,Import Quantity,2010,5749134
+United States of America,Pigs,Import Quantity,2011,5794601
+United States of America,Pigs,Import Quantity,2012,5652276
+United States of America,Pigs,Import Quantity,2013,4958268
+United States of America,Sheep,Export Quantity,1997,1407136
+USSR,Sheep,Import Quantity,1961,1754000
+USSR,Sheep,Import Quantity,1962,1376400
+USSR,Sheep,Import Quantity,1963,1246000
+USSR,Sheep,Import Quantity,1964,1145500
+USSR,Sheep,Import Quantity,1965,1405800
+USSR,Sheep,Import Quantity,1966,1919800
+USSR,Sheep,Import Quantity,1967,1674200
+USSR,Sheep,Import Quantity,1968,1090400
+USSR,Sheep,Import Quantity,1971,1020100
+USSR,Sheep,Import Quantity,1972,1203700
+USSR,Sheep,Import Quantity,1973,1203500
+USSR,Sheep,Import Quantity,1974,1212389
+USSR,Sheep,Import Quantity,1975,1013843
+EU(12)ex.int,Cattle,Import Quantity,1990,1216052
+EU(12)ex.int,Cattle,Import Quantity,2006,1249715
+EU(12)ex.int,Pigs,Import Quantity,1991,1024589
+EU(12)ex.int,Pigs,Export Quantity,2005,1635033
+EU(12)ex.int,Pigs,Export Quantity,2006,1827576
+EU(12)ex.int,Pigs,Export Quantity,2007,2218161
+EU(12)ex.int,Pigs,Export Quantity,2008,3729244
+EU(12)ex.int,Pigs,Export Quantity,2009,6151028
+EU(12)ex.int,Pigs,Export Quantity,2010,5876288
+EU(12)ex.int,Pigs,Export Quantity,2011,6326251
+EU(12)ex.int,Pigs,Export Quantity,2012,7659318
+EU(12)ex.int,Pigs,Export Quantity,2013,7676923
+EU(12)ex.int,Sheep,Import Quantity,1986,1752310
+EU(12)ex.int,Sheep,Import Quantity,1987,2025882
+EU(12)ex.int,Sheep,Import Quantity,1988,1770485
+EU(12)ex.int,Sheep,Import Quantity,1989,2249321
+EU(12)ex.int,Sheep,Import Quantity,1990,2486782
+EU(12)ex.int,Sheep,Import Quantity,1991,2464269
+EU(12)ex.int,Sheep,Import Quantity,1992,2335599
+EU(12)ex.int,Sheep,Import Quantity,1993,1606546
+EU(12)ex.int,Sheep,Import Quantity,1994,1918306
+EU(12)ex.int,Sheep,Import Quantity,1995,1682335
+EU(12)ex.int,Sheep,Import Quantity,1996,1368757
+EU(12)ex.int,Sheep,Import Quantity,1997,1354653
+EU(12)ex.int,Sheep,Import Quantity,1998,1216807
+EU(12)ex.int,Sheep,Import Quantity,1999,1397693
+EU(12)ex.int,Sheep,Import Quantity,2000,1566811
+EU(12)ex.int,Sheep,Import Quantity,2001,1905528
+EU(12)ex.int,Sheep,Import Quantity,2002,1974850
+EU(12)ex.int,Sheep,Import Quantity,2003,2222286
+EU(12)ex.int,Sheep,Import Quantity,2004,2402707
+EU(12)ex.int,Sheep,Import Quantity,2005,1896397
+EU(12)ex.int,Sheep,Import Quantity,2006,1555996
+EU(12)ex.int,Sheep,Import Quantity,2007,1716769
+EU(12)ex.int,Sheep,Import Quantity,2008,1587048
+EU(12)ex.int,Sheep,Import Quantity,2009,1661883
+EU(12)ex.int,Sheep,Import Quantity,2010,1489487
+EU(12)ex.int,Sheep,Import Quantity,2011,1082556
+EU(12)ex.int,Sheep,Import Quantity,2012,1012458
+EU(15)ex.int,Cattle,Import Quantity,1990,1168572
+EU(15)ex.int,Cattle,Import Quantity,2006,1232081
+EU(15)ex.int,Pigs,Import Quantity,1991,1024624
+EU(15)ex.int,Pigs,Export Quantity,2005,1281602
+EU(15)ex.int,Pigs,Export Quantity,2006,1467541
+EU(15)ex.int,Pigs,Export Quantity,2007,1836722
+EU(15)ex.int,Pigs,Export Quantity,2008,3258831
+EU(15)ex.int,Pigs,Export Quantity,2009,5731004
+EU(15)ex.int,Pigs,Export Quantity,2010,5462952
+EU(15)ex.int,Pigs,Export Quantity,2011,5850583
+EU(15)ex.int,Pigs,Export Quantity,2012,7061642
+EU(15)ex.int,Pigs,Export Quantity,2013,7094826
+EU(15)ex.int,Sheep,Import Quantity,1986,1743155
+EU(15)ex.int,Sheep,Import Quantity,1987,2017669
+EU(15)ex.int,Sheep,Import Quantity,1988,1762257
+EU(15)ex.int,Sheep,Import Quantity,1989,2243005
+EU(15)ex.int,Sheep,Import Quantity,1990,2486125
+EU(15)ex.int,Sheep,Import Quantity,1991,2462259
+EU(15)ex.int,Sheep,Import Quantity,1992,2333111
+EU(15)ex.int,Sheep,Import Quantity,1993,1605275
+EU(15)ex.int,Sheep,Import Quantity,1994,1917935
+EU(15)ex.int,Sheep,Import Quantity,1995,1682098
+EU(15)ex.int,Sheep,Import Quantity,1996,1365227
+EU(15)ex.int,Sheep,Import Quantity,1997,1339264
+EU(15)ex.int,Sheep,Import Quantity,1998,1200144
+EU(15)ex.int,Sheep,Import Quantity,1999,1383296
+EU(15)ex.int,Sheep,Import Quantity,2000,1555036
+EU(15)ex.int,Sheep,Import Quantity,2001,1896998
+EU(15)ex.int,Sheep,Import Quantity,2002,1968464
+EU(15)ex.int,Sheep,Import Quantity,2003,2217802
+EU(15)ex.int,Sheep,Import Quantity,2004,2411204
+EU(15)ex.int,Sheep,Import Quantity,2005,1903298
+EU(15)ex.int,Sheep,Import Quantity,2006,1563898
+EU(15)ex.int,Sheep,Import Quantity,2007,1714184
+EU(15)ex.int,Sheep,Import Quantity,2008,1581112
+EU(15)ex.int,Sheep,Import Quantity,2009,1659167
+EU(15)ex.int,Sheep,Import Quantity,2010,1479417
+EU(15)ex.int,Sheep,Import Quantity,2011,1064283
+EU(25)ex.int,Pigs,Export Quantity,2006,1153273
+EU(25)ex.int,Pigs,Export Quantity,2007,1165376
+EU(25)ex.int,Pigs,Export Quantity,2008,2210195
+EU(25)ex.int,Pigs,Export Quantity,2009,3412785
+EU(25)ex.int,Pigs,Export Quantity,2010,2583085
+EU(25)ex.int,Pigs,Export Quantity,2011,2367921
+EU(25)ex.int,Pigs,Export Quantity,2012,2087829
+EU(25)ex.int,Pigs,Export Quantity,2013,1776981
+EU(25)ex.int,Sheep,Import Quantity,2003,1258340
+EU(25)ex.int,Sheep,Import Quantity,2004,1627669
+EU(27)ex.int,Pigs,Export Quantity,2008,1638800
+EU(27)ex.int,Pigs,Export Quantity,2009,2363862
+EU(27)ex.int,Pigs,Export Quantity,2010,1789263
+EU(27)ex.int,Pigs,Export Quantity,2011,1647658
+EU(27)ex.int,Pigs,Export Quantity,2012,1278868
+EU(27)ex.int,Sheep,Export Quantity,1986,1169502
+EU(27)ex.int,Sheep,Export Quantity,1987,1335137
+EU(27)ex.int,Sheep,Export Quantity,1988,2144015
+EU(27)ex.int,Sheep,Export Quantity,1993,1707345
+EU(27)ex.int,Sheep,Export Quantity,1994,1485958
+EU(27)ex.int,Sheep,Export Quantity,1995,1207035
+EU(27)ex.int,Sheep,Export Quantity,1996,1215817
+EU(27)ex.int,Sheep,Export Quantity,2011,1451842
+EU(27)ex.int,Sheep,Export Quantity,2012,1628736
+EU(27)ex.int,Sheep,Export Quantity,2013,1865593
+European Union (exc intra-trade),Pigs,Export Quantity,2008,1135161
+European Union (exc intra-trade),Pigs,Export Quantity,2009,1690306
+European Union (exc intra-trade),Pigs,Export Quantity,2010,1186105
+European Union (exc intra-trade),Pigs,Export Quantity,2011,1072634
+European Union (exc intra-trade),Sheep,Export Quantity,1986,1169502
+European Union (exc intra-trade),Sheep,Export Quantity,1987,1335137
+European Union (exc intra-trade),Sheep,Export Quantity,1988,2144015
+European Union (exc intra-trade),Sheep,Export Quantity,1993,1695101
+European Union (exc intra-trade),Sheep,Export Quantity,1994,1465830
+European Union (exc intra-trade),Sheep,Export Quantity,1995,1198732
+European Union (exc intra-trade),Sheep,Export Quantity,1996,1202545
+European Union (exc intra-trade),Sheep,Export Quantity,2011,1434035
+European Union (exc intra-trade),Sheep,Export Quantity,2012,1623196
+European Union (exc intra-trade),Sheep,Export Quantity,2013,1858715
+World,Cattle,Import Quantity,1961,4877748
+World,Cattle,Import Quantity,1962,4823036
+World,Cattle,Import Quantity,1963,5142409
+World,Cattle,Import Quantity,1964,4722758
+World,Cattle,Import Quantity,1965,5276023
+World,Cattle,Import Quantity,1966,5216323
+World,Cattle,Import Quantity,1967,5413233
+World,Cattle,Import Quantity,1968,6204999
+World,Cattle,Import Quantity,1969,6637519
+World,Cattle,Import Quantity,1970,6728287
+World,Cattle,Import Quantity,1971,6917929
+World,Cattle,Import Quantity,1972,7701480
+World,Cattle,Import Quantity,1973,6855339
+World,Cattle,Import Quantity,1974,5744028
+World,Cattle,Import Quantity,1975,6071843
+World,Cattle,Import Quantity,1976,6457131
+World,Cattle,Import Quantity,1977,6615485
+World,Cattle,Import Quantity,1978,7173987
+World,Cattle,Import Quantity,1979,7169439
+World,Cattle,Import Quantity,1980,6626151
+World,Cattle,Import Quantity,1981,6967862
+World,Cattle,Import Quantity,1982,7253318
+World,Cattle,Import Quantity,1983,6752582
+World,Cattle,Import Quantity,1984,6535309
+World,Cattle,Import Quantity,1985,6604143
+World,Cattle,Import Quantity,1986,6968235
+World,Cattle,Import Quantity,1987,6969479
+World,Cattle,Import Quantity,1988,6892402
+World,Cattle,Import Quantity,1989,7210798
+World,Cattle,Import Quantity,1990,8215949
+World,Cattle,Import Quantity,1991,8166923
+World,Cattle,Import Quantity,1992,9138992
+World,Cattle,Import Quantity,1993,8528332
+World,Cattle,Import Quantity,1994,9174114
+World,Cattle,Import Quantity,1995,9727461
+World,Cattle,Import Quantity,1996,8460488
+World,Cattle,Import Quantity,1997,8953148
+World,Cattle,Import Quantity,1998,8582999
+World,Cattle,Import Quantity,1999,8749072
+World,Cattle,Import Quantity,2000,8731547
+World,Cattle,Import Quantity,2001,7903498
+World,Cattle,Import Quantity,2002,8401545
+World,Cattle,Import Quantity,2003,7523937
+World,Cattle,Import Quantity,2004,7770165
+World,Cattle,Import Quantity,2005,8120390
+World,Cattle,Import Quantity,2006,9157360
+World,Cattle,Import Quantity,2007,9137060
+World,Cattle,Import Quantity,2008,8763013
+World,Cattle,Import Quantity,2009,9572363
+World,Cattle,Import Quantity,2010,10694311
+World,Cattle,Import Quantity,2011,10324659
+World,Cattle,Import Quantity,2012,10139567
+World,Cattle,Import Quantity,2013,11022746
+World,Cattle,Export Quantity,1961,4860845
+World,Cattle,Export Quantity,1962,4776661
+World,Cattle,Export Quantity,1963,4954209
+World,Cattle,Export Quantity,1964,4691135
+World,Cattle,Export Quantity,1965,5265195
+World,Cattle,Export Quantity,1966,4999088
+World,Cattle,Export Quantity,1967,5269931
+World,Cattle,Export Quantity,1968,5996701
+World,Cattle,Export Quantity,1969,6354417
+World,Cattle,Export Quantity,1970,6678945
+World,Cattle,Export Quantity,1971,6692530
+World,Cattle,Export Quantity,1972,7532291
+World,Cattle,Export Quantity,1973,6662933
+World,Cattle,Export Quantity,1974,5756623
+World,Cattle,Export Quantity,1975,6637354
+World,Cattle,Export Quantity,1976,6729617
+World,Cattle,Export Quantity,1977,6625715
+World,Cattle,Export Quantity,1978,7549871
+World,Cattle,Export Quantity,1979,7374365
+World,Cattle,Export Quantity,1980,7007173
+World,Cattle,Export Quantity,1981,7256589
+World,Cattle,Export Quantity,1982,7675840
+World,Cattle,Export Quantity,1983,7083810
+World,Cattle,Export Quantity,1984,6692169
+World,Cattle,Export Quantity,1985,6395363
+World,Cattle,Export Quantity,1986,7102652
+World,Cattle,Export Quantity,1987,7352485
+World,Cattle,Export Quantity,1988,7315343
+World,Cattle,Export Quantity,1989,7260964
+World,Cattle,Export Quantity,1990,7971806
+World,Cattle,Export Quantity,1991,8336892
+World,Cattle,Export Quantity,1992,9152462
+World,Cattle,Export Quantity,1993,8887068
+World,Cattle,Export Quantity,1994,9710899
+World,Cattle,Export Quantity,1995,10336851
+World,Cattle,Export Quantity,1996,8848597
+World,Cattle,Export Quantity,1997,9353001
+World,Cattle,Export Quantity,1998,9006204
+World,Cattle,Export Quantity,1999,9299697
+World,Cattle,Export Quantity,2000,9383245
+World,Cattle,Export Quantity,2001,8714958
+World,Cattle,Export Quantity,2002,9047959
+World,Cattle,Export Quantity,2003,7901687
+World,Cattle,Export Quantity,2004,8031460
+World,Cattle,Export Quantity,2005,8316331
+World,Cattle,Export Quantity,2006,9613465
+World,Cattle,Export Quantity,2007,9233969
+World,Cattle,Export Quantity,2008,9073567
+World,Cattle,Export Quantity,2009,9576520
+World,Cattle,Export Quantity,2010,10930750
+World,Cattle,Export Quantity,2011,10409329
+World,Cattle,Export Quantity,2012,10228282
+World,Cattle,Export Quantity,2013,10818306
+World,Chickens,Import Quantity,2008,1003035
+World,Chickens,Import Quantity,2009,1141247
+World,Chickens,Import Quantity,2010,1259798
+World,Chickens,Import Quantity,2011,1331706
+World,Chickens,Import Quantity,2012,1434216
+World,Chickens,Import Quantity,2013,1430284
+World,Chickens,Export Quantity,2008,1040847
+World,Chickens,Export Quantity,2009,1204778
+World,Chickens,Export Quantity,2010,1381812
+World,Chickens,Export Quantity,2011,1444591
+World,Chickens,Export Quantity,2012,1499191
+World,Chickens,Export Quantity,2013,1563085
+World,Pigs,Import Quantity,1961,2568425
+World,Pigs,Import Quantity,1962,2523357
+World,Pigs,Import Quantity,1963,2369753
+World,Pigs,Import Quantity,1964,2887066
+World,Pigs,Import Quantity,1965,3574563
+World,Pigs,Import Quantity,1966,3429530
+World,Pigs,Import Quantity,1967,3177663
+World,Pigs,Import Quantity,1968,3373834
+World,Pigs,Import Quantity,1969,3975271
+World,Pigs,Import Quantity,1970,4386174
+World,Pigs,Import Quantity,1971,5392080
+World,Pigs,Import Quantity,1972,5962105
+World,Pigs,Import Quantity,1973,5774391
+World,Pigs,Import Quantity,1974,5989284
+World,Pigs,Import Quantity,1975,6376017
+World,Pigs,Import Quantity,1976,6806885
+World,Pigs,Import Quantity,1977,6700541
+World,Pigs,Import Quantity,1978,7763533
+World,Pigs,Import Quantity,1979,8095896
+World,Pigs,Import Quantity,1980,10508484
+World,Pigs,Import Quantity,1981,9723118
+World,Pigs,Import Quantity,1982,8988622
+World,Pigs,Import Quantity,1983,9371015
+World,Pigs,Import Quantity,1984,9998182
+World,Pigs,Import Quantity,1985,10229805
+World,Pigs,Import Quantity,1986,11835680
+World,Pigs,Import Quantity,1987,12288343
+World,Pigs,Import Quantity,1988,12680194
+World,Pigs,Import Quantity,1989,13281765
+World,Pigs,Import Quantity,1990,13252574
+World,Pigs,Import Quantity,1991,13421214
+World,Pigs,Import Quantity,1992,13955929
+World,Pigs,Import Quantity,1993,12058542
+World,Pigs,Import Quantity,1994,12566461
+World,Pigs,Import Quantity,1995,13315078
+World,Pigs,Import Quantity,1996,15773449
+World,Pigs,Import Quantity,1997,11572164
+World,Pigs,Import Quantity,1998,14732508
+World,Pigs,Import Quantity,1999,14906606
+World,Pigs,Import Quantity,2000,15827179
+World,Pigs,Import Quantity,2001,16178505
+World,Pigs,Import Quantity,2002,18098806
+World,Pigs,Import Quantity,2003,19989009
+World,Pigs,Import Quantity,2004,21845648
+World,Pigs,Import Quantity,2005,23914036
+World,Pigs,Import Quantity,2006,26814140
+World,Pigs,Import Quantity,2007,30628058
+World,Pigs,Import Quantity,2008,31610086
+World,Pigs,Import Quantity,2009,32884145
+World,Pigs,Import Quantity,2010,33659482
+World,Pigs,Import Quantity,2011,34826870
+World,Pigs,Import Quantity,2012,37201417
+World,Pigs,Import Quantity,2013,36867565
+World,Pigs,Export Quantity,1961,2616304
+World,Pigs,Export Quantity,1962,2697902
+World,Pigs,Export Quantity,1963,2396167
+World,Pigs,Export Quantity,1964,2890291
+World,Pigs,Export Quantity,1965,3639030
+World,Pigs,Export Quantity,1966,3397153
+World,Pigs,Export Quantity,1967,3197924
+World,Pigs,Export Quantity,1968,3437358
+World,Pigs,Export Quantity,1969,3971789
+World,Pigs,Export Quantity,1970,4642501
+World,Pigs,Export Quantity,1971,5387540
+World,Pigs,Export Quantity,1972,6096905
+World,Pigs,Export Quantity,1973,5931493
+World,Pigs,Export Quantity,1974,6070686
+World,Pigs,Export Quantity,1975,6428206
+World,Pigs,Export Quantity,1976,6945088
+World,Pigs,Export Quantity,1977,6941538
+World,Pigs,Export Quantity,1978,7762468
+World,Pigs,Export Quantity,1979,8233820
+World,Pigs,Export Quantity,1980,10537143
+World,Pigs,Export Quantity,1981,9627088
+World,Pigs,Export Quantity,1982,9114772
+World,Pigs,Export Quantity,1983,9324876
+World,Pigs,Export Quantity,1984,9908794
+World,Pigs,Export Quantity,1985,10034443
+World,Pigs,Export Quantity,1986,11652758
+World,Pigs,Export Quantity,1987,12019761
+World,Pigs,Export Quantity,1988,12472012
+World,Pigs,Export Quantity,1989,13306178
+World,Pigs,Export Quantity,1990,12902228
+World,Pigs,Export Quantity,1991,13633415
+World,Pigs,Export Quantity,1992,14209127
+World,Pigs,Export Quantity,1993,12296372
+World,Pigs,Export Quantity,1994,13682145
+World,Pigs,Export Quantity,1995,13976688
+World,Pigs,Export Quantity,1996,16094133
+World,Pigs,Export Quantity,1997,12974457
+World,Pigs,Export Quantity,1998,14970023
+World,Pigs,Export Quantity,1999,15914615
+World,Pigs,Export Quantity,2000,15747091
+World,Pigs,Export Quantity,2001,15542702
+World,Pigs,Export Quantity,2002,17112673
+World,Pigs,Export Quantity,2003,20609394
+World,Pigs,Export Quantity,2004,22674582
+World,Pigs,Export Quantity,2005,24270289
+World,Pigs,Export Quantity,2006,27067903
+World,Pigs,Export Quantity,2007,30787914
+World,Pigs,Export Quantity,2008,32121942
+World,Pigs,Export Quantity,2009,34365371
+World,Pigs,Export Quantity,2010,35121992
+World,Pigs,Export Quantity,2011,35346197
+World,Pigs,Export Quantity,2012,37154844
+World,Pigs,Export Quantity,2013,38577345
+World,Sheep,Import Quantity,1961,6828414
+World,Sheep,Import Quantity,1962,6788744
+World,Sheep,Import Quantity,1963,7009139
+World,Sheep,Import Quantity,1964,6784551
+World,Sheep,Import Quantity,1965,7401752
+World,Sheep,Import Quantity,1966,8047941
+World,Sheep,Import Quantity,1967,6922528
+World,Sheep,Import Quantity,1968,8828704
+World,Sheep,Import Quantity,1969,7932899
+World,Sheep,Import Quantity,1970,7993385
+World,Sheep,Import Quantity,1971,8560945
+World,Sheep,Import Quantity,1972,10039218
+World,Sheep,Import Quantity,1973,8340549
+World,Sheep,Import Quantity,1974,8643679
+World,Sheep,Import Quantity,1975,9258035
+World,Sheep,Import Quantity,1976,9031274
+World,Sheep,Import Quantity,1977,11408152
+World,Sheep,Import Quantity,1978,12171858
+World,Sheep,Import Quantity,1979,14289614
+World,Sheep,Import Quantity,1980,15811281
+World,Sheep,Import Quantity,1981,17426171
+World,Sheep,Import Quantity,1982,17746366
+World,Sheep,Import Quantity,1983,19266678
+World,Sheep,Import Quantity,1984,19293908
+World,Sheep,Import Quantity,1985,18278837
+World,Sheep,Import Quantity,1986,18073623
+World,Sheep,Import Quantity,1987,19402416
+World,Sheep,Import Quantity,1988,19404323
+World,Sheep,Import Quantity,1989,17888042
+World,Sheep,Import Quantity,1990,18308918
+World,Sheep,Import Quantity,1991,21390166
+World,Sheep,Import Quantity,1992,22854188
+World,Sheep,Import Quantity,1993,23986902
+World,Sheep,Import Quantity,1994,22086812
+World,Sheep,Import Quantity,1995,19870342
+World,Sheep,Import Quantity,1996,19774223
+World,Sheep,Import Quantity,1997,17424378
+World,Sheep,Import Quantity,1998,16275995
+World,Sheep,Import Quantity,1999,16653698
+World,Sheep,Import Quantity,2000,16121593
+World,Sheep,Import Quantity,2001,14214737
+World,Sheep,Import Quantity,2002,17689112
+World,Sheep,Import Quantity,2003,16024897
+World,Sheep,Import Quantity,2004,15055648
+World,Sheep,Import Quantity,2005,16717944
+World,Sheep,Import Quantity,2006,16340468
+World,Sheep,Import Quantity,2007,15199540
+World,Sheep,Import Quantity,2008,14811223
+World,Sheep,Import Quantity,2009,14250038
+World,Sheep,Import Quantity,2010,15029553
+World,Sheep,Import Quantity,2011,15227632
+World,Sheep,Import Quantity,2012,15382545
+World,Sheep,Import Quantity,2013,15315290
+World,Sheep,Export Quantity,1961,6508924
+World,Sheep,Export Quantity,1962,6453619
+World,Sheep,Export Quantity,1963,6838941
+World,Sheep,Export Quantity,1964,6565537
+World,Sheep,Export Quantity,1965,7214460
+World,Sheep,Export Quantity,1966,7733079
+World,Sheep,Export Quantity,1967,7413742
+World,Sheep,Export Quantity,1968,8197642
+World,Sheep,Export Quantity,1969,8167416
+World,Sheep,Export Quantity,1970,8452086
+World,Sheep,Export Quantity,1971,8747670
+World,Sheep,Export Quantity,1972,9208471
+World,Sheep,Export Quantity,1973,9279487
+World,Sheep,Export Quantity,1974,8683339
+World,Sheep,Export Quantity,1975,9953823
+World,Sheep,Export Quantity,1976,9461649
+World,Sheep,Export Quantity,1977,11140984
+World,Sheep,Export Quantity,1978,13098794
+World,Sheep,Export Quantity,1979,13324703
+World,Sheep,Export Quantity,1980,16427593
+World,Sheep,Export Quantity,1981,15821235
+World,Sheep,Export Quantity,1982,16387286
+World,Sheep,Export Quantity,1983,18412441
+World,Sheep,Export Quantity,1984,17723175
+World,Sheep,Export Quantity,1985,16626285
+World,Sheep,Export Quantity,1986,17008061
+World,Sheep,Export Quantity,1987,19974891
+World,Sheep,Export Quantity,1988,20372290
+World,Sheep,Export Quantity,1989,20587061
+World,Sheep,Export Quantity,1990,19032763
+World,Sheep,Export Quantity,1991,21805439
+World,Sheep,Export Quantity,1992,23106001
+World,Sheep,Export Quantity,1993,21655983
+World,Sheep,Export Quantity,1994,23427122
+World,Sheep,Export Quantity,1995,20627856
+World,Sheep,Export Quantity,1996,19964996
+World,Sheep,Export Quantity,1997,18593496
+World,Sheep,Export Quantity,1998,17062832
+World,Sheep,Export Quantity,1999,17598842
+World,Sheep,Export Quantity,2000,16083988
+World,Sheep,Export Quantity,2001,15037460
+World,Sheep,Export Quantity,2002,18739854
+World,Sheep,Export Quantity,2003,16487226
+World,Sheep,Export Quantity,2004,15577171
+World,Sheep,Export Quantity,2005,17032915
+World,Sheep,Export Quantity,2006,16342830
+World,Sheep,Export Quantity,2007,15444367
+World,Sheep,Export Quantity,2008,15302385
+World,Sheep,Export Quantity,2009,14187553
+World,Sheep,Export Quantity,2010,15169251
+World,Sheep,Export Quantity,2011,15234284
+World,Sheep,Export Quantity,2012,15574578
+World,Sheep,Export Quantity,2013,16372996
+Africa,Cattle,Import Quantity,1961,1133978
+Africa,Cattle,Import Quantity,1962,1119776
+Africa,Cattle,Import Quantity,1963,1313519
+Africa,Cattle,Import Quantity,1964,1280529
+Africa,Cattle,Import Quantity,1965,1208581
+Africa,Cattle,Import Quantity,1966,1174012
+Africa,Cattle,Import Quantity,1967,1187151
+Africa,Cattle,Import Quantity,1968,1244960
+Africa,Cattle,Import Quantity,1969,1318015
+Africa,Cattle,Import Quantity,1970,1362985
+Africa,Cattle,Import Quantity,1971,1450669
+Africa,Cattle,Import Quantity,1972,1529591
+Africa,Cattle,Import Quantity,1973,1406724
+Africa,Cattle,Import Quantity,1974,1272945
+Africa,Cattle,Import Quantity,1977,1067622
+Africa,Cattle,Import Quantity,1978,1194335
+Africa,Cattle,Import Quantity,1979,1244534
+Africa,Cattle,Import Quantity,1980,1291948
+Africa,Cattle,Import Quantity,1981,1548379
+Africa,Cattle,Import Quantity,1982,1293827
+Africa,Cattle,Import Quantity,1983,1313894
+Africa,Cattle,Import Quantity,1984,1344384
+Africa,Cattle,Import Quantity,1985,1005119
+Africa,Cattle,Import Quantity,1994,1129383
+Africa,Cattle,Import Quantity,1995,1156093
+Africa,Cattle,Import Quantity,1996,1110453
+Africa,Cattle,Import Quantity,1997,1101837
+Africa,Cattle,Import Quantity,1998,1246999
+Africa,Cattle,Import Quantity,1999,1095731
+Africa,Cattle,Import Quantity,2000,1010716
+Africa,Cattle,Import Quantity,2001,1075903
+Africa,Cattle,Import Quantity,2002,1072047
+Africa,Cattle,Import Quantity,2005,1015722
+Africa,Cattle,Import Quantity,2006,1049460
+Africa,Cattle,Import Quantity,2008,1050475
+Africa,Cattle,Import Quantity,2009,1074337
+Africa,Cattle,Import Quantity,2010,1197650
+Africa,Cattle,Import Quantity,2011,1641003
+Africa,Cattle,Import Quantity,2012,1345645
+Africa,Cattle,Import Quantity,2013,1496075
+Africa,Cattle,Export Quantity,1961,1195315
+Africa,Cattle,Export Quantity,1962,1154922
+Africa,Cattle,Export Quantity,1963,1240812
+Africa,Cattle,Export Quantity,1964,1212405
+Africa,Cattle,Export Quantity,1965,1168765
+Africa,Cattle,Export Quantity,1966,1148561
+Africa,Cattle,Export Quantity,1967,1140442
+Africa,Cattle,Export Quantity,1968,1194749
+Africa,Cattle,Export Quantity,1969,1221926
+Africa,Cattle,Export Quantity,1970,1333869
+Africa,Cattle,Export Quantity,1971,1359866
+Africa,Cattle,Export Quantity,1972,1560019
+Africa,Cattle,Export Quantity,1973,1444810
+Africa,Cattle,Export Quantity,1974,1252442
+Africa,Cattle,Export Quantity,1975,1025649
+Africa,Cattle,Export Quantity,1976,1150303
+Africa,Cattle,Export Quantity,1977,1156115
+Africa,Cattle,Export Quantity,1978,1238062
+Africa,Cattle,Export Quantity,1979,1315741
+Africa,Cattle,Export Quantity,1980,1457115
+Africa,Cattle,Export Quantity,1981,1580368
+Africa,Cattle,Export Quantity,1982,1486653
+Africa,Cattle,Export Quantity,1983,1228602
+Africa,Cattle,Export Quantity,1984,1139313
+Africa,Cattle,Export Quantity,1996,1074605
+Africa,Cattle,Export Quantity,2008,1044504
+Africa,Cattle,Export Quantity,2010,1100703
+Africa,Cattle,Export Quantity,2011,1064781
+Africa,Cattle,Export Quantity,2012,1102383
+Africa,Cattle,Export Quantity,2013,1591695
+Africa,Sheep,Import Quantity,1961,1288351
+Africa,Sheep,Import Quantity,1962,1420831
+Africa,Sheep,Import Quantity,1963,1605245
+Africa,Sheep,Import Quantity,1964,1358375
+Africa,Sheep,Import Quantity,1965,1205846
+Africa,Sheep,Import Quantity,1966,1412844
+Africa,Sheep,Import Quantity,1967,1574384
+Africa,Sheep,Import Quantity,1968,1697549
+Africa,Sheep,Import Quantity,1969,1726874
+Africa,Sheep,Import Quantity,1970,1788700
+Africa,Sheep,Import Quantity,1971,2070162
+Africa,Sheep,Import Quantity,1972,1920595
+Africa,Sheep,Import Quantity,1973,1999966
+Africa,Sheep,Import Quantity,1974,1985785
+Africa,Sheep,Import Quantity,1975,1765998
+Africa,Sheep,Import Quantity,1976,1566850
+Africa,Sheep,Import Quantity,1977,2232141
+Africa,Sheep,Import Quantity,1978,2808220
+Africa,Sheep,Import Quantity,1979,2671903
+Africa,Sheep,Import Quantity,1980,2792686
+Africa,Sheep,Import Quantity,1981,3821823
+Africa,Sheep,Import Quantity,1982,3064422
+Africa,Sheep,Import Quantity,1983,3244125
+Africa,Sheep,Import Quantity,1984,3324725
+Africa,Sheep,Import Quantity,1985,2529381
+Africa,Sheep,Import Quantity,1986,2131737
+Africa,Sheep,Import Quantity,1987,2923876
+Africa,Sheep,Import Quantity,1988,2636154
+Africa,Sheep,Import Quantity,1989,2191580
+Africa,Sheep,Import Quantity,1990,1757162
+Africa,Sheep,Import Quantity,1991,1997626
+Africa,Sheep,Import Quantity,1992,2223147
+Africa,Sheep,Import Quantity,1993,1955284
+Africa,Sheep,Import Quantity,1994,1765292
+Africa,Sheep,Import Quantity,1995,2309914
+Africa,Sheep,Import Quantity,1996,2423230
+Africa,Sheep,Import Quantity,1997,1953341
+Africa,Sheep,Import Quantity,1998,2368388
+Africa,Sheep,Import Quantity,1999,1322833
+Africa,Sheep,Import Quantity,2000,1675009
+Africa,Sheep,Import Quantity,2001,2307611
+Africa,Sheep,Import Quantity,2002,1721684
+Africa,Sheep,Import Quantity,2003,1578597
+Africa,Sheep,Import Quantity,2004,1435524
+Africa,Sheep,Import Quantity,2005,1373537
+Africa,Sheep,Import Quantity,2006,1633735
+Africa,Sheep,Import Quantity,2007,1362564
+Africa,Sheep,Import Quantity,2008,1579889
+Africa,Sheep,Import Quantity,2009,1238321
+Africa,Sheep,Import Quantity,2010,1826635
+Africa,Sheep,Import Quantity,2011,1688352
+Africa,Sheep,Import Quantity,2012,2445842
+Africa,Sheep,Import Quantity,2013,2470303
+Africa,Sheep,Export Quantity,1961,1973938
+Africa,Sheep,Export Quantity,1962,2036887
+Africa,Sheep,Export Quantity,1963,2116872
+Africa,Sheep,Export Quantity,1964,2219979
+Africa,Sheep,Export Quantity,1965,1983664
+Africa,Sheep,Export Quantity,1966,2052439
+Africa,Sheep,Export Quantity,1967,2137972
+Africa,Sheep,Export Quantity,1968,2437265
+Africa,Sheep,Export Quantity,1969,2406175
+Africa,Sheep,Export Quantity,1970,2135147
+Africa,Sheep,Export Quantity,1971,2089142
+Africa,Sheep,Export Quantity,1972,2359281
+Africa,Sheep,Export Quantity,1973,2277544
+Africa,Sheep,Export Quantity,1974,2235118
+Africa,Sheep,Export Quantity,1975,2186595
+Africa,Sheep,Export Quantity,1976,1843980
+Africa,Sheep,Export Quantity,1977,1855435
+Africa,Sheep,Export Quantity,1978,2186114
+Africa,Sheep,Export Quantity,1979,2249059
+Africa,Sheep,Export Quantity,1980,2557914
+Africa,Sheep,Export Quantity,1981,2997998
+Africa,Sheep,Export Quantity,1982,2952173
+Africa,Sheep,Export Quantity,1983,2310777
+Africa,Sheep,Export Quantity,1984,2169549
+Africa,Sheep,Export Quantity,1985,2924223
+Africa,Sheep,Export Quantity,1986,2297076
+Africa,Sheep,Export Quantity,1987,2182493
+Africa,Sheep,Export Quantity,1988,2206291
+Africa,Sheep,Export Quantity,1989,2266514
+Africa,Sheep,Export Quantity,1990,2700700
+Africa,Sheep,Export Quantity,1991,2437053
+Africa,Sheep,Export Quantity,1992,3428462
+Africa,Sheep,Export Quantity,1993,3738966
+Africa,Sheep,Export Quantity,1994,4025897
+Africa,Sheep,Export Quantity,1995,4133347
+Africa,Sheep,Export Quantity,1996,4455911
+Africa,Sheep,Export Quantity,1997,4210969
+Africa,Sheep,Export Quantity,1998,4441192
+Africa,Sheep,Export Quantity,1999,4855347
+Africa,Sheep,Export Quantity,2000,3357216
+Africa,Sheep,Export Quantity,2001,2366234
+Africa,Sheep,Export Quantity,2002,4944583
+Africa,Sheep,Export Quantity,2003,4464885
+Africa,Sheep,Export Quantity,2004,4080294
+Africa,Sheep,Export Quantity,2005,3995182
+Africa,Sheep,Export Quantity,2006,3715451
+Africa,Sheep,Export Quantity,2007,3088662
+Africa,Sheep,Export Quantity,2008,3344517
+Africa,Sheep,Export Quantity,2009,4019376
+Africa,Sheep,Export Quantity,2010,4979454
+Africa,Sheep,Export Quantity,2011,5705195
+Africa,Sheep,Export Quantity,2012,6908266
+Africa,Sheep,Export Quantity,2013,7614543
+Eastern Africa,Sheep,Export Quantity,1993,1238840
+Eastern Africa,Sheep,Export Quantity,1994,1185554
+Eastern Africa,Sheep,Export Quantity,1995,1343249
+Eastern Africa,Sheep,Export Quantity,1996,1403111
+Eastern Africa,Sheep,Export Quantity,1997,1693005
+Eastern Africa,Sheep,Export Quantity,1998,1204653
+Eastern Africa,Sheep,Export Quantity,1999,2332232
+Eastern Africa,Sheep,Export Quantity,2000,1541683
+Eastern Africa,Sheep,Export Quantity,2002,1460685
+Eastern Africa,Sheep,Export Quantity,2003,1647123
+Eastern Africa,Sheep,Export Quantity,2004,1210902
+Eastern Africa,Sheep,Export Quantity,2005,1431418
+Eastern Africa,Sheep,Export Quantity,2006,1485817
+Eastern Africa,Sheep,Export Quantity,2007,1274711
+Eastern Africa,Sheep,Export Quantity,2008,1554380
+Eastern Africa,Sheep,Export Quantity,2009,1893404
+Eastern Africa,Sheep,Export Quantity,2010,1925529
+Eastern Africa,Sheep,Export Quantity,2011,2278913
+Eastern Africa,Sheep,Export Quantity,2012,2527772
+Eastern Africa,Sheep,Export Quantity,2013,2892674
+Northern Africa,Sheep,Import Quantity,1971,1088890
+Northern Africa,Sheep,Import Quantity,1973,1044644
+Northern Africa,Sheep,Import Quantity,1974,1057694
+Northern Africa,Sheep,Import Quantity,1977,1394884
+Northern Africa,Sheep,Import Quantity,1978,1918909
+Northern Africa,Sheep,Import Quantity,1979,1853244
+Northern Africa,Sheep,Import Quantity,1980,1996429
+Northern Africa,Sheep,Import Quantity,1981,2531899
+Northern Africa,Sheep,Import Quantity,1982,1977714
+Northern Africa,Sheep,Import Quantity,1983,2366826
+Northern Africa,Sheep,Import Quantity,1984,2358200
+Northern Africa,Sheep,Import Quantity,1985,1259821
+Northern Africa,Sheep,Import Quantity,1987,1744568
+Northern Africa,Sheep,Import Quantity,1988,1474112
+Northern Africa,Sheep,Import Quantity,2012,1027327
+Northern Africa,Sheep,Import Quantity,2013,1357873
+Northern Africa,Sheep,Export Quantity,1994,1035117
+Northern Africa,Sheep,Export Quantity,1996,1192401
+Northern Africa,Sheep,Export Quantity,1997,1054207
+Northern Africa,Sheep,Export Quantity,1998,1187160
+Northern Africa,Sheep,Export Quantity,1999,1388170
+Northern Africa,Sheep,Export Quantity,2002,1576931
+Northern Africa,Sheep,Export Quantity,2003,1363922
+Northern Africa,Sheep,Export Quantity,2004,1480370
+Northern Africa,Sheep,Export Quantity,2005,1152052
+Northern Africa,Sheep,Export Quantity,2006,1040754
+Northern Africa,Sheep,Export Quantity,2009,1222798
+Northern Africa,Sheep,Export Quantity,2010,1699566
+Northern Africa,Sheep,Export Quantity,2011,2566364
+Northern Africa,Sheep,Export Quantity,2012,3495440
+Northern Africa,Sheep,Export Quantity,2013,3707214
+Southern Africa,Sheep,Import Quantity,1992,1151303
+Southern Africa,Sheep,Import Quantity,1994,1007550
+Southern Africa,Sheep,Import Quantity,1995,1120160
+Southern Africa,Sheep,Import Quantity,1997,1021561
+Southern Africa,Sheep,Import Quantity,1998,1515170
+Southern Africa,Sheep,Export Quantity,1992,1060828
+Southern Africa,Sheep,Export Quantity,1995,1009407
+Southern Africa,Sheep,Export Quantity,1998,1086510
+Western Africa,Sheep,Import Quantity,2010,1215531
+Western Africa,Sheep,Export Quantity,2001,1129899
+Western Africa,Sheep,Export Quantity,2002,1241285
+Western Africa,Sheep,Export Quantity,2008,1123673
+Western Africa,Sheep,Export Quantity,2010,1181931
+Americas,Cattle,Import Quantity,1961,1477866
+Americas,Cattle,Import Quantity,1962,1750618
+Americas,Cattle,Import Quantity,1963,1351620
+Americas,Cattle,Import Quantity,1965,1497386
+Americas,Cattle,Import Quantity,1966,1499366
+Americas,Cattle,Import Quantity,1967,1224267
+Americas,Cattle,Import Quantity,1968,1409595
+Americas,Cattle,Import Quantity,1969,1449818
+Americas,Cattle,Import Quantity,1970,1597466
+Americas,Cattle,Import Quantity,1971,1507983
+Americas,Cattle,Import Quantity,1972,1750184
+Americas,Cattle,Import Quantity,1973,1676090
+Americas,Cattle,Import Quantity,1974,1170854
+Americas,Cattle,Import Quantity,1976,1689398
+Americas,Cattle,Import Quantity,1977,1671270
+Americas,Cattle,Import Quantity,1978,1916243
+Americas,Cattle,Import Quantity,1979,1682252
+Americas,Cattle,Import Quantity,1980,1144397
+Americas,Cattle,Import Quantity,1981,1276309
+Americas,Cattle,Import Quantity,1982,1514261
+Americas,Cattle,Import Quantity,1983,1164371
+Americas,Cattle,Import Quantity,1984,1022677
+Americas,Cattle,Import Quantity,1985,1072170
+Americas,Cattle,Import Quantity,1986,1522835
+Americas,Cattle,Import Quantity,1987,1409977
+Americas,Cattle,Import Quantity,1988,1709617
+Americas,Cattle,Import Quantity,1989,1789499
+Americas,Cattle,Import Quantity,1990,2346565
+Americas,Cattle,Import Quantity,1991,2403819
+Americas,Cattle,Import Quantity,1992,2759061
+Americas,Cattle,Import Quantity,1993,2868112
+Americas,Cattle,Import Quantity,1994,2911079
+Americas,Cattle,Import Quantity,1995,3538408
+Americas,Cattle,Import Quantity,1996,2476880
+Americas,Cattle,Import Quantity,1997,2626794
+Americas,Cattle,Import Quantity,1998,2588794
+Americas,Cattle,Import Quantity,1999,2526171
+Americas,Cattle,Import Quantity,2000,2904485
+Americas,Cattle,Import Quantity,2001,3124131
+Americas,Cattle,Import Quantity,2002,2964395
+Americas,Cattle,Import Quantity,2003,1939156
+Americas,Cattle,Import Quantity,2004,1729661
+Americas,Cattle,Import Quantity,2005,2126999
+Americas,Cattle,Import Quantity,2006,2750581
+Americas,Cattle,Import Quantity,2007,2997259
+Americas,Cattle,Import Quantity,2008,2862403
+Americas,Cattle,Import Quantity,2009,2609750
+Americas,Cattle,Import Quantity,2010,3254820
+Americas,Cattle,Import Quantity,2011,2614100
+Americas,Cattle,Import Quantity,2012,2905602
+Americas,Cattle,Import Quantity,2013,2908118
+Americas,Cattle,Export Quantity,1961,1469866
+Americas,Cattle,Export Quantity,1962,1750092
+Americas,Cattle,Export Quantity,1963,1349289
+Americas,Cattle,Export Quantity,1964,1013420
+Americas,Cattle,Export Quantity,1965,1558244
+Americas,Cattle,Export Quantity,1966,1502362
+Americas,Cattle,Export Quantity,1967,1237039
+Americas,Cattle,Export Quantity,1968,1441645
+Americas,Cattle,Export Quantity,1969,1494119
+Americas,Cattle,Export Quantity,1970,1653950
+Americas,Cattle,Export Quantity,1971,1467843
+Americas,Cattle,Export Quantity,1972,1742014
+Americas,Cattle,Export Quantity,1973,1575280
+Americas,Cattle,Export Quantity,1974,1246631
+Americas,Cattle,Export Quantity,1975,1231146
+Americas,Cattle,Export Quantity,1976,1668430
+Americas,Cattle,Export Quantity,1977,1634423
+Americas,Cattle,Export Quantity,1978,2142850
+Americas,Cattle,Export Quantity,1979,1712401
+Americas,Cattle,Export Quantity,1980,1178489
+Americas,Cattle,Export Quantity,1981,1157243
+Americas,Cattle,Export Quantity,1982,1524387
+Americas,Cattle,Export Quantity,1983,1155790
+Americas,Cattle,Export Quantity,1985,1061738
+Americas,Cattle,Export Quantity,1986,1378155
+Americas,Cattle,Export Quantity,1987,1451840
+Americas,Cattle,Export Quantity,1988,1707617
+Americas,Cattle,Export Quantity,1989,1604956
+Americas,Cattle,Export Quantity,1990,2577634
+Americas,Cattle,Export Quantity,1991,2612543
+Americas,Cattle,Export Quantity,1992,2908031
+Americas,Cattle,Export Quantity,1993,2891649
+Americas,Cattle,Export Quantity,1994,3049537
+Americas,Cattle,Export Quantity,1995,3544944
+Americas,Cattle,Export Quantity,1996,2421941
+Americas,Cattle,Export Quantity,1997,2675576
+Americas,Cattle,Export Quantity,1998,2683492
+Americas,Cattle,Export Quantity,1999,2425437
+Americas,Cattle,Export Quantity,2000,2897754
+Americas,Cattle,Export Quantity,2001,3288815
+Americas,Cattle,Export Quantity,2002,2997254
+Americas,Cattle,Export Quantity,2003,1942098
+Americas,Cattle,Export Quantity,2004,1820592
+Americas,Cattle,Export Quantity,2005,2234488
+Americas,Cattle,Export Quantity,2006,3313439
+Americas,Cattle,Export Quantity,2007,3299116
+Americas,Cattle,Export Quantity,2008,3096179
+Americas,Cattle,Export Quantity,2009,2887949
+Americas,Cattle,Export Quantity,2010,3826633
+Americas,Cattle,Export Quantity,2011,3495363
+Americas,Cattle,Export Quantity,2012,3592165
+Americas,Cattle,Export Quantity,2013,3287644
+Americas,Pigs,Import Quantity,1984,1331651
+Americas,Pigs,Import Quantity,1985,1236778
+Americas,Pigs,Import Quantity,1988,1045047
+Americas,Pigs,Import Quantity,1989,1334831
+Americas,Pigs,Import Quantity,1991,1400829
+Americas,Pigs,Import Quantity,1994,1141705
+Americas,Pigs,Import Quantity,1995,1788140
+Americas,Pigs,Import Quantity,1996,2832817
+Americas,Pigs,Import Quantity,1997,3220227
+Americas,Pigs,Import Quantity,1998,4400900
+Americas,Pigs,Import Quantity,1999,4356523
+Americas,Pigs,Import Quantity,2000,4447353
+Americas,Pigs,Import Quantity,2001,5448121
+Americas,Pigs,Import Quantity,2002,6012123
+Americas,Pigs,Import Quantity,2003,7634198
+Americas,Pigs,Import Quantity,2004,8710848
+Americas,Pigs,Import Quantity,2005,8396598
+Americas,Pigs,Import Quantity,2006,8972594
+Americas,Pigs,Import Quantity,2007,10159756
+Americas,Pigs,Import Quantity,2008,9444018
+Americas,Pigs,Import Quantity,2009,6395905
+Americas,Pigs,Import Quantity,2010,5789323
+Americas,Pigs,Import Quantity,2011,5843787
+Americas,Pigs,Import Quantity,2012,5704546
+Americas,Pigs,Import Quantity,2013,4986298
+Americas,Pigs,Export Quantity,1984,1365986
+Americas,Pigs,Export Quantity,1985,1176392
+Americas,Pigs,Export Quantity,1989,1468853
+Americas,Pigs,Export Quantity,1991,1335054
+Americas,Pigs,Export Quantity,1994,1085071
+Americas,Pigs,Export Quantity,1995,1788084
+Americas,Pigs,Export Quantity,1996,2847664
+Americas,Pigs,Export Quantity,1997,3242138
+Americas,Pigs,Export Quantity,1998,4364987
+Americas,Pigs,Export Quantity,1999,4335189
+Americas,Pigs,Export Quantity,2000,4438961
+Americas,Pigs,Export Quantity,2001,5419678
+Americas,Pigs,Export Quantity,2002,5954811
+Americas,Pigs,Export Quantity,2003,7627575
+Americas,Pigs,Export Quantity,2004,8708644
+Americas,Pigs,Export Quantity,2005,8376657
+Americas,Pigs,Export Quantity,2006,8949821
+Americas,Pigs,Export Quantity,2007,10178524
+Americas,Pigs,Export Quantity,2008,9461887
+Americas,Pigs,Export Quantity,2009,6417759
+Americas,Pigs,Export Quantity,2010,5810589
+Americas,Pigs,Export Quantity,2011,5883353
+Americas,Pigs,Export Quantity,2012,5746300
+Americas,Pigs,Export Quantity,2013,5020511
+Americas,Sheep,Import Quantity,1992,1022475
+Americas,Sheep,Export Quantity,1991,1256383
+Americas,Sheep,Export Quantity,1993,1100199
+Americas,Sheep,Export Quantity,1994,1188696
+Americas,Sheep,Export Quantity,1997,1916789
+Northern America,Cattle,Import Quantity,1961,1046938
+Northern America,Cattle,Import Quantity,1962,1253862
+Northern America,Cattle,Import Quantity,1965,1133865
+Northern America,Cattle,Import Quantity,1966,1110194
+Northern America,Cattle,Import Quantity,1968,1045746
+Northern America,Cattle,Import Quantity,1969,1051509
+Northern America,Cattle,Import Quantity,1970,1220590
+Northern America,Cattle,Import Quantity,1971,1082180
+Northern America,Cattle,Import Quantity,1972,1260776
+Northern America,Cattle,Import Quantity,1973,1265135
+Northern America,Cattle,Import Quantity,1976,1183642
+Northern America,Cattle,Import Quantity,1977,1184882
+Northern America,Cattle,Import Quantity,1978,1337856
+Northern America,Cattle,Import Quantity,1982,1091315
+Northern America,Cattle,Import Quantity,1983,1009691
+Northern America,Cattle,Import Quantity,1986,1407075
+Northern America,Cattle,Import Quantity,1987,1295048
+Northern America,Cattle,Import Quantity,1988,1401344
+Northern America,Cattle,Import Quantity,1989,1514023
+Northern America,Cattle,Import Quantity,1990,2169610
+Northern America,Cattle,Import Quantity,1991,2023916
+Northern America,Cattle,Import Quantity,1992,2311765
+Northern America,Cattle,Import Quantity,1993,2566711
+Northern America,Cattle,Import Quantity,1994,2174919
+Northern America,Cattle,Import Quantity,1995,2871549
+Northern America,Cattle,Import Quantity,1996,2036384
+Northern America,Cattle,Import Quantity,1997,2111773
+Northern America,Cattle,Import Quantity,1998,2147836
+Northern America,Cattle,Import Quantity,1999,2171987
+Northern America,Cattle,Import Quantity,2000,2544083
+Northern America,Cattle,Import Quantity,2001,2740771
+Northern America,Cattle,Import Quantity,2002,2643703
+Northern America,Cattle,Import Quantity,2003,1814756
+Northern America,Cattle,Import Quantity,2004,1388909
+Northern America,Cattle,Import Quantity,2005,1839334
+Northern America,Cattle,Import Quantity,2006,2340148
+Northern America,Cattle,Import Quantity,2007,2569731
+Northern America,Cattle,Import Quantity,2008,2362823
+Northern America,Cattle,Import Quantity,2009,2081905
+Northern America,Cattle,Import Quantity,2010,2364363
+Northern America,Cattle,Import Quantity,2011,2197374
+Northern America,Cattle,Import Quantity,2012,2197105
+Northern America,Cattle,Import Quantity,2013,2091703
+Northern America,Cattle,Export Quantity,1990,1003692
+Northern America,Cattle,Export Quantity,1991,1227109
+Northern America,Cattle,Export Quantity,1992,1609691
+Northern America,Cattle,Export Quantity,1993,1365978
+Northern America,Cattle,Export Quantity,1994,1249613
+Northern America,Cattle,Export Quantity,1995,1230247
+Northern America,Cattle,Export Quantity,1996,1688709
+Northern America,Cattle,Export Quantity,1997,1665461
+Northern America,Cattle,Export Quantity,1998,1603339
+Northern America,Cattle,Export Quantity,1999,1319864
+Northern America,Cattle,Export Quantity,2000,1450334
+Northern America,Cattle,Export Quantity,2001,1989076
+Northern America,Cattle,Export Quantity,2002,1934102
+Northern America,Cattle,Export Quantity,2006,1094525
+Northern America,Cattle,Export Quantity,2007,1499340
+Northern America,Cattle,Export Quantity,2008,1735157
+Northern America,Cattle,Export Quantity,2009,1150496
+Northern America,Cattle,Export Quantity,2010,1178535
+Northern America,Cattle,Export Quantity,2012,1011972
+Northern America,Cattle,Export Quantity,2013,1212669
+Northern America,Pigs,Import Quantity,1984,1323484
+Northern America,Pigs,Import Quantity,1985,1227852
+Northern America,Pigs,Import Quantity,1989,1074301
+Northern America,Pigs,Import Quantity,1991,1058078
+Northern America,Pigs,Import Quantity,1995,1753258
+Northern America,Pigs,Import Quantity,1996,2781369
+Northern America,Pigs,Import Quantity,1997,3182879
+Northern America,Pigs,Import Quantity,1998,4132536
+Northern America,Pigs,Import Quantity,1999,4143730
+Northern America,Pigs,Import Quantity,2000,4367103
+Northern America,Pigs,Import Quantity,2001,5341346
+Northern America,Pigs,Import Quantity,2002,5756084
+Northern America,Pigs,Import Quantity,2003,7442534
+Northern America,Pigs,Import Quantity,2004,8510605
+Northern America,Pigs,Import Quantity,2005,8191309
+Northern America,Pigs,Import Quantity,2006,8763957
+Northern America,Pigs,Import Quantity,2007,10005895
+Northern America,Pigs,Import Quantity,2008,9350431
+Northern America,Pigs,Import Quantity,2009,6367927
+Northern America,Pigs,Import Quantity,2010,5752100
+Northern America,Pigs,Import Quantity,2011,5798077
+Northern America,Pigs,Import Quantity,2012,5654766
+Northern America,Pigs,Import Quantity,2013,4959701
+Northern America,Pigs,Export Quantity,1984,1362059
+Northern America,Pigs,Export Quantity,1985,1170602
+Northern America,Pigs,Export Quantity,1989,1299996
+Northern America,Pigs,Export Quantity,1991,1334005
+Northern America,Pigs,Export Quantity,1994,1051589
+Northern America,Pigs,Export Quantity,1995,1764410
+Northern America,Pigs,Export Quantity,1996,2834950
+Northern America,Pigs,Export Quantity,1997,3236875
+Northern America,Pigs,Export Quantity,1998,4352261
+Northern America,Pigs,Export Quantity,1999,4314405
+Northern America,Pigs,Export Quantity,2000,4429024
+Northern America,Pigs,Export Quantity,2001,5409151
+Northern America,Pigs,Export Quantity,2002,5948022
+Northern America,Pigs,Export Quantity,2003,7613662
+Northern America,Pigs,Export Quantity,2004,8694677
+Northern America,Pigs,Export Quantity,2005,8364229
+Northern America,Pigs,Export Quantity,2006,8941449
+Northern America,Pigs,Export Quantity,2007,10168665
+Northern America,Pigs,Export Quantity,2008,9454548
+Northern America,Pigs,Export Quantity,2009,6396912
+Northern America,Pigs,Export Quantity,2010,5785541
+Northern America,Pigs,Export Quantity,2011,5855887
+Northern America,Pigs,Export Quantity,2012,5731413
+Northern America,Pigs,Export Quantity,2013,5009476
+Northern America,Sheep,Export Quantity,1997,1453319
+Central America,Cattle,Export Quantity,1978,1101151
+Central America,Cattle,Export Quantity,1987,1030750
+Central America,Cattle,Export Quantity,1990,1358204
+Central America,Cattle,Export Quantity,1991,1196369
+Central America,Cattle,Export Quantity,1992,1156465
+Central America,Cattle,Export Quantity,1993,1455545
+Central America,Cattle,Export Quantity,1994,1155155
+Central America,Cattle,Export Quantity,1995,1673457
+Central America,Cattle,Export Quantity,1999,1008861
+Central America,Cattle,Export Quantity,2000,1336678
+Central America,Cattle,Export Quantity,2001,1277880
+Central America,Cattle,Export Quantity,2002,1043409
+Central America,Cattle,Export Quantity,2003,1317470
+Central America,Cattle,Export Quantity,2004,1476637
+Central America,Cattle,Export Quantity,2005,1388742
+Central America,Cattle,Export Quantity,2006,1654423
+Central America,Cattle,Export Quantity,2007,1172962
+Central America,Cattle,Export Quantity,2009,1013546
+Central America,Cattle,Export Quantity,2010,1311008
+Central America,Cattle,Export Quantity,2011,1948315
+Central America,Cattle,Export Quantity,2012,1584606
+Central America,Cattle,Export Quantity,2013,1112509
+South America,Cattle,Export Quantity,2010,1337090
+Asia,Cattle,Import Quantity,1995,1425977
+Asia,Cattle,Import Quantity,1996,1319878
+Asia,Cattle,Import Quantity,1997,1360730
+Asia,Cattle,Import Quantity,1999,1406728
+Asia,Cattle,Import Quantity,2000,1346942
+Asia,Cattle,Import Quantity,2001,1040728
+Asia,Cattle,Import Quantity,2002,1043162
+Asia,Cattle,Import Quantity,2003,1239122
+Asia,Cattle,Import Quantity,2004,1467463
+Asia,Cattle,Import Quantity,2005,1211088
+Asia,Cattle,Import Quantity,2006,1360896
+Asia,Cattle,Import Quantity,2007,1411704
+Asia,Cattle,Import Quantity,2008,1590545
+Asia,Cattle,Import Quantity,2009,2059054
+Asia,Cattle,Import Quantity,2010,2134199
+Asia,Cattle,Import Quantity,2011,2107833
+Asia,Cattle,Import Quantity,2012,2142554
+Asia,Cattle,Import Quantity,2013,2742822
+Asia,Pigs,Import Quantity,1962,1166542
+Asia,Pigs,Import Quantity,1963,1546536
+Asia,Pigs,Import Quantity,1964,1882626
+Asia,Pigs,Import Quantity,1965,2011591
+Asia,Pigs,Import Quantity,1966,2058737
+Asia,Pigs,Import Quantity,1967,1900437
+Asia,Pigs,Import Quantity,1968,1864412
+Asia,Pigs,Import Quantity,1969,1847542
+Asia,Pigs,Import Quantity,1970,1884669
+Asia,Pigs,Import Quantity,1971,2447913
+Asia,Pigs,Import Quantity,1972,2679211
+Asia,Pigs,Import Quantity,1973,2702589
+Asia,Pigs,Import Quantity,1974,2632699
+Asia,Pigs,Import Quantity,1975,2790090
+Asia,Pigs,Import Quantity,1976,2999808
+Asia,Pigs,Import Quantity,1977,3031476
+Asia,Pigs,Import Quantity,1978,3128906
+Asia,Pigs,Import Quantity,1979,3100023
+Asia,Pigs,Import Quantity,1980,4556678
+Asia,Pigs,Import Quantity,1981,3199822
+Asia,Pigs,Import Quantity,1982,3421787
+Asia,Pigs,Import Quantity,1983,3363953
+Asia,Pigs,Import Quantity,1984,3255375
+Asia,Pigs,Import Quantity,1985,3274266
+Asia,Pigs,Import Quantity,1986,3523827
+Asia,Pigs,Import Quantity,1987,3584268
+Asia,Pigs,Import Quantity,1988,3689367
+Asia,Pigs,Import Quantity,1989,3572205
+Asia,Pigs,Import Quantity,1990,3623814
+Asia,Pigs,Import Quantity,1991,3764152
+Asia,Pigs,Import Quantity,1992,3829518
+Asia,Pigs,Import Quantity,1993,3906054
+Asia,Pigs,Import Quantity,1994,3968953
+Asia,Pigs,Import Quantity,1995,3878409
+Asia,Pigs,Import Quantity,1996,3555181
+Asia,Pigs,Import Quantity,1997,3361477
+Asia,Pigs,Import Quantity,1998,3218225
+Asia,Pigs,Import Quantity,1999,2247586
+Asia,Pigs,Import Quantity,2000,2363701
+Asia,Pigs,Import Quantity,2001,2363408
+Asia,Pigs,Import Quantity,2002,2207742
+Asia,Pigs,Import Quantity,2003,2229735
+Asia,Pigs,Import Quantity,2004,2317539
+Asia,Pigs,Import Quantity,2005,2192711
+Asia,Pigs,Import Quantity,2006,2024054
+Asia,Pigs,Import Quantity,2007,2009783
+Asia,Pigs,Import Quantity,2008,2369844
+Asia,Pigs,Import Quantity,2009,2764888
+Asia,Pigs,Import Quantity,2010,2513292
+Asia,Pigs,Import Quantity,2011,2531327
+Asia,Pigs,Import Quantity,2012,2715754
+Asia,Pigs,Import Quantity,2013,2446154
+Asia,Pigs,Export Quantity,1962,1269784
+Asia,Pigs,Export Quantity,1963,1551294
+Asia,Pigs,Export Quantity,1964,1768416
+Asia,Pigs,Export Quantity,1965,1820419
+Asia,Pigs,Export Quantity,1966,2038129
+Asia,Pigs,Export Quantity,1967,1876154
+Asia,Pigs,Export Quantity,1968,1859654
+Asia,Pigs,Export Quantity,1969,1827546
+Asia,Pigs,Export Quantity,1970,1948736
+Asia,Pigs,Export Quantity,1971,2481995
+Asia,Pigs,Export Quantity,1972,2697371
+Asia,Pigs,Export Quantity,1973,2811314
+Asia,Pigs,Export Quantity,1974,2605772
+Asia,Pigs,Export Quantity,1975,2785571
+Asia,Pigs,Export Quantity,1976,2977179
+Asia,Pigs,Export Quantity,1977,3028123
+Asia,Pigs,Export Quantity,1978,3144900
+Asia,Pigs,Export Quantity,1979,3101093
+Asia,Pigs,Export Quantity,1980,4566473
+Asia,Pigs,Export Quantity,1981,3213666
+Asia,Pigs,Export Quantity,1982,3386245
+Asia,Pigs,Export Quantity,1983,3377724
+Asia,Pigs,Export Quantity,1984,3204602
+Asia,Pigs,Export Quantity,1985,3228970
+Asia,Pigs,Export Quantity,1986,3451221
+Asia,Pigs,Export Quantity,1987,3498391
+Asia,Pigs,Export Quantity,1988,3647038
+Asia,Pigs,Export Quantity,1989,3732904
+Asia,Pigs,Export Quantity,1990,4058058
+Asia,Pigs,Export Quantity,1991,4163438
+Asia,Pigs,Export Quantity,1992,4222924
+Asia,Pigs,Export Quantity,1993,4033109
+Asia,Pigs,Export Quantity,1994,4050732
+Asia,Pigs,Export Quantity,1995,4067363
+Asia,Pigs,Export Quantity,1996,3737257
+Asia,Pigs,Export Quantity,1997,3575402
+Asia,Pigs,Export Quantity,1998,3551359
+Asia,Pigs,Export Quantity,1999,2505095
+Asia,Pigs,Export Quantity,2000,2396252
+Asia,Pigs,Export Quantity,2001,2354953
+Asia,Pigs,Export Quantity,2002,2256080
+Asia,Pigs,Export Quantity,2003,2242050
+Asia,Pigs,Export Quantity,2004,2306969
+Asia,Pigs,Export Quantity,2005,2136328
+Asia,Pigs,Export Quantity,2006,1931622
+Asia,Pigs,Export Quantity,2007,2012659
+Asia,Pigs,Export Quantity,2008,2445299
+Asia,Pigs,Export Quantity,2009,2798102
+Asia,Pigs,Export Quantity,2010,2551413
+Asia,Pigs,Export Quantity,2011,2521944
+Asia,Pigs,Export Quantity,2012,2698690
+Asia,Pigs,Export Quantity,2013,2408150
+Asia,Sheep,Import Quantity,1961,2142604
+Asia,Sheep,Import Quantity,1962,2486255
+Asia,Sheep,Import Quantity,1963,2507175
+Asia,Sheep,Import Quantity,1964,2721433
+Asia,Sheep,Import Quantity,1965,2756797
+Asia,Sheep,Import Quantity,1966,2824220
+Asia,Sheep,Import Quantity,1967,1790831
+Asia,Sheep,Import Quantity,1968,3676452
+Asia,Sheep,Import Quantity,1969,2586540
+Asia,Sheep,Import Quantity,1970,2491436
+Asia,Sheep,Import Quantity,1971,2458267
+Asia,Sheep,Import Quantity,1972,3698123
+Asia,Sheep,Import Quantity,1973,2437197
+Asia,Sheep,Import Quantity,1974,3220364
+Asia,Sheep,Import Quantity,1975,3527249
+Asia,Sheep,Import Quantity,1976,4093571
+Asia,Sheep,Import Quantity,1977,6236876
+Asia,Sheep,Import Quantity,1978,5947905
+Asia,Sheep,Import Quantity,1979,8034578
+Asia,Sheep,Import Quantity,1980,9354966
+Asia,Sheep,Import Quantity,1981,10786738
+Asia,Sheep,Import Quantity,1982,11596364
+Asia,Sheep,Import Quantity,1983,12381375
+Asia,Sheep,Import Quantity,1984,12351088
+Asia,Sheep,Import Quantity,1985,11756562
+Asia,Sheep,Import Quantity,1986,11948934
+Asia,Sheep,Import Quantity,1987,12037332
+Asia,Sheep,Import Quantity,1988,12464078
+Asia,Sheep,Import Quantity,1989,10160210
+Asia,Sheep,Import Quantity,1990,9485273
+Asia,Sheep,Import Quantity,1991,11244361
+Asia,Sheep,Import Quantity,1992,12435917
+Asia,Sheep,Import Quantity,1993,15805183
+Asia,Sheep,Import Quantity,1994,14135517
+Asia,Sheep,Import Quantity,1995,12392756
+Asia,Sheep,Import Quantity,1996,12215863
+Asia,Sheep,Import Quantity,1997,10733563
+Asia,Sheep,Import Quantity,1998,9228390
+Asia,Sheep,Import Quantity,1999,10032869
+Asia,Sheep,Import Quantity,2000,9385980
+Asia,Sheep,Import Quantity,2001,7556349
+Asia,Sheep,Import Quantity,2002,11418563
+Asia,Sheep,Import Quantity,2003,10326148
+Asia,Sheep,Import Quantity,2004,9391220
+Asia,Sheep,Import Quantity,2005,11372964
+Asia,Sheep,Import Quantity,2006,10459210
+Asia,Sheep,Import Quantity,2007,9685056
+Asia,Sheep,Import Quantity,2008,9395178
+Asia,Sheep,Import Quantity,2009,9340270
+Asia,Sheep,Import Quantity,2010,9601859
+Asia,Sheep,Import Quantity,2011,10023568
+Asia,Sheep,Import Quantity,2012,9933865
+Asia,Sheep,Import Quantity,2013,9921691
+Asia,Sheep,Export Quantity,1961,2366772
+Asia,Sheep,Export Quantity,1962,2376010
+Asia,Sheep,Export Quantity,1963,2242030
+Asia,Sheep,Export Quantity,1964,2196239
+Asia,Sheep,Export Quantity,1965,2694949
+Asia,Sheep,Export Quantity,1966,3032064
+Asia,Sheep,Export Quantity,1967,2382182
+Asia,Sheep,Export Quantity,1968,2141389
+Asia,Sheep,Export Quantity,1969,1841482
+Asia,Sheep,Export Quantity,1970,1830365
+Asia,Sheep,Export Quantity,1971,1671329
+Asia,Sheep,Export Quantity,1972,1746577
+Asia,Sheep,Export Quantity,1973,1821554
+Asia,Sheep,Export Quantity,1974,1493013
+Asia,Sheep,Export Quantity,1975,1274675
+Asia,Sheep,Export Quantity,1976,1241543
+Asia,Sheep,Export Quantity,1979,1042109
+Asia,Sheep,Export Quantity,1980,1663768
+Asia,Sheep,Export Quantity,1981,2227829
+Asia,Sheep,Export Quantity,1982,2531458
+Asia,Sheep,Export Quantity,1983,3045729
+Asia,Sheep,Export Quantity,1984,3210840
+Asia,Sheep,Export Quantity,1985,2526774
+Asia,Sheep,Export Quantity,1986,3691564
+Asia,Sheep,Export Quantity,1987,3838331
+Asia,Sheep,Export Quantity,1988,4093417
+Asia,Sheep,Export Quantity,1989,4647021
+Asia,Sheep,Export Quantity,1990,3761190
+Asia,Sheep,Export Quantity,1991,4481680
+Asia,Sheep,Export Quantity,1992,3056272
+Asia,Sheep,Export Quantity,1993,3727907
+Asia,Sheep,Export Quantity,1994,4562009
+Asia,Sheep,Export Quantity,1995,3499350
+Asia,Sheep,Export Quantity,1996,2460997
+Asia,Sheep,Export Quantity,1997,2422481
+Asia,Sheep,Export Quantity,1998,2137822
+Asia,Sheep,Export Quantity,1999,1695608
+Asia,Sheep,Export Quantity,2000,1960657
+Asia,Sheep,Export Quantity,2001,1076238
+Asia,Sheep,Export Quantity,2002,3016660
+Asia,Sheep,Export Quantity,2003,2261256
+Asia,Sheep,Export Quantity,2004,2848522
+Asia,Sheep,Export Quantity,2005,3773737
+Asia,Sheep,Export Quantity,2006,3265388
+Asia,Sheep,Export Quantity,2007,3642058
+Asia,Sheep,Export Quantity,2008,3627187
+Asia,Sheep,Export Quantity,2009,2112337
+Asia,Sheep,Export Quantity,2010,2497059
+Asia,Sheep,Export Quantity,2011,1848431
+Asia,Sheep,Export Quantity,2012,1696732
+Asia,Sheep,Export Quantity,2013,1839677
+Eastern Asia,Pigs,Import Quantity,1962,1106757
+Eastern Asia,Pigs,Import Quantity,1963,1489717
+Eastern Asia,Pigs,Import Quantity,1964,1790946
+Eastern Asia,Pigs,Import Quantity,1965,1914755
+Eastern Asia,Pigs,Import Quantity,1966,1970033
+Eastern Asia,Pigs,Import Quantity,1967,1844044
+Eastern Asia,Pigs,Import Quantity,1968,1823214
+Eastern Asia,Pigs,Import Quantity,1969,1808402
+Eastern Asia,Pigs,Import Quantity,1970,1845458
+Eastern Asia,Pigs,Import Quantity,1971,2397716
+Eastern Asia,Pigs,Import Quantity,1972,2631816
+Eastern Asia,Pigs,Import Quantity,1973,2646376
+Eastern Asia,Pigs,Import Quantity,1974,2583257
+Eastern Asia,Pigs,Import Quantity,1975,2748529
+Eastern Asia,Pigs,Import Quantity,1976,2957892
+Eastern Asia,Pigs,Import Quantity,1977,2986421
+Eastern Asia,Pigs,Import Quantity,1978,3085137
+Eastern Asia,Pigs,Import Quantity,1979,3052215
+Eastern Asia,Pigs,Import Quantity,1980,4508076
+Eastern Asia,Pigs,Import Quantity,1981,3153578
+Eastern Asia,Pigs,Import Quantity,1982,3287952
+Eastern Asia,Pigs,Import Quantity,1983,3211835
+Eastern Asia,Pigs,Import Quantity,1984,3166860
+Eastern Asia,Pigs,Import Quantity,1985,3124408
+Eastern Asia,Pigs,Import Quantity,1986,3242516
+Eastern Asia,Pigs,Import Quantity,1987,3135374
+Eastern Asia,Pigs,Import Quantity,1988,3077334
+Eastern Asia,Pigs,Import Quantity,1989,2980718
+Eastern Asia,Pigs,Import Quantity,1990,3008686
+Eastern Asia,Pigs,Import Quantity,1991,2955669
+Eastern Asia,Pigs,Import Quantity,1992,2940271
+Eastern Asia,Pigs,Import Quantity,1993,2756641
+Eastern Asia,Pigs,Import Quantity,1994,2736441
+Eastern Asia,Pigs,Import Quantity,1995,2661388
+Eastern Asia,Pigs,Import Quantity,1996,2426901
+Eastern Asia,Pigs,Import Quantity,1997,2289238
+Eastern Asia,Pigs,Import Quantity,1998,2181610
+Eastern Asia,Pigs,Import Quantity,1999,2005321
+Eastern Asia,Pigs,Import Quantity,2000,2003200
+Eastern Asia,Pigs,Import Quantity,2001,1982254
+Eastern Asia,Pigs,Import Quantity,2002,1855129
+Eastern Asia,Pigs,Import Quantity,2003,1897530
+Eastern Asia,Pigs,Import Quantity,2004,2001828
+Eastern Asia,Pigs,Import Quantity,2005,1804923
+Eastern Asia,Pigs,Import Quantity,2006,1715451
+Eastern Asia,Pigs,Import Quantity,2007,1610022
+Eastern Asia,Pigs,Import Quantity,2008,1603034
+Eastern Asia,Pigs,Import Quantity,2009,1699234
+Eastern Asia,Pigs,Import Quantity,2010,1728904
+Eastern Asia,Pigs,Import Quantity,2011,1591869
+Eastern Asia,Pigs,Import Quantity,2012,1666159
+Eastern Asia,Pigs,Import Quantity,2013,1707663
+Eastern Asia,Pigs,Export Quantity,1963,1439297
+Eastern Asia,Pigs,Export Quantity,1964,1689114
+Eastern Asia,Pigs,Export Quantity,1965,1727871
+Eastern Asia,Pigs,Export Quantity,1966,1958607
+Eastern Asia,Pigs,Export Quantity,1967,1835128
+Eastern Asia,Pigs,Export Quantity,1968,1841003
+Eastern Asia,Pigs,Export Quantity,1969,1816835
+Eastern Asia,Pigs,Export Quantity,1970,1864384
+Eastern Asia,Pigs,Export Quantity,1971,2396813
+Eastern Asia,Pigs,Export Quantity,1972,2680342
+Eastern Asia,Pigs,Export Quantity,1973,2760262
+Eastern Asia,Pigs,Export Quantity,1974,2540706
+Eastern Asia,Pigs,Export Quantity,1975,2715012
+Eastern Asia,Pigs,Export Quantity,1976,2916690
+Eastern Asia,Pigs,Export Quantity,1977,2980000
+Eastern Asia,Pigs,Export Quantity,1978,3114770
+Eastern Asia,Pigs,Export Quantity,1979,3078968
+Eastern Asia,Pigs,Export Quantity,1980,4547995
+Eastern Asia,Pigs,Export Quantity,1981,3189423
+Eastern Asia,Pigs,Export Quantity,1982,3253573
+Eastern Asia,Pigs,Export Quantity,1983,3217640
+Eastern Asia,Pigs,Export Quantity,1984,3091417
+Eastern Asia,Pigs,Export Quantity,1985,3007419
+Eastern Asia,Pigs,Export Quantity,1986,3122645
+Eastern Asia,Pigs,Export Quantity,1987,3030224
+Eastern Asia,Pigs,Export Quantity,1988,3031100
+Eastern Asia,Pigs,Export Quantity,1989,2973800
+Eastern Asia,Pigs,Export Quantity,1990,2999249
+Eastern Asia,Pigs,Export Quantity,1991,2850847
+Eastern Asia,Pigs,Export Quantity,1992,2916075
+Eastern Asia,Pigs,Export Quantity,1993,2727064
+Eastern Asia,Pigs,Export Quantity,1994,2704706
+Eastern Asia,Pigs,Export Quantity,1995,2539033
+Eastern Asia,Pigs,Export Quantity,1996,2415020
+Eastern Asia,Pigs,Export Quantity,1997,2281521
+Eastern Asia,Pigs,Export Quantity,1998,2205598
+Eastern Asia,Pigs,Export Quantity,1999,1961575
+Eastern Asia,Pigs,Export Quantity,2000,2039130
+Eastern Asia,Pigs,Export Quantity,2001,1972737
+Eastern Asia,Pigs,Export Quantity,2002,1888653
+Eastern Asia,Pigs,Export Quantity,2003,1887318
+Eastern Asia,Pigs,Export Quantity,2004,1973401
+Eastern Asia,Pigs,Export Quantity,2005,1770741
+Eastern Asia,Pigs,Export Quantity,2006,1722541
+Eastern Asia,Pigs,Export Quantity,2007,1609289
+Eastern Asia,Pigs,Export Quantity,2008,1646045
+Eastern Asia,Pigs,Export Quantity,2009,1694968
+Eastern Asia,Pigs,Export Quantity,2010,1717963
+Eastern Asia,Pigs,Export Quantity,2011,1562224
+Eastern Asia,Pigs,Export Quantity,2012,1642190
+Eastern Asia,Pigs,Export Quantity,2013,1682811
+Eastern Asia,Sheep,Export Quantity,1961,1754571
+Eastern Asia,Sheep,Export Quantity,1962,1376416
+Eastern Asia,Sheep,Export Quantity,1963,1246169
+Eastern Asia,Sheep,Export Quantity,1964,1141697
+Eastern Asia,Sheep,Export Quantity,1965,1416204
+Eastern Asia,Sheep,Export Quantity,1966,1917102
+Eastern Asia,Sheep,Export Quantity,1967,1617400
+Eastern Asia,Sheep,Export Quantity,1968,1088100
+Eastern Asia,Sheep,Export Quantity,1971,1017400
+Eastern Asia,Sheep,Export Quantity,1972,1165000
+Eastern Asia,Sheep,Export Quantity,1973,1198300
+Eastern Asia,Sheep,Export Quantity,1974,1209000
+Eastern Asia,Sheep,Export Quantity,1975,1010004
+Southern Asia,Sheep,Import Quantity,1975,1394500
+Southern Asia,Sheep,Import Quantity,1976,1695012
+Southern Asia,Sheep,Import Quantity,1977,2948395
+Southern Asia,Sheep,Import Quantity,1978,1471283
+Southern Asia,Sheep,Import Quantity,1979,1597280
+Southern Asia,Sheep,Import Quantity,1980,1351474
+Southern Asia,Sheep,Export Quantity,1994,1063560
+Southern Asia,Sheep,Export Quantity,2005,1258952
+Southern Asia,Sheep,Export Quantity,2007,1099204
+Southern Asia,Sheep,Export Quantity,2008,1250828
+South-Eastern Asia,Cattle,Import Quantity,2009,1062301
+South-Eastern Asia,Cattle,Import Quantity,2010,1008782
+South-Eastern Asia,Cattle,Import Quantity,2013,1106023
+South-Eastern Asia,Pigs,Import Quantity,1993,1147558
+South-Eastern Asia,Pigs,Import Quantity,1994,1227228
+South-Eastern Asia,Pigs,Import Quantity,1995,1214715
+South-Eastern Asia,Pigs,Import Quantity,1996,1118747
+South-Eastern Asia,Pigs,Import Quantity,1997,1053479
+South-Eastern Asia,Pigs,Import Quantity,1998,1022937
+South-Eastern Asia,Pigs,Import Quantity,2009,1061569
+South-Eastern Asia,Pigs,Import Quantity,2012,1016154
+South-Eastern Asia,Pigs,Export Quantity,1990,1022702
+South-Eastern Asia,Pigs,Export Quantity,1991,1262843
+South-Eastern Asia,Pigs,Export Quantity,1992,1306414
+South-Eastern Asia,Pigs,Export Quantity,1993,1301210
+South-Eastern Asia,Pigs,Export Quantity,1994,1338807
+South-Eastern Asia,Pigs,Export Quantity,1995,1510445
+South-Eastern Asia,Pigs,Export Quantity,1996,1307947
+South-Eastern Asia,Pigs,Export Quantity,1997,1262563
+South-Eastern Asia,Pigs,Export Quantity,1998,1330025
+South-Eastern Asia,Pigs,Export Quantity,2009,1092917
+South-Eastern Asia,Pigs,Export Quantity,2012,1019286
+Western Asia,Cattle,Import Quantity,2011,1232972
+Western Asia,Cattle,Import Quantity,2012,1258240
+Western Asia,Cattle,Import Quantity,2013,1316590
+Western Asia,Sheep,Import Quantity,1961,1837800
+Western Asia,Sheep,Import Quantity,1962,2224300
+Western Asia,Sheep,Import Quantity,1963,2237400
+Western Asia,Sheep,Import Quantity,1964,2489258
+Western Asia,Sheep,Import Quantity,1965,2541352
+Western Asia,Sheep,Import Quantity,1966,2559958
+Western Asia,Sheep,Import Quantity,1967,1583763
+Western Asia,Sheep,Import Quantity,1968,3452634
+Western Asia,Sheep,Import Quantity,1969,2186413
+Western Asia,Sheep,Import Quantity,1970,1974531
+Western Asia,Sheep,Import Quantity,1971,1961725
+Western Asia,Sheep,Import Quantity,1972,2975088
+Western Asia,Sheep,Import Quantity,1973,2057134
+Western Asia,Sheep,Import Quantity,1974,2265516
+Western Asia,Sheep,Import Quantity,1975,1989487
+Western Asia,Sheep,Import Quantity,1976,2222131
+Western Asia,Sheep,Import Quantity,1977,3129749
+Western Asia,Sheep,Import Quantity,1978,4345919
+Western Asia,Sheep,Import Quantity,1979,6323642
+Western Asia,Sheep,Import Quantity,1980,7905189
+Western Asia,Sheep,Import Quantity,1981,10208592
+Western Asia,Sheep,Import Quantity,1982,10926901
+Western Asia,Sheep,Import Quantity,1983,12269466
+Western Asia,Sheep,Import Quantity,1984,12246349
+Western Asia,Sheep,Import Quantity,1985,11659946
+Western Asia,Sheep,Import Quantity,1986,11843748
+Western Asia,Sheep,Import Quantity,1987,11927698
+Western Asia,Sheep,Import Quantity,1988,12374912
+Western Asia,Sheep,Import Quantity,1989,10092530
+Western Asia,Sheep,Import Quantity,1990,9403202
+Western Asia,Sheep,Import Quantity,1991,11138551
+Western Asia,Sheep,Import Quantity,1992,12353182
+Western Asia,Sheep,Import Quantity,1993,15725044
+Western Asia,Sheep,Import Quantity,1994,14052785
+Western Asia,Sheep,Import Quantity,1995,12351850
+Western Asia,Sheep,Import Quantity,1996,12157674
+Western Asia,Sheep,Import Quantity,1997,10656872
+Western Asia,Sheep,Import Quantity,1998,9194730
+Western Asia,Sheep,Import Quantity,1999,9995987
+Western Asia,Sheep,Import Quantity,2000,9347888
+Western Asia,Sheep,Import Quantity,2001,7531420
+Western Asia,Sheep,Import Quantity,2002,11392964
+Western Asia,Sheep,Import Quantity,2003,10281355
+Western Asia,Sheep,Import Quantity,2004,9349576
+Western Asia,Sheep,Import Quantity,2005,11325562
+Western Asia,Sheep,Import Quantity,2006,10383592
+Western Asia,Sheep,Import Quantity,2007,9631314
+Western Asia,Sheep,Import Quantity,2008,9343183
+Western Asia,Sheep,Import Quantity,2009,9225226
+Western Asia,Sheep,Import Quantity,2010,9321983
+Western Asia,Sheep,Import Quantity,2011,9819920
+Western Asia,Sheep,Import Quantity,2012,9870170
+Western Asia,Sheep,Import Quantity,2013,9832087
+Western Asia,Sheep,Export Quantity,1968,1006328
+Western Asia,Sheep,Export Quantity,1980,1122727
+Western Asia,Sheep,Export Quantity,1981,1865186
+Western Asia,Sheep,Export Quantity,1982,2233919
+Western Asia,Sheep,Export Quantity,1983,2614348
+Western Asia,Sheep,Export Quantity,1984,2745862
+Western Asia,Sheep,Export Quantity,1985,2165157
+Western Asia,Sheep,Export Quantity,1986,3099775
+Western Asia,Sheep,Export Quantity,1987,3275851
+Western Asia,Sheep,Export Quantity,1988,3673606
+Western Asia,Sheep,Export Quantity,1989,4296132
+Western Asia,Sheep,Export Quantity,1990,3450825
+Western Asia,Sheep,Export Quantity,1991,3989044
+Western Asia,Sheep,Export Quantity,1992,2795424
+Western Asia,Sheep,Export Quantity,1993,3261434
+Western Asia,Sheep,Export Quantity,1994,3173341
+Western Asia,Sheep,Export Quantity,1995,2259474
+Western Asia,Sheep,Export Quantity,1996,1616970
+Western Asia,Sheep,Export Quantity,1997,1792697
+Western Asia,Sheep,Export Quantity,1998,1604799
+Western Asia,Sheep,Export Quantity,1999,1602091
+Western Asia,Sheep,Export Quantity,2000,1740843
+Western Asia,Sheep,Export Quantity,2002,2938817
+Western Asia,Sheep,Export Quantity,2003,2175090
+Western Asia,Sheep,Export Quantity,2004,2628389
+Western Asia,Sheep,Export Quantity,2005,2432437
+Western Asia,Sheep,Export Quantity,2006,2820209
+Western Asia,Sheep,Export Quantity,2007,2526826
+Western Asia,Sheep,Export Quantity,2008,2356914
+Western Asia,Sheep,Export Quantity,2009,1457328
+Western Asia,Sheep,Export Quantity,2010,1618025
+Western Asia,Sheep,Export Quantity,2011,1473807
+Western Asia,Sheep,Export Quantity,2012,1480073
+Western Asia,Sheep,Export Quantity,2013,1308868
+Europe,Cattle,Import Quantity,1961,2005263
+Europe,Cattle,Import Quantity,1962,1644811
+Europe,Cattle,Import Quantity,1963,2130858
+Europe,Cattle,Import Quantity,1964,2134177
+Europe,Cattle,Import Quantity,1965,2173821
+Europe,Cattle,Import Quantity,1966,2171421
+Europe,Cattle,Import Quantity,1967,2670496
+Europe,Cattle,Import Quantity,1968,3090616
+Europe,Cattle,Import Quantity,1969,3441709
+Europe,Cattle,Import Quantity,1970,3377102
+Europe,Cattle,Import Quantity,1971,3599490
+Europe,Cattle,Import Quantity,1972,3993978
+Europe,Cattle,Import Quantity,1973,3395159
+Europe,Cattle,Import Quantity,1974,2924141
+Europe,Cattle,Import Quantity,1975,3951096
+Europe,Cattle,Import Quantity,1976,3500673
+Europe,Cattle,Import Quantity,1977,3399199
+Europe,Cattle,Import Quantity,1978,3549304
+Europe,Cattle,Import Quantity,1979,3699462
+Europe,Cattle,Import Quantity,1980,3577635
+Europe,Cattle,Import Quantity,1981,3373109
+Europe,Cattle,Import Quantity,1982,3638083
+Europe,Cattle,Import Quantity,1983,3583867
+Europe,Cattle,Import Quantity,1984,3543655
+Europe,Cattle,Import Quantity,1985,3861353
+Europe,Cattle,Import Quantity,1986,4006103
+Europe,Cattle,Import Quantity,1987,3994027
+Europe,Cattle,Import Quantity,1988,3755230
+Europe,Cattle,Import Quantity,1989,3991880
+Europe,Cattle,Import Quantity,1990,4313519
+Europe,Cattle,Import Quantity,1991,4198523
+Europe,Cattle,Import Quantity,1992,4549887
+Europe,Cattle,Import Quantity,1993,3771077
+Europe,Cattle,Import Quantity,1994,4243666
+Europe,Cattle,Import Quantity,1995,3604723
+Europe,Cattle,Import Quantity,1996,3551233
+Europe,Cattle,Import Quantity,1997,3861625
+Europe,Cattle,Import Quantity,1998,3792506
+Europe,Cattle,Import Quantity,1999,3720267
+Europe,Cattle,Import Quantity,2000,3469294
+Europe,Cattle,Import Quantity,2001,2662631
+Europe,Cattle,Import Quantity,2002,3319935
+Europe,Cattle,Import Quantity,2003,3496228
+Europe,Cattle,Import Quantity,2004,3586540
+Europe,Cattle,Import Quantity,2005,3766490
+Europe,Cattle,Import Quantity,2006,3996166
+Europe,Cattle,Import Quantity,2007,3782651
+Europe,Cattle,Import Quantity,2008,3259492
+Europe,Cattle,Import Quantity,2009,3829212
+Europe,Cattle,Import Quantity,2010,4107582
+Europe,Cattle,Import Quantity,2011,3961722
+Europe,Cattle,Import Quantity,2012,3745741
+Europe,Cattle,Import Quantity,2013,3875710
+Europe,Cattle,Export Quantity,1961,1926982
+Europe,Cattle,Export Quantity,1962,1505228
+Europe,Cattle,Export Quantity,1963,2033870
+Europe,Cattle,Export Quantity,1964,2120667
+Europe,Cattle,Export Quantity,1965,2143408
+Europe,Cattle,Export Quantity,1966,1921236
+Europe,Cattle,Export Quantity,1967,2527522
+Europe,Cattle,Export Quantity,1968,2970630
+Europe,Cattle,Export Quantity,1969,3206314
+Europe,Cattle,Export Quantity,1970,3336720
+Europe,Cattle,Export Quantity,1971,3554087
+Europe,Cattle,Export Quantity,1972,3910583
+Europe,Cattle,Export Quantity,1973,3348983
+Europe,Cattle,Export Quantity,1974,2942896
+Europe,Cattle,Export Quantity,1975,4101282
+Europe,Cattle,Export Quantity,1976,3624553
+Europe,Cattle,Export Quantity,1977,3518339
+Europe,Cattle,Export Quantity,1978,3865480
+Europe,Cattle,Export Quantity,1979,3967645
+Europe,Cattle,Export Quantity,1980,3984747
+Europe,Cattle,Export Quantity,1981,4079706
+Europe,Cattle,Export Quantity,1982,4153379
+Europe,Cattle,Export Quantity,1983,4197945
+Europe,Cattle,Export Quantity,1984,4244427
+Europe,Cattle,Export Quantity,1985,4064658
+Europe,Cattle,Export Quantity,1986,4456750
+Europe,Cattle,Export Quantity,1987,4615020
+Europe,Cattle,Export Quantity,1988,4367229
+Europe,Cattle,Export Quantity,1989,4308979
+Europe,Cattle,Export Quantity,1990,4161041
+Europe,Cattle,Export Quantity,1991,4511205
+Europe,Cattle,Export Quantity,1992,5007559
+Europe,Cattle,Export Quantity,1993,4708674
+Europe,Cattle,Export Quantity,1994,5145560
+Europe,Cattle,Export Quantity,1995,4915074
+Europe,Cattle,Export Quantity,1996,3994686
+Europe,Cattle,Export Quantity,1997,4201091
+Europe,Cattle,Export Quantity,1998,4243084
+Europe,Cattle,Export Quantity,1999,4368893
+Europe,Cattle,Export Quantity,2000,4434719
+Europe,Cattle,Export Quantity,2001,3409871
+Europe,Cattle,Export Quantity,2002,4117197
+Europe,Cattle,Export Quantity,2003,4255010
+Europe,Cattle,Export Quantity,2004,4330953
+Europe,Cattle,Export Quantity,2005,4332030
+Europe,Cattle,Export Quantity,2006,4471686
+Europe,Cattle,Export Quantity,2007,4150159
+Europe,Cattle,Export Quantity,2008,3830920
+Europe,Cattle,Export Quantity,2009,4368213
+Europe,Cattle,Export Quantity,2010,4694018
+Europe,Cattle,Export Quantity,2011,4804182
+Europe,Cattle,Export Quantity,2012,4457166
+Europe,Cattle,Export Quantity,2013,4272489
+Europe,Chickens,Import Quantity,2010,1012406
+Europe,Chickens,Import Quantity,2011,1066673
+Europe,Chickens,Import Quantity,2012,1175064
+Europe,Chickens,Import Quantity,2013,1121288
+Europe,Chickens,Export Quantity,2009,1005725
+Europe,Chickens,Export Quantity,2010,1172382
+Europe,Chickens,Export Quantity,2011,1215702
+Europe,Chickens,Export Quantity,2012,1280263
+Europe,Chickens,Export Quantity,2013,1307298
+Europe,Pigs,Import Quantity,1961,1540984
+Europe,Pigs,Import Quantity,1962,1289755
+Europe,Pigs,Import Quantity,1965,1501866
+Europe,Pigs,Import Quantity,1966,1306234
+Europe,Pigs,Import Quantity,1967,1218229
+Europe,Pigs,Import Quantity,1968,1449061
+Europe,Pigs,Import Quantity,1969,2084898
+Europe,Pigs,Import Quantity,1970,2395213
+Europe,Pigs,Import Quantity,1971,2806639
+Europe,Pigs,Import Quantity,1972,3144939
+Europe,Pigs,Import Quantity,1973,2945250
+Europe,Pigs,Import Quantity,1974,3112196
+Europe,Pigs,Import Quantity,1975,3498143
+Europe,Pigs,Import Quantity,1976,3688124
+Europe,Pigs,Import Quantity,1977,3575027
+Europe,Pigs,Import Quantity,1978,4381979
+Europe,Pigs,Import Quantity,1979,4824477
+Europe,Pigs,Import Quantity,1980,5681639
+Europe,Pigs,Import Quantity,1981,6340144
+Europe,Pigs,Import Quantity,1982,5245036
+Europe,Pigs,Import Quantity,1983,5525230
+Europe,Pigs,Import Quantity,1984,5395879
+Europe,Pigs,Import Quantity,1985,5704997
+Europe,Pigs,Import Quantity,1986,7789549
+Europe,Pigs,Import Quantity,1987,8229929
+Europe,Pigs,Import Quantity,1988,7916470
+Europe,Pigs,Import Quantity,1989,8348070
+Europe,Pigs,Import Quantity,1990,8654832
+Europe,Pigs,Import Quantity,1991,8232888
+Europe,Pigs,Import Quantity,1992,9233430
+Europe,Pigs,Import Quantity,1993,7251768
+Europe,Pigs,Import Quantity,1994,7433111
+Europe,Pigs,Import Quantity,1995,7627422
+Europe,Pigs,Import Quantity,1996,9361930
+Europe,Pigs,Import Quantity,1997,4969363
+Europe,Pigs,Import Quantity,1998,7098972
+Europe,Pigs,Import Quantity,1999,8292516
+Europe,Pigs,Import Quantity,2000,8995800
+Europe,Pigs,Import Quantity,2001,8360652
+Europe,Pigs,Import Quantity,2002,9873614
+Europe,Pigs,Import Quantity,2003,10112307
+Europe,Pigs,Import Quantity,2004,10809654
+Europe,Pigs,Import Quantity,2005,13323556
+Europe,Pigs,Import Quantity,2006,15815722
+Europe,Pigs,Import Quantity,2007,18457499
+Europe,Pigs,Import Quantity,2008,19794305
+Europe,Pigs,Import Quantity,2009,23715794
+Europe,Pigs,Import Quantity,2010,25355701
+Europe,Pigs,Import Quantity,2011,26450735
+Europe,Pigs,Import Quantity,2012,28779798
+Europe,Pigs,Import Quantity,2013,29433305
+Europe,Pigs,Export Quantity,1961,1591297
+Europe,Pigs,Export Quantity,1962,1338872
+Europe,Pigs,Export Quantity,1964,1036666
+Europe,Pigs,Export Quantity,1965,1739826
+Europe,Pigs,Export Quantity,1966,1281764
+Europe,Pigs,Export Quantity,1967,1247468
+Europe,Pigs,Export Quantity,1968,1502479
+Europe,Pigs,Export Quantity,1969,2067551
+Europe,Pigs,Export Quantity,1970,2526382
+Europe,Pigs,Export Quantity,1971,2746186
+Europe,Pigs,Export Quantity,1972,3232540
+Europe,Pigs,Export Quantity,1973,2964020
+Europe,Pigs,Export Quantity,1974,3204169
+Europe,Pigs,Export Quantity,1975,3540754
+Europe,Pigs,Export Quantity,1976,3831432
+Europe,Pigs,Export Quantity,1977,3826255
+Europe,Pigs,Export Quantity,1978,4390557
+Europe,Pigs,Export Quantity,1979,4968985
+Europe,Pigs,Export Quantity,1980,5711996
+Europe,Pigs,Export Quantity,1981,6240786
+Europe,Pigs,Export Quantity,1982,5385546
+Europe,Pigs,Export Quantity,1983,5451968
+Europe,Pigs,Export Quantity,1984,5334780
+Europe,Pigs,Export Quantity,1985,5628597
+Europe,Pigs,Export Quantity,1986,7627440
+Europe,Pigs,Export Quantity,1987,8060843
+Europe,Pigs,Export Quantity,1988,7849671
+Europe,Pigs,Export Quantity,1989,8102759
+Europe,Pigs,Export Quantity,1990,7874867
+Europe,Pigs,Export Quantity,1991,8134231
+Europe,Pigs,Export Quantity,1992,9205081
+Europe,Pigs,Export Quantity,1993,7378883
+Europe,Pigs,Export Quantity,1994,8544372
+Europe,Pigs,Export Quantity,1995,8116833
+Europe,Pigs,Export Quantity,1996,9505427
+Europe,Pigs,Export Quantity,1997,6151990
+Europe,Pigs,Export Quantity,1998,7046872
+Europe,Pigs,Export Quantity,1999,9071910
+Europe,Pigs,Export Quantity,2000,8909565
+Europe,Pigs,Export Quantity,2001,7763922
+Europe,Pigs,Export Quantity,2002,8897079
+Europe,Pigs,Export Quantity,2003,10729746
+Europe,Pigs,Export Quantity,2004,11649332
+Europe,Pigs,Export Quantity,2005,13752355
+Europe,Pigs,Export Quantity,2006,16184830
+Europe,Pigs,Export Quantity,2007,18593017
+Europe,Pigs,Export Quantity,2008,20213969
+Europe,Pigs,Export Quantity,2009,25148852
+Europe,Pigs,Export Quantity,2010,26758908
+Europe,Pigs,Export Quantity,2011,26938173
+Europe,Pigs,Export Quantity,2012,28708067
+Europe,Pigs,Export Quantity,2013,31142767
+Europe,Sheep,Import Quantity,1961,3264330
+Europe,Sheep,Import Quantity,1962,2726028
+Europe,Sheep,Import Quantity,1963,2567323
+Europe,Sheep,Import Quantity,1964,2516702
+Europe,Sheep,Import Quantity,1965,3336446
+Europe,Sheep,Import Quantity,1966,3695521
+Europe,Sheep,Import Quantity,1967,3407905
+Europe,Sheep,Import Quantity,1968,3251887
+Europe,Sheep,Import Quantity,1969,3447703
+Europe,Sheep,Import Quantity,1970,3534794
+Europe,Sheep,Import Quantity,1971,3817473
+Europe,Sheep,Import Quantity,1972,4225792
+Europe,Sheep,Import Quantity,1973,3769059
+Europe,Sheep,Import Quantity,1974,3178622
+Europe,Sheep,Import Quantity,1975,3588800
+Europe,Sheep,Import Quantity,1976,3259451
+Europe,Sheep,Import Quantity,1977,2838773
+Europe,Sheep,Import Quantity,1978,3362542
+Europe,Sheep,Import Quantity,1979,3442550
+Europe,Sheep,Import Quantity,1980,3469715
+Europe,Sheep,Import Quantity,1981,2600124
+Europe,Sheep,Import Quantity,1982,2617311
+Europe,Sheep,Import Quantity,1983,3197659
+Europe,Sheep,Import Quantity,1984,3187429
+Europe,Sheep,Import Quantity,1985,3618336
+Europe,Sheep,Import Quantity,1986,3748646
+Europe,Sheep,Import Quantity,1987,4308512
+Europe,Sheep,Import Quantity,1988,3945005
+Europe,Sheep,Import Quantity,1989,4967557
+Europe,Sheep,Import Quantity,1990,6509461
+Europe,Sheep,Import Quantity,1991,7157449
+Europe,Sheep,Import Quantity,1992,7172576
+Europe,Sheep,Import Quantity,1993,5264349
+Europe,Sheep,Import Quantity,1994,5194600
+Europe,Sheep,Import Quantity,1995,4749225
+Europe,Sheep,Import Quantity,1996,4550374
+Europe,Sheep,Import Quantity,1997,3901208
+Europe,Sheep,Import Quantity,1998,4094166
+Europe,Sheep,Import Quantity,1999,4664033
+Europe,Sheep,Import Quantity,2000,4309841
+Europe,Sheep,Import Quantity,2001,3773898
+Europe,Sheep,Import Quantity,2002,3834762
+Europe,Sheep,Import Quantity,2003,3900984
+Europe,Sheep,Import Quantity,2004,4116786
+Europe,Sheep,Import Quantity,2005,3878645
+Europe,Sheep,Import Quantity,2006,4078723
+Europe,Sheep,Import Quantity,2007,3930823
+Europe,Sheep,Import Quantity,2008,3683902
+Europe,Sheep,Import Quantity,2009,3528552
+Europe,Sheep,Import Quantity,2010,3492465
+Europe,Sheep,Import Quantity,2011,3460267
+Europe,Sheep,Import Quantity,2012,2950999
+Europe,Sheep,Import Quantity,2013,2868414
+Europe,Sheep,Export Quantity,1961,1902374
+Europe,Sheep,Export Quantity,1962,1682696
+Europe,Sheep,Export Quantity,1963,1932983
+Europe,Sheep,Export Quantity,1964,1737277
+Europe,Sheep,Export Quantity,1965,2184865
+Europe,Sheep,Export Quantity,1966,2239721
+Europe,Sheep,Export Quantity,1967,2317430
+Europe,Sheep,Export Quantity,1968,2862812
+Europe,Sheep,Export Quantity,1969,3286219
+Europe,Sheep,Export Quantity,1970,3569606
+Europe,Sheep,Export Quantity,1971,3834496
+Europe,Sheep,Export Quantity,1972,3958912
+Europe,Sheep,Export Quantity,1973,3775119
+Europe,Sheep,Export Quantity,1974,3438244
+Europe,Sheep,Export Quantity,1975,4602979
+Europe,Sheep,Export Quantity,1976,4175926
+Europe,Sheep,Export Quantity,1977,4804383
+Europe,Sheep,Export Quantity,1978,5497662
+Europe,Sheep,Export Quantity,1979,5903904
+Europe,Sheep,Export Quantity,1980,5824794
+Europe,Sheep,Export Quantity,1981,4299155
+Europe,Sheep,Export Quantity,1982,4329237
+Europe,Sheep,Export Quantity,1983,5193093
+Europe,Sheep,Export Quantity,1984,5200354
+Europe,Sheep,Export Quantity,1985,4522000
+Europe,Sheep,Export Quantity,1986,4268714
+Europe,Sheep,Export Quantity,1987,5496410
+Europe,Sheep,Export Quantity,1988,5906654
+Europe,Sheep,Export Quantity,1989,5869908
+Europe,Sheep,Export Quantity,1990,6802785
+Europe,Sheep,Export Quantity,1991,8624210
+Europe,Sheep,Export Quantity,1992,9658604
+Europe,Sheep,Export Quantity,1993,6718149
+Europe,Sheep,Export Quantity,1994,7232205
+Europe,Sheep,Export Quantity,1995,6007960
+Europe,Sheep,Export Quantity,1996,5837319
+Europe,Sheep,Export Quantity,1997,4529449
+Europe,Sheep,Export Quantity,1998,4424721
+Europe,Sheep,Export Quantity,1999,5081130
+Europe,Sheep,Export Quantity,2000,4582343
+Europe,Sheep,Export Quantity,2001,4125220
+Europe,Sheep,Export Quantity,2002,4120026
+Europe,Sheep,Export Quantity,2003,4593638
+Europe,Sheep,Export Quantity,2004,4536042
+Europe,Sheep,Export Quantity,2005,4713336
+Europe,Sheep,Export Quantity,2006,4486087
+Europe,Sheep,Export Quantity,2007,4379138
+Europe,Sheep,Export Quantity,2008,3836129
+Europe,Sheep,Export Quantity,2009,4162554
+Europe,Sheep,Export Quantity,2010,4454207
+Europe,Sheep,Export Quantity,2011,5176092
+Europe,Sheep,Export Quantity,2012,4602039
+Europe,Sheep,Export Quantity,2013,4831079
+Eastern Europe,Cattle,Export Quantity,1990,1027074
+Eastern Europe,Cattle,Export Quantity,1992,1071683
+Eastern Europe,Cattle,Export Quantity,1994,1050858
+Eastern Europe,Cattle,Export Quantity,1995,1136024
+Eastern Europe,Cattle,Export Quantity,2000,1025589
+Eastern Europe,Cattle,Export Quantity,2002,1032654
+Eastern Europe,Cattle,Export Quantity,2003,1036395
+Eastern Europe,Cattle,Export Quantity,2004,1122516
+Eastern Europe,Cattle,Export Quantity,2005,1214542
+Eastern Europe,Cattle,Export Quantity,2006,1448888
+Eastern Europe,Cattle,Export Quantity,2007,1235096
+Eastern Europe,Cattle,Export Quantity,2008,1073842
+Eastern Europe,Cattle,Export Quantity,2009,1213896
+Eastern Europe,Cattle,Export Quantity,2010,1179074
+Eastern Europe,Cattle,Export Quantity,2011,1090882
+Eastern Europe,Cattle,Export Quantity,2012,1060548
+Eastern Europe,Pigs,Import Quantity,1987,1009212
+Eastern Europe,Pigs,Import Quantity,1990,1181740
+Eastern Europe,Pigs,Import Quantity,2005,1447486
+Eastern Europe,Pigs,Import Quantity,2006,1765199
+Eastern Europe,Pigs,Import Quantity,2007,1775747
+Eastern Europe,Pigs,Import Quantity,2008,3240035
+Eastern Europe,Pigs,Import Quantity,2009,5526846
+Eastern Europe,Pigs,Import Quantity,2010,5469641
+Eastern Europe,Pigs,Import Quantity,2011,5549073
+Eastern Europe,Pigs,Import Quantity,2012,7240507
+Eastern Europe,Pigs,Import Quantity,2013,8178431
+Eastern Europe,Pigs,Export Quantity,2009,1163224
+Eastern Europe,Pigs,Export Quantity,2010,1470714
+Eastern Europe,Pigs,Export Quantity,2011,1162612
+Eastern Europe,Pigs,Export Quantity,2012,1610916
+Eastern Europe,Pigs,Export Quantity,2013,1947290
+Eastern Europe,Sheep,Import Quantity,1961,1757394
+Eastern Europe,Sheep,Import Quantity,1962,1379100
+Eastern Europe,Sheep,Import Quantity,1963,1248813
+Eastern Europe,Sheep,Import Quantity,1964,1147728
+Eastern Europe,Sheep,Import Quantity,1965,1408573
+Eastern Europe,Sheep,Import Quantity,1966,1926844
+Eastern Europe,Sheep,Import Quantity,1967,1674749
+Eastern Europe,Sheep,Import Quantity,1968,1092101
+Eastern Europe,Sheep,Import Quantity,1970,1004239
+Eastern Europe,Sheep,Import Quantity,1971,1023833
+Eastern Europe,Sheep,Import Quantity,1972,1236438
+Eastern Europe,Sheep,Import Quantity,1973,1258515
+Eastern Europe,Sheep,Import Quantity,1974,1218163
+Eastern Europe,Sheep,Import Quantity,1975,1020769
+Eastern Europe,Sheep,Export Quantity,1965,1282209
+Eastern Europe,Sheep,Export Quantity,1966,1650523
+Eastern Europe,Sheep,Export Quantity,1967,1569982
+Eastern Europe,Sheep,Export Quantity,1968,1910535
+Eastern Europe,Sheep,Export Quantity,1969,2283893
+Eastern Europe,Sheep,Export Quantity,1970,2923374
+Eastern Europe,Sheep,Export Quantity,1971,3092045
+Eastern Europe,Sheep,Export Quantity,1972,3141196
+Eastern Europe,Sheep,Export Quantity,1973,3067539
+Eastern Europe,Sheep,Export Quantity,1974,2752307
+Eastern Europe,Sheep,Export Quantity,1975,3310382
+Eastern Europe,Sheep,Export Quantity,1976,2872325
+Eastern Europe,Sheep,Export Quantity,1977,3357158
+Eastern Europe,Sheep,Export Quantity,1978,3565990
+Eastern Europe,Sheep,Export Quantity,1979,4317246
+Eastern Europe,Sheep,Export Quantity,1980,4170927
+Eastern Europe,Sheep,Export Quantity,1981,3311824
+Eastern Europe,Sheep,Export Quantity,1982,3356380
+Eastern Europe,Sheep,Export Quantity,1983,3890241
+Eastern Europe,Sheep,Export Quantity,1984,3955067
+Eastern Europe,Sheep,Export Quantity,1985,2874998
+Eastern Europe,Sheep,Export Quantity,1986,2468929
+Eastern Europe,Sheep,Export Quantity,1987,3314677
+Eastern Europe,Sheep,Export Quantity,1988,3676024
+Eastern Europe,Sheep,Export Quantity,1989,3151927
+Eastern Europe,Sheep,Export Quantity,1990,2835976
+Eastern Europe,Sheep,Export Quantity,1991,3987446
+Eastern Europe,Sheep,Export Quantity,1992,4938805
+Eastern Europe,Sheep,Export Quantity,1993,3452086
+Eastern Europe,Sheep,Export Quantity,1994,4033756
+Eastern Europe,Sheep,Export Quantity,1995,3309293
+Eastern Europe,Sheep,Export Quantity,1996,2998400
+Eastern Europe,Sheep,Export Quantity,1997,2450275
+Eastern Europe,Sheep,Export Quantity,1998,2168502
+Eastern Europe,Sheep,Export Quantity,1999,2280421
+Eastern Europe,Sheep,Export Quantity,2000,2364522
+Eastern Europe,Sheep,Export Quantity,2001,2844664
+Eastern Europe,Sheep,Export Quantity,2002,2614182
+Eastern Europe,Sheep,Export Quantity,2003,3213600
+Eastern Europe,Sheep,Export Quantity,2004,3185533
+Eastern Europe,Sheep,Export Quantity,2005,2886100
+Eastern Europe,Sheep,Export Quantity,2006,2644663
+Eastern Europe,Sheep,Export Quantity,2007,2734433
+Eastern Europe,Sheep,Export Quantity,2008,2370581
+Eastern Europe,Sheep,Export Quantity,2009,2441062
+Eastern Europe,Sheep,Export Quantity,2010,2652817
+Eastern Europe,Sheep,Export Quantity,2011,3337906
+Eastern Europe,Sheep,Export Quantity,2012,2665658
+Eastern Europe,Sheep,Export Quantity,2013,2658413
+Northern Europe,Cattle,Export Quantity,1961,1282376
+Northern Europe,Cattle,Export Quantity,1963,1181541
+Northern Europe,Cattle,Export Quantity,1964,1388652
+Northern Europe,Cattle,Export Quantity,1965,1204343
+Northern Europe,Cattle,Export Quantity,1967,1057263
+Northern Europe,Cattle,Export Quantity,1978,1088473
+Northern Europe,Cattle,Export Quantity,1993,1008700
+Northern Europe,Cattle,Export Quantity,1994,1033195
+Northern Europe,Pigs,Export Quantity,1996,1106823
+Northern Europe,Pigs,Export Quantity,1997,1642446
+Northern Europe,Pigs,Export Quantity,1998,2252587
+Northern Europe,Pigs,Export Quantity,1999,1871107
+Northern Europe,Pigs,Export Quantity,2000,2041914
+Northern Europe,Pigs,Export Quantity,2001,1666210
+Northern Europe,Pigs,Export Quantity,2002,2523413
+Northern Europe,Pigs,Export Quantity,2003,2554233
+Northern Europe,Pigs,Export Quantity,2004,3015714
+Northern Europe,Pigs,Export Quantity,2005,3899690
+Northern Europe,Pigs,Export Quantity,2006,4656483
+Northern Europe,Pigs,Export Quantity,2007,5231827
+Northern Europe,Pigs,Export Quantity,2008,5278086
+Northern Europe,Pigs,Export Quantity,2009,7057835
+Northern Europe,Pigs,Export Quantity,2010,7345779
+Northern Europe,Pigs,Export Quantity,2011,9429204
+Northern Europe,Pigs,Export Quantity,2012,10404234
+Northern Europe,Pigs,Export Quantity,2013,11567355
+Northern Europe,Sheep,Export Quantity,1991,1118263
+Northern Europe,Sheep,Export Quantity,1992,1758436
+Northern Europe,Sheep,Export Quantity,1994,1110283
+Southern Europe,Cattle,Import Quantity,1967,1347293
+Southern Europe,Cattle,Import Quantity,1968,1741177
+Southern Europe,Cattle,Import Quantity,1969,1998031
+Southern Europe,Cattle,Import Quantity,1970,2131301
+Southern Europe,Cattle,Import Quantity,1971,2407701
+Southern Europe,Cattle,Import Quantity,1972,2690568
+Southern Europe,Cattle,Import Quantity,1973,2318813
+Southern Europe,Cattle,Import Quantity,1974,1880436
+Southern Europe,Cattle,Import Quantity,1975,2343059
+Southern Europe,Cattle,Import Quantity,1976,2419227
+Southern Europe,Cattle,Import Quantity,1977,1950450
+Southern Europe,Cattle,Import Quantity,1978,2193193
+Southern Europe,Cattle,Import Quantity,1979,2460023
+Southern Europe,Cattle,Import Quantity,1980,2423721
+Southern Europe,Cattle,Import Quantity,1981,2322874
+Southern Europe,Cattle,Import Quantity,1982,2556311
+Southern Europe,Cattle,Import Quantity,1983,2392996
+Southern Europe,Cattle,Import Quantity,1984,2254371
+Southern Europe,Cattle,Import Quantity,1985,2551814
+Southern Europe,Cattle,Import Quantity,1986,2471082
+Southern Europe,Cattle,Import Quantity,1987,2346280
+Southern Europe,Cattle,Import Quantity,1988,2127740
+Southern Europe,Cattle,Import Quantity,1989,2376655
+Southern Europe,Cattle,Import Quantity,1990,2407087
+Southern Europe,Cattle,Import Quantity,1991,2455527
+Southern Europe,Cattle,Import Quantity,1992,2450845
+Southern Europe,Cattle,Import Quantity,1993,2075714
+Southern Europe,Cattle,Import Quantity,1994,2262357
+Southern Europe,Cattle,Import Quantity,1995,2102173
+Southern Europe,Cattle,Import Quantity,1996,2393826
+Southern Europe,Cattle,Import Quantity,1997,2557503
+Southern Europe,Cattle,Import Quantity,1998,2771323
+Southern Europe,Cattle,Import Quantity,1999,2630014
+Southern Europe,Cattle,Import Quantity,2000,2523235
+Southern Europe,Cattle,Import Quantity,2001,2071595
+Southern Europe,Cattle,Import Quantity,2002,2713852
+Southern Europe,Cattle,Import Quantity,2003,2619474
+Southern Europe,Cattle,Import Quantity,2004,2534077
+Southern Europe,Cattle,Import Quantity,2005,2612406
+Southern Europe,Cattle,Import Quantity,2006,2619465
+Southern Europe,Cattle,Import Quantity,2007,2441064
+Southern Europe,Cattle,Import Quantity,2008,1915746
+Southern Europe,Cattle,Import Quantity,2009,2184707
+Southern Europe,Cattle,Import Quantity,2010,2409349
+Southern Europe,Cattle,Import Quantity,2011,2259017
+Southern Europe,Cattle,Import Quantity,2012,1974743
+Southern Europe,Cattle,Import Quantity,2013,2319356
+Southern Europe,Pigs,Import Quantity,1980,1171767
+Southern Europe,Pigs,Import Quantity,1986,3033661
+Southern Europe,Pigs,Import Quantity,1987,2606460
+Southern Europe,Pigs,Import Quantity,1988,2261912
+Southern Europe,Pigs,Import Quantity,1989,3067276
+Southern Europe,Pigs,Import Quantity,1990,3317305
+Southern Europe,Pigs,Import Quantity,1991,2631954
+Southern Europe,Pigs,Import Quantity,1992,3026313
+Southern Europe,Pigs,Import Quantity,1993,3116323
+Southern Europe,Pigs,Import Quantity,1994,2835994
+Southern Europe,Pigs,Import Quantity,1995,2875617
+Southern Europe,Pigs,Import Quantity,1996,3285130
+Southern Europe,Pigs,Import Quantity,1997,1552070
+Southern Europe,Pigs,Import Quantity,1998,2625315
+Southern Europe,Pigs,Import Quantity,1999,3153489
+Southern Europe,Pigs,Import Quantity,2000,3119806
+Southern Europe,Pigs,Import Quantity,2001,3099004
+Southern Europe,Pigs,Import Quantity,2002,3607323
+Southern Europe,Pigs,Import Quantity,2003,3291848
+Southern Europe,Pigs,Import Quantity,2004,2937707
+Southern Europe,Pigs,Import Quantity,2005,2844664
+Southern Europe,Pigs,Import Quantity,2006,3882761
+Southern Europe,Pigs,Import Quantity,2007,4418818
+Southern Europe,Pigs,Import Quantity,2008,3258404
+Southern Europe,Pigs,Import Quantity,2009,3224374
+Southern Europe,Pigs,Import Quantity,2010,3420634
+Southern Europe,Pigs,Import Quantity,2011,3843383
+Southern Europe,Pigs,Import Quantity,2012,3460919
+Southern Europe,Pigs,Import Quantity,2013,3595674
+Southern Europe,Pigs,Export Quantity,2000,1264676
+Southern Europe,Pigs,Export Quantity,2001,1051813
+Southern Europe,Pigs,Export Quantity,2002,1180571
+Southern Europe,Pigs,Export Quantity,2003,1213576
+Southern Europe,Pigs,Export Quantity,2004,1529295
+Southern Europe,Pigs,Export Quantity,2005,1600968
+Southern Europe,Pigs,Export Quantity,2006,1440789
+Southern Europe,Pigs,Export Quantity,2007,1940434
+Southern Europe,Pigs,Export Quantity,2008,1818220
+Southern Europe,Pigs,Export Quantity,2009,2208485
+Southern Europe,Pigs,Export Quantity,2010,2253813
+Southern Europe,Pigs,Export Quantity,2011,1927226
+Southern Europe,Pigs,Export Quantity,2012,1923027
+Southern Europe,Pigs,Export Quantity,2013,1764523
+Southern Europe,Sheep,Import Quantity,1965,1113258
+Southern Europe,Sheep,Import Quantity,1966,1329425
+Southern Europe,Sheep,Import Quantity,1967,1196826
+Southern Europe,Sheep,Import Quantity,1968,1501656
+Southern Europe,Sheep,Import Quantity,1969,1637731
+Southern Europe,Sheep,Import Quantity,1970,1959694
+Southern Europe,Sheep,Import Quantity,1971,2140157
+Southern Europe,Sheep,Import Quantity,1972,2238521
+Southern Europe,Sheep,Import Quantity,1973,1750162
+Southern Europe,Sheep,Import Quantity,1974,1190809
+Southern Europe,Sheep,Import Quantity,1975,1317269
+Southern Europe,Sheep,Import Quantity,1976,1008421
+Southern Europe,Sheep,Import Quantity,1979,1145970
+Southern Europe,Sheep,Import Quantity,1980,1246978
+Southern Europe,Sheep,Import Quantity,1981,1123774
+Southern Europe,Sheep,Import Quantity,1982,1293502
+Southern Europe,Sheep,Import Quantity,1983,1551630
+Southern Europe,Sheep,Import Quantity,1984,1562551
+Southern Europe,Sheep,Import Quantity,1985,1891009
+Southern Europe,Sheep,Import Quantity,1986,1844103
+Southern Europe,Sheep,Import Quantity,1987,2176025
+Southern Europe,Sheep,Import Quantity,1988,1917884
+Southern Europe,Sheep,Import Quantity,1989,2848789
+Southern Europe,Sheep,Import Quantity,1990,3790054
+Southern Europe,Sheep,Import Quantity,1991,4279355
+Southern Europe,Sheep,Import Quantity,1992,4278219
+Southern Europe,Sheep,Import Quantity,1993,3025997
+Southern Europe,Sheep,Import Quantity,1994,3325538
+Southern Europe,Sheep,Import Quantity,1995,3034204
+Southern Europe,Sheep,Import Quantity,1996,2997072
+Southern Europe,Sheep,Import Quantity,1997,2649460
+Southern Europe,Sheep,Import Quantity,1998,2817325
+Southern Europe,Sheep,Import Quantity,1999,3063845
+Southern Europe,Sheep,Import Quantity,2000,2843310
+Southern Europe,Sheep,Import Quantity,2001,2717349
+Southern Europe,Sheep,Import Quantity,2002,2966774
+Southern Europe,Sheep,Import Quantity,2003,3158656
+Southern Europe,Sheep,Import Quantity,2004,3121096
+Southern Europe,Sheep,Import Quantity,2005,2879112
+Southern Europe,Sheep,Import Quantity,2006,2574944
+Southern Europe,Sheep,Import Quantity,2007,2583677
+Southern Europe,Sheep,Import Quantity,2008,2377405
+Southern Europe,Sheep,Import Quantity,2009,2372518
+Southern Europe,Sheep,Import Quantity,2010,2308197
+Southern Europe,Sheep,Import Quantity,2011,2025591
+Southern Europe,Sheep,Import Quantity,2012,1930164
+Southern Europe,Sheep,Import Quantity,2013,2022283
+Southern Europe,Sheep,Export Quantity,2013,1176461
+Western Europe,Cattle,Import Quantity,1986,1122126
+Western Europe,Cattle,Import Quantity,1987,1339173
+Western Europe,Cattle,Import Quantity,1988,1210071
+Western Europe,Cattle,Import Quantity,1989,1332851
+Western Europe,Cattle,Import Quantity,1990,1622217
+Western Europe,Cattle,Import Quantity,1991,1496862
+Western Europe,Cattle,Import Quantity,1992,1628019
+Western Europe,Cattle,Import Quantity,1993,1385163
+Western Europe,Cattle,Import Quantity,1994,1636619
+Western Europe,Cattle,Import Quantity,1995,1345961
+Western Europe,Cattle,Import Quantity,1996,1084756
+Western Europe,Cattle,Import Quantity,1997,1256895
+Western Europe,Cattle,Import Quantity,1999,1055061
+Western Europe,Cattle,Import Quantity,2004,1003156
+Western Europe,Cattle,Import Quantity,2005,1045452
+Western Europe,Cattle,Import Quantity,2006,1224370
+Western Europe,Cattle,Import Quantity,2007,1180418
+Western Europe,Cattle,Import Quantity,2008,1218749
+Western Europe,Cattle,Import Quantity,2009,1496513
+Western Europe,Cattle,Import Quantity,2010,1491417
+Western Europe,Cattle,Import Quantity,2011,1418844
+Western Europe,Cattle,Import Quantity,2012,1425375
+Western Europe,Cattle,Import Quantity,2013,1251495
+Western Europe,Cattle,Export Quantity,1968,1302425
+Western Europe,Cattle,Export Quantity,1969,1481241
+Western Europe,Cattle,Export Quantity,1970,1722735
+Western Europe,Cattle,Export Quantity,1971,1869303
+Western Europe,Cattle,Export Quantity,1972,2192697
+Western Europe,Cattle,Export Quantity,1973,1995055
+Western Europe,Cattle,Export Quantity,1974,1801308
+Western Europe,Cattle,Export Quantity,1975,2528003
+Western Europe,Cattle,Export Quantity,1976,2508649
+Western Europe,Cattle,Export Quantity,1977,2049416
+Western Europe,Cattle,Export Quantity,1978,2273906
+Western Europe,Cattle,Export Quantity,1979,2477202
+Western Europe,Cattle,Export Quantity,1980,2586492
+Western Europe,Cattle,Export Quantity,1981,2787086
+Western Europe,Cattle,Export Quantity,1982,2842504
+Western Europe,Cattle,Export Quantity,1983,2817069
+Western Europe,Cattle,Export Quantity,1984,2861942
+Western Europe,Cattle,Export Quantity,1985,2884315
+Western Europe,Cattle,Export Quantity,1986,3155544
+Western Europe,Cattle,Export Quantity,1987,2921925
+Western Europe,Cattle,Export Quantity,1988,2738651
+Western Europe,Cattle,Export Quantity,1989,2630377
+Western Europe,Cattle,Export Quantity,1990,2424078
+Western Europe,Cattle,Export Quantity,1991,2970985
+Western Europe,Cattle,Export Quantity,1992,2922560
+Western Europe,Cattle,Export Quantity,1993,2810609
+Western Europe,Cattle,Export Quantity,1994,2956472
+Western Europe,Cattle,Export Quantity,1995,2884949
+Western Europe,Cattle,Export Quantity,1996,2861311
+Western Europe,Cattle,Export Quantity,1997,3039405
+Western Europe,Cattle,Export Quantity,1998,2873243
+Western Europe,Cattle,Export Quantity,1999,2781582
+Western Europe,Cattle,Export Quantity,2000,2748524
+Western Europe,Cattle,Export Quantity,2001,2211996
+Western Europe,Cattle,Export Quantity,2002,2816122
+Western Europe,Cattle,Export Quantity,2003,2925438
+Western Europe,Cattle,Export Quantity,2004,2894475
+Western Europe,Cattle,Export Quantity,2005,2723851
+Western Europe,Cattle,Export Quantity,2006,2520943
+Western Europe,Cattle,Export Quantity,2007,2345859
+Western Europe,Cattle,Export Quantity,2008,2144063
+Western Europe,Cattle,Export Quantity,2009,2524294
+Western Europe,Cattle,Export Quantity,2010,2652021
+Western Europe,Cattle,Export Quantity,2011,2950088
+Western Europe,Cattle,Export Quantity,2012,2605620
+Western Europe,Cattle,Export Quantity,2013,2487162
+Western Europe,Pigs,Import Quantity,1968,1227002
+Western Europe,Pigs,Import Quantity,1969,1694591
+Western Europe,Pigs,Import Quantity,1970,1666758
+Western Europe,Pigs,Import Quantity,1971,1876322
+Western Europe,Pigs,Import Quantity,1972,2456997
+Western Europe,Pigs,Import Quantity,1973,2331200
+Western Europe,Pigs,Import Quantity,1974,2241850
+Western Europe,Pigs,Import Quantity,1975,2651888
+Western Europe,Pigs,Import Quantity,1976,2531124
+Western Europe,Pigs,Import Quantity,1977,2664856
+Western Europe,Pigs,Import Quantity,1978,3315552
+Western Europe,Pigs,Import Quantity,1979,3627883
+Western Europe,Pigs,Import Quantity,1980,3757784
+Western Europe,Pigs,Import Quantity,1981,4292640
+Western Europe,Pigs,Import Quantity,1982,3438315
+Western Europe,Pigs,Import Quantity,1983,3688608
+Western Europe,Pigs,Import Quantity,1984,3893792
+Western Europe,Pigs,Import Quantity,1985,3736221
+Western Europe,Pigs,Import Quantity,1986,4092168
+Western Europe,Pigs,Import Quantity,1987,4550234
+Western Europe,Pigs,Import Quantity,1988,4684658
+Western Europe,Pigs,Import Quantity,1989,4382722
+Western Europe,Pigs,Import Quantity,1990,4071277
+Western Europe,Pigs,Import Quantity,1991,4827937
+Western Europe,Pigs,Import Quantity,1992,5695103
+Western Europe,Pigs,Import Quantity,1993,4011734
+Western Europe,Pigs,Import Quantity,1994,4355466
+Western Europe,Pigs,Import Quantity,1995,4569325
+Western Europe,Pigs,Import Quantity,1996,5781072
+Western Europe,Pigs,Import Quantity,1997,3177507
+Western Europe,Pigs,Import Quantity,1998,4197677
+Western Europe,Pigs,Import Quantity,1999,4918440
+Western Europe,Pigs,Import Quantity,2000,5426555
+Western Europe,Pigs,Import Quantity,2001,4877086
+Western Europe,Pigs,Import Quantity,2002,5674870
+Western Europe,Pigs,Import Quantity,2003,6259715
+Western Europe,Pigs,Import Quantity,2004,6637375
+Western Europe,Pigs,Import Quantity,2005,8402714
+Western Europe,Pigs,Import Quantity,2006,9610038
+Western Europe,Pigs,Import Quantity,2007,11691668
+Western Europe,Pigs,Import Quantity,2008,12689775
+Western Europe,Pigs,Import Quantity,2009,14402896
+Western Europe,Pigs,Import Quantity,2010,15714656
+Western Europe,Pigs,Import Quantity,2011,16294358
+Western Europe,Pigs,Import Quantity,2012,17178339
+Western Europe,Pigs,Import Quantity,2013,17017082
+Western Europe,Pigs,Export Quantity,1968,1126372
+Western Europe,Pigs,Export Quantity,1969,1706516
+Western Europe,Pigs,Export Quantity,1970,2178758
+Western Europe,Pigs,Export Quantity,1971,2071663
+Western Europe,Pigs,Export Quantity,1972,2492506
+Western Europe,Pigs,Export Quantity,1973,2573913
+Western Europe,Pigs,Export Quantity,1974,2787964
+Western Europe,Pigs,Export Quantity,1975,3104878
+Western Europe,Pigs,Export Quantity,1976,3265424
+Western Europe,Pigs,Export Quantity,1977,3279951
+Western Europe,Pigs,Export Quantity,1978,3672067
+Western Europe,Pigs,Export Quantity,1979,4246885
+Western Europe,Pigs,Export Quantity,1980,4680121
+Western Europe,Pigs,Export Quantity,1981,4790053
+Western Europe,Pigs,Export Quantity,1982,4068885
+Western Europe,Pigs,Export Quantity,1983,4130105
+Western Europe,Pigs,Export Quantity,1984,4394093
+Western Europe,Pigs,Export Quantity,1985,4721391
+Western Europe,Pigs,Export Quantity,1986,7081507
+Western Europe,Pigs,Export Quantity,1987,7505664
+Western Europe,Pigs,Export Quantity,1988,7245366
+Western Europe,Pigs,Export Quantity,1989,7225792
+Western Europe,Pigs,Export Quantity,1990,7245678
+Western Europe,Pigs,Export Quantity,1991,6861528
+Western Europe,Pigs,Export Quantity,1992,7991513
+Western Europe,Pigs,Export Quantity,1993,6655317
+Western Europe,Pigs,Export Quantity,1994,7369299
+Western Europe,Pigs,Export Quantity,1995,6755617
+Western Europe,Pigs,Export Quantity,1996,7306841
+Western Europe,Pigs,Export Quantity,1997,3379696
+Western Europe,Pigs,Export Quantity,1998,3947915
+Western Europe,Pigs,Export Quantity,1999,5986542
+Western Europe,Pigs,Export Quantity,2000,5222793
+Western Europe,Pigs,Export Quantity,2001,4671645
+Western Europe,Pigs,Export Quantity,2002,4868226
+Western Europe,Pigs,Export Quantity,2003,6757176
+Western Europe,Pigs,Export Quantity,2004,6576010
+Western Europe,Pigs,Export Quantity,2005,7661379
+Western Europe,Pigs,Export Quantity,2006,9165978
+Western Europe,Pigs,Export Quantity,2007,10669668
+Western Europe,Pigs,Export Quantity,2008,12176111
+Western Europe,Pigs,Export Quantity,2009,14719308
+Western Europe,Pigs,Export Quantity,2010,15688602
+Western Europe,Pigs,Export Quantity,2011,14419131
+Western Europe,Pigs,Export Quantity,2012,14769890
+Western Europe,Pigs,Export Quantity,2013,15863599
+Western Europe,Sheep,Import Quantity,1976,1085137
+Western Europe,Sheep,Import Quantity,1977,1128337
+Western Europe,Sheep,Import Quantity,1978,1445072
+Western Europe,Sheep,Import Quantity,1979,1459121
+Western Europe,Sheep,Import Quantity,1980,1400049
+Western Europe,Sheep,Import Quantity,1983,1095301
+Western Europe,Sheep,Import Quantity,1984,1025269
+Western Europe,Sheep,Import Quantity,1985,1229850
+Western Europe,Sheep,Import Quantity,1986,1348699
+Western Europe,Sheep,Import Quantity,1987,1537355
+Western Europe,Sheep,Import Quantity,1988,1853302
+Western Europe,Sheep,Import Quantity,1989,1866372
+Western Europe,Sheep,Import Quantity,1990,2446322
+Western Europe,Sheep,Import Quantity,1991,2463481
+Western Europe,Sheep,Import Quantity,1992,2535216
+Western Europe,Sheep,Import Quantity,1993,2111340
+Western Europe,Sheep,Import Quantity,1994,1772476
+Western Europe,Sheep,Import Quantity,1995,1472504
+Western Europe,Sheep,Import Quantity,1996,1385761
+Western Europe,Sheep,Import Quantity,1998,1104715
+Western Europe,Sheep,Import Quantity,1999,1356069
+Western Europe,Sheep,Import Quantity,2000,1164936
+Western Europe,Sheep,Export Quantity,1983,1062968
+Western Europe,Sheep,Export Quantity,1985,1367902
+Western Europe,Sheep,Export Quantity,1986,1454170
+Western Europe,Sheep,Export Quantity,1987,1532345
+Western Europe,Sheep,Export Quantity,1988,1389148
+Western Europe,Sheep,Export Quantity,1989,1639221
+Western Europe,Sheep,Export Quantity,1990,2816232
+Western Europe,Sheep,Export Quantity,1991,3187173
+Western Europe,Sheep,Export Quantity,1992,2642310
+Western Europe,Sheep,Export Quantity,1993,2014118
+Western Europe,Sheep,Export Quantity,1994,1791511
+Western Europe,Sheep,Export Quantity,1995,1669963
+Western Europe,Sheep,Export Quantity,1996,1953097
+Western Europe,Sheep,Export Quantity,1997,1378522
+Western Europe,Sheep,Export Quantity,1998,1436108
+Western Europe,Sheep,Export Quantity,1999,1701768
+Western Europe,Sheep,Export Quantity,2000,1149639
+Western Europe,Sheep,Export Quantity,2005,1254809
+Western Europe,Sheep,Export Quantity,2006,1041970
+Western Europe,Sheep,Export Quantity,2007,1060603
+Western Europe,Sheep,Export Quantity,2008,1017764
+Western Europe,Sheep,Export Quantity,2009,1050910
+Western Europe,Sheep,Export Quantity,2010,1050990
+Western Europe,Sheep,Export Quantity,2011,1133090
+Oceania,Cattle,Export Quantity,1996,1165963
+Oceania,Cattle,Export Quantity,1997,1535657
+Oceania,Cattle,Export Quantity,1998,1009059
+Oceania,Cattle,Export Quantity,1999,1392539
+Oceania,Sheep,Export Quantity,1973,1143802
+Oceania,Sheep,Export Quantity,1974,1158699
+Oceania,Sheep,Export Quantity,1975,1453915
+Oceania,Sheep,Export Quantity,1976,1845262
+Oceania,Sheep,Export Quantity,1977,3404894
+Oceania,Sheep,Export Quantity,1978,4141289
+Oceania,Sheep,Export Quantity,1979,3897051
+Oceania,Sheep,Export Quantity,1980,6171623
+Oceania,Sheep,Export Quantity,1981,5761755
+Oceania,Sheep,Export Quantity,1982,6094246
+Oceania,Sheep,Export Quantity,1983,7004064
+Oceania,Sheep,Export Quantity,1984,6349333
+Oceania,Sheep,Export Quantity,1985,6257216
+Oceania,Sheep,Export Quantity,1986,6517841
+Oceania,Sheep,Export Quantity,1987,8371513
+Oceania,Sheep,Export Quantity,1988,7665559
+Oceania,Sheep,Export Quantity,1989,7383152
+Oceania,Sheep,Export Quantity,1990,5013445
+Oceania,Sheep,Export Quantity,1991,5006113
+Oceania,Sheep,Export Quantity,1992,5963121
+Oceania,Sheep,Export Quantity,1993,6370762
+Oceania,Sheep,Export Quantity,1994,6418315
+Oceania,Sheep,Export Quantity,1995,6472822
+Oceania,Sheep,Export Quantity,1996,6594139
+Oceania,Sheep,Export Quantity,1997,5513808
+Oceania,Sheep,Export Quantity,1998,5322443
+Oceania,Sheep,Export Quantity,1999,5286442
+Oceania,Sheep,Export Quantity,2000,5433772
+Oceania,Sheep,Export Quantity,2001,6820700
+Oceania,Sheep,Export Quantity,2002,6109180
+Oceania,Sheep,Export Quantity,2003,4786099
+Oceania,Sheep,Export Quantity,2004,3397723
+Oceania,Sheep,Export Quantity,2005,4190292
+Oceania,Sheep,Export Quantity,2006,4186525
+Oceania,Sheep,Export Quantity,2007,3807929
+Oceania,Sheep,Export Quantity,2008,4215116
+Oceania,Sheep,Export Quantity,2009,3567733
+Oceania,Sheep,Export Quantity,2010,2978295
+Oceania,Sheep,Export Quantity,2011,2308598
+Oceania,Sheep,Export Quantity,2012,2280046
+Oceania,Sheep,Export Quantity,2013,1973785
+Australia & New Zealand,Cattle,Export Quantity,1996,1165963
+Australia & New Zealand,Cattle,Export Quantity,1997,1535657
+Australia & New Zealand,Cattle,Export Quantity,1998,1009044
+Australia & New Zealand,Cattle,Export Quantity,1999,1392539
+Australia & New Zealand,Sheep,Export Quantity,1973,1143802
+Australia & New Zealand,Sheep,Export Quantity,1974,1158699
+Australia & New Zealand,Sheep,Export Quantity,1975,1453915
+Australia & New Zealand,Sheep,Export Quantity,1976,1845262
+Australia & New Zealand,Sheep,Export Quantity,1977,3404894
+Australia & New Zealand,Sheep,Export Quantity,1978,4141289
+Australia & New Zealand,Sheep,Export Quantity,1979,3897051
+Australia & New Zealand,Sheep,Export Quantity,1980,6171623
+Australia & New Zealand,Sheep,Export Quantity,1981,5761755
+Australia & New Zealand,Sheep,Export Quantity,1982,6094246
+Australia & New Zealand,Sheep,Export Quantity,1983,7004064
+Australia & New Zealand,Sheep,Export Quantity,1984,6349333
+Australia & New Zealand,Sheep,Export Quantity,1985,6257216
+Australia & New Zealand,Sheep,Export Quantity,1986,6517841
+Australia & New Zealand,Sheep,Export Quantity,1987,8371513
+Australia & New Zealand,Sheep,Export Quantity,1988,7665559
+Australia & New Zealand,Sheep,Export Quantity,1989,7383152
+Australia & New Zealand,Sheep,Export Quantity,1990,5013445
+Australia & New Zealand,Sheep,Export Quantity,1991,5006113
+Australia & New Zealand,Sheep,Export Quantity,1992,5963121
+Australia & New Zealand,Sheep,Export Quantity,1993,6370762
+Australia & New Zealand,Sheep,Export Quantity,1994,6418315
+Australia & New Zealand,Sheep,Export Quantity,1995,6472822
+Australia & New Zealand,Sheep,Export Quantity,1996,6594139
+Australia & New Zealand,Sheep,Export Quantity,1997,5513808
+Australia & New Zealand,Sheep,Export Quantity,1998,5322443
+Australia & New Zealand,Sheep,Export Quantity,1999,5286442
+Australia & New Zealand,Sheep,Export Quantity,2000,5433772
+Australia & New Zealand,Sheep,Export Quantity,2001,6820700
+Australia & New Zealand,Sheep,Export Quantity,2002,6109180
+Australia & New Zealand,Sheep,Export Quantity,2003,4786099
+Australia & New Zealand,Sheep,Export Quantity,2004,3397266
+Australia & New Zealand,Sheep,Export Quantity,2005,4189753
+Australia & New Zealand,Sheep,Export Quantity,2006,4186525
+Australia & New Zealand,Sheep,Export Quantity,2007,3807929
+Australia & New Zealand,Sheep,Export Quantity,2008,4215116
+Australia & New Zealand,Sheep,Export Quantity,2009,3567733
+Australia & New Zealand,Sheep,Export Quantity,2010,2978295
+Australia & New Zealand,Sheep,Export Quantity,2011,2308598
+Australia & New Zealand,Sheep,Export Quantity,2012,2280046
+Australia & New Zealand,Sheep,Export Quantity,2013,1973785
+European Union,Cattle,Import Quantity,1961,1838714
+European Union,Cattle,Import Quantity,1962,1493916
+European Union,Cattle,Import Quantity,1963,2027062
+European Union,Cattle,Import Quantity,1964,2000219
+European Union,Cattle,Import Quantity,1965,2016510
+European Union,Cattle,Import Quantity,1966,2013012
+European Union,Cattle,Import Quantity,1967,2549526
+European Union,Cattle,Import Quantity,1968,2983044
+European Union,Cattle,Import Quantity,1969,3321394
+European Union,Cattle,Import Quantity,1970,3287237
+European Union,Cattle,Import Quantity,1971,3520238
+European Union,Cattle,Import Quantity,1972,3921454
+European Union,Cattle,Import Quantity,1973,3308082
+European Union,Cattle,Import Quantity,1974,2700200
+European Union,Cattle,Import Quantity,1975,3471231
+European Union,Cattle,Import Quantity,1976,3325274
+European Union,Cattle,Import Quantity,1977,3203539
+European Union,Cattle,Import Quantity,1978,3485353
+European Union,Cattle,Import Quantity,1979,3554652
+European Union,Cattle,Import Quantity,1980,3448661
+European Union,Cattle,Import Quantity,1981,3226830
+European Union,Cattle,Import Quantity,1982,3477346
+European Union,Cattle,Import Quantity,1983,3416112
+European Union,Cattle,Import Quantity,1984,3397560
+European Union,Cattle,Import Quantity,1985,3730142
+European Union,Cattle,Import Quantity,1986,3869454
+European Union,Cattle,Import Quantity,1987,3836828
+European Union,Cattle,Import Quantity,1988,3526231
+European Union,Cattle,Import Quantity,1989,3780878
+European Union,Cattle,Import Quantity,1990,3984509
+European Union,Cattle,Import Quantity,1991,3932318
+European Union,Cattle,Import Quantity,1992,4289335
+European Union,Cattle,Import Quantity,1993,3672614
+European Union,Cattle,Import Quantity,1994,4164568
+European Union,Cattle,Import Quantity,1995,3523468
+European Union,Cattle,Import Quantity,1996,3364819
+European Union,Cattle,Import Quantity,1997,3798223
+European Union,Cattle,Import Quantity,1998,3735100
+European Union,Cattle,Import Quantity,1999,3539969
+European Union,Cattle,Import Quantity,2000,3348339
+European Union,Cattle,Import Quantity,2001,2547250
+European Union,Cattle,Import Quantity,2002,3001825
+European Union,Cattle,Import Quantity,2003,3190566
+European Union,Cattle,Import Quantity,2004,3440871
+European Union,Cattle,Import Quantity,2005,3604483
+European Union,Cattle,Import Quantity,2006,3749630
+European Union,Cattle,Import Quantity,2007,3568203
+European Union,Cattle,Import Quantity,2008,3047512
+European Union,Cattle,Import Quantity,2009,3651816
+European Union,Cattle,Import Quantity,2010,3938115
+European Union,Cattle,Import Quantity,2011,3737756
+European Union,Cattle,Import Quantity,2012,3486343
+European Union,Cattle,Import Quantity,2013,3691036
+European Union,Cattle,Export Quantity,1961,1767562
+European Union,Cattle,Export Quantity,1962,1403274
+European Union,Cattle,Export Quantity,1963,1923545
+European Union,Cattle,Export Quantity,1964,2064489
+European Union,Cattle,Export Quantity,1965,2108953
+European Union,Cattle,Export Quantity,1966,1852466
+European Union,Cattle,Export Quantity,1967,2407887
+European Union,Cattle,Export Quantity,1968,2747218
+European Union,Cattle,Export Quantity,1969,3021974
+European Union,Cattle,Export Quantity,1970,3224110
+European Union,Cattle,Export Quantity,1971,3405356
+European Union,Cattle,Export Quantity,1972,3714055
+European Union,Cattle,Export Quantity,1973,3308834
+European Union,Cattle,Export Quantity,1974,2928740
+European Union,Cattle,Export Quantity,1975,4041709
+European Union,Cattle,Export Quantity,1976,3580271
+European Union,Cattle,Export Quantity,1977,3467733
+European Union,Cattle,Export Quantity,1978,3813093
+European Union,Cattle,Export Quantity,1979,3891755
+European Union,Cattle,Export Quantity,1980,3898046
+European Union,Cattle,Export Quantity,1981,3905553
+European Union,Cattle,Export Quantity,1982,3963082
+European Union,Cattle,Export Quantity,1983,4051162
+European Union,Cattle,Export Quantity,1984,4053314
+European Union,Cattle,Export Quantity,1985,3850921
+European Union,Cattle,Export Quantity,1986,4231000
+European Union,Cattle,Export Quantity,1987,4273174
+European Union,Cattle,Export Quantity,1988,4095424
+European Union,Cattle,Export Quantity,1989,4032131
+European Union,Cattle,Export Quantity,1990,3842556
+European Union,Cattle,Export Quantity,1991,4284288
+European Union,Cattle,Export Quantity,1992,4661165
+European Union,Cattle,Export Quantity,1993,4681535
+European Union,Cattle,Export Quantity,1994,4968915
+European Union,Cattle,Export Quantity,1995,4649210
+European Union,Cattle,Export Quantity,1996,3891271
+European Union,Cattle,Export Quantity,1997,4185506
+European Union,Cattle,Export Quantity,1998,4241930
+European Union,Cattle,Export Quantity,1999,4358000
+European Union,Cattle,Export Quantity,2000,4404115
+European Union,Cattle,Export Quantity,2001,3399329
+European Union,Cattle,Export Quantity,2002,4093820
+European Union,Cattle,Export Quantity,2003,4203872
+European Union,Cattle,Export Quantity,2004,4309651
+European Union,Cattle,Export Quantity,2005,4323380
+European Union,Cattle,Export Quantity,2006,4455906
+European Union,Cattle,Export Quantity,2007,4122465
+European Union,Cattle,Export Quantity,2008,3764718
+European Union,Cattle,Export Quantity,2009,4303046
+European Union,Cattle,Export Quantity,2010,4612369
+European Union,Cattle,Export Quantity,2011,4728783
+European Union,Cattle,Export Quantity,2012,4393333
+European Union,Cattle,Export Quantity,2013,4209584
+European Union,Chickens,Import Quantity,2012,1036646
+European Union,Chickens,Export Quantity,2010,1163024
+European Union,Chickens,Export Quantity,2011,1208447
+European Union,Chickens,Export Quantity,2012,1270400
+European Union,Chickens,Export Quantity,2013,1296120
+European Union,Pigs,Import Quantity,1965,1100597
+European Union,Pigs,Import Quantity,1967,1108380
+European Union,Pigs,Import Quantity,1968,1424961
+European Union,Pigs,Import Quantity,1969,2052780
+European Union,Pigs,Import Quantity,1970,2321726
+European Union,Pigs,Import Quantity,1971,2596277
+European Union,Pigs,Import Quantity,1972,3000393
+European Union,Pigs,Import Quantity,1973,2860137
+European Union,Pigs,Import Quantity,1974,3010644
+European Union,Pigs,Import Quantity,1975,3428265
+European Union,Pigs,Import Quantity,1976,3676851
+European Union,Pigs,Import Quantity,1977,3333964
+European Union,Pigs,Import Quantity,1978,4175219
+European Union,Pigs,Import Quantity,1979,4396750
+European Union,Pigs,Import Quantity,1980,5208322
+European Union,Pigs,Import Quantity,1981,5849409
+European Union,Pigs,Import Quantity,1982,4701642
+European Union,Pigs,Import Quantity,1983,5012518
+European Union,Pigs,Import Quantity,1984,5072493
+European Union,Pigs,Import Quantity,1985,5188076
+European Union,Pigs,Import Quantity,1986,7127755
+European Union,Pigs,Import Quantity,1987,7366285
+European Union,Pigs,Import Quantity,1988,7106106
+European Union,Pigs,Import Quantity,1989,7467228
+European Union,Pigs,Import Quantity,1990,7487625
+European Union,Pigs,Import Quantity,1991,7644037
+European Union,Pigs,Import Quantity,1992,9147089
+European Union,Pigs,Import Quantity,1993,7233675
+European Union,Pigs,Import Quantity,1994,7420063
+European Union,Pigs,Import Quantity,1995,7563989
+European Union,Pigs,Import Quantity,1996,9286621
+European Union,Pigs,Import Quantity,1997,4899432
+European Union,Pigs,Import Quantity,1998,6999011
+European Union,Pigs,Import Quantity,1999,8218694
+European Union,Pigs,Import Quantity,2000,8933867
+European Union,Pigs,Import Quantity,2001,8329817
+European Union,Pigs,Import Quantity,2002,9799094
+European Union,Pigs,Import Quantity,2003,10034083
+European Union,Pigs,Import Quantity,2004,10621080
+European Union,Pigs,Import Quantity,2005,13001470
+European Union,Pigs,Import Quantity,2006,15310075
+European Union,Pigs,Import Quantity,2007,17973232
+European Union,Pigs,Import Quantity,2008,18841579
+European Union,Pigs,Import Quantity,2009,22243114
+European Union,Pigs,Import Quantity,2010,24367166
+European Union,Pigs,Import Quantity,2011,25433757
+European Union,Pigs,Import Quantity,2012,27850725
+European Union,Pigs,Import Quantity,2013,28811428
+European Union,Pigs,Export Quantity,1961,1491786
+European Union,Pigs,Export Quantity,1962,1212495
+European Union,Pigs,Export Quantity,1965,1604104
+European Union,Pigs,Export Quantity,1966,1279556
+European Union,Pigs,Export Quantity,1967,1241835
+European Union,Pigs,Export Quantity,1968,1501144
+European Union,Pigs,Export Quantity,1969,2051464
+European Union,Pigs,Export Quantity,1970,2508917
+European Union,Pigs,Export Quantity,1971,2745558
+European Union,Pigs,Export Quantity,1972,3226912
+European Union,Pigs,Export Quantity,1973,2963223
+European Union,Pigs,Export Quantity,1974,3203918
+European Union,Pigs,Export Quantity,1975,3540515
+European Union,Pigs,Export Quantity,1976,3831346
+European Union,Pigs,Export Quantity,1977,3827496
+European Union,Pigs,Export Quantity,1978,4388794
+European Union,Pigs,Export Quantity,1979,4971846
+European Union,Pigs,Export Quantity,1980,5710948
+European Union,Pigs,Export Quantity,1981,6115707
+European Union,Pigs,Export Quantity,1982,5378983
+European Union,Pigs,Export Quantity,1983,5361729
+European Union,Pigs,Export Quantity,1984,5322429
+European Union,Pigs,Export Quantity,1985,5588494
+European Union,Pigs,Export Quantity,1986,7611105
+European Union,Pigs,Export Quantity,1987,8045569
+European Union,Pigs,Export Quantity,1988,7829274
+European Union,Pigs,Export Quantity,1989,8077400
+European Union,Pigs,Export Quantity,1990,7798708
+European Union,Pigs,Export Quantity,1991,8085423
+European Union,Pigs,Export Quantity,1992,9186631
+European Union,Pigs,Export Quantity,1993,7382455
+European Union,Pigs,Export Quantity,1994,8545687
+European Union,Pigs,Export Quantity,1995,8086993
+European Union,Pigs,Export Quantity,1996,9503734
+European Union,Pigs,Export Quantity,1997,6158991
+European Union,Pigs,Export Quantity,1998,7043135
+European Union,Pigs,Export Quantity,1999,9074825
+European Union,Pigs,Export Quantity,2000,8909422
+European Union,Pigs,Export Quantity,2001,7765821
+European Union,Pigs,Export Quantity,2002,8909320
+European Union,Pigs,Export Quantity,2003,10755721
+European Union,Pigs,Export Quantity,2004,11667343
+European Union,Pigs,Export Quantity,2005,13758278
+European Union,Pigs,Export Quantity,2006,16180776
+European Union,Pigs,Export Quantity,2007,18589919
+European Union,Pigs,Export Quantity,2008,20206936
+European Union,Pigs,Export Quantity,2009,25123907
+European Union,Pigs,Export Quantity,2010,26674610
+European Union,Pigs,Export Quantity,2011,26806673
+European Union,Pigs,Export Quantity,2012,28586585
+European Union,Pigs,Export Quantity,2013,31080963
+European Union,Sheep,Import Quantity,1961,1510302
+European Union,Sheep,Import Quantity,1962,1349471
+European Union,Sheep,Import Quantity,1963,1321272
+European Union,Sheep,Import Quantity,1964,1370793
+European Union,Sheep,Import Quantity,1965,1930545
+European Union,Sheep,Import Quantity,1966,1774827
+European Union,Sheep,Import Quantity,1967,1733586
+European Union,Sheep,Import Quantity,1968,2161145
+European Union,Sheep,Import Quantity,1969,2495176
+European Union,Sheep,Import Quantity,1970,2535448
+European Union,Sheep,Import Quantity,1971,2797393
+European Union,Sheep,Import Quantity,1972,2990568
+European Union,Sheep,Import Quantity,1973,2515576
+European Union,Sheep,Import Quantity,1974,1965981
+European Union,Sheep,Import Quantity,1975,2573980
+European Union,Sheep,Import Quantity,1976,2400008
+European Union,Sheep,Import Quantity,1977,2372896
+European Union,Sheep,Import Quantity,1978,2917308
+European Union,Sheep,Import Quantity,1979,2994318
+European Union,Sheep,Import Quantity,1980,3020373
+European Union,Sheep,Import Quantity,1981,2273924
+European Union,Sheep,Import Quantity,1982,2297059
+European Union,Sheep,Import Quantity,1983,2791146
+European Union,Sheep,Import Quantity,1984,2754151
+European Union,Sheep,Import Quantity,1985,3275927
+European Union,Sheep,Import Quantity,1986,3295280
+European Union,Sheep,Import Quantity,1987,3898074
+European Union,Sheep,Import Quantity,1988,3925031
+European Union,Sheep,Import Quantity,1989,4930124
+European Union,Sheep,Import Quantity,1990,6426691
+European Union,Sheep,Import Quantity,1991,6976778
+European Union,Sheep,Import Quantity,1992,7112311
+European Union,Sheep,Import Quantity,1993,5248916
+European Union,Sheep,Import Quantity,1994,5185081
+European Union,Sheep,Import Quantity,1995,4651002
+European Union,Sheep,Import Quantity,1996,4496016
+European Union,Sheep,Import Quantity,1997,3880957
+European Union,Sheep,Import Quantity,1998,3960979
+European Union,Sheep,Import Quantity,1999,4652725
+European Union,Sheep,Import Quantity,2000,4281944
+European Union,Sheep,Import Quantity,2001,3697846
+European Union,Sheep,Import Quantity,2002,3725070
+European Union,Sheep,Import Quantity,2003,3820217
+European Union,Sheep,Import Quantity,2004,4090793
+European Union,Sheep,Import Quantity,2005,3844765
+European Union,Sheep,Import Quantity,2006,4051238
+European Union,Sheep,Import Quantity,2007,3886404
+European Union,Sheep,Import Quantity,2008,3611422
+European Union,Sheep,Import Quantity,2009,3462370
+European Union,Sheep,Import Quantity,2010,3414913
+European Union,Sheep,Import Quantity,2011,3366426
+European Union,Sheep,Import Quantity,2012,2855091
+European Union,Sheep,Import Quantity,2013,2763197
+European Union,Sheep,Export Quantity,1961,1159162
+European Union,Sheep,Export Quantity,1962,1208873
+European Union,Sheep,Export Quantity,1963,1581346
+European Union,Sheep,Export Quantity,1964,1628715
+European Union,Sheep,Export Quantity,1965,2022513
+European Union,Sheep,Export Quantity,1966,2016407
+European Union,Sheep,Export Quantity,1967,2018914
+European Union,Sheep,Export Quantity,1968,2449211
+European Union,Sheep,Export Quantity,1969,2998588
+European Union,Sheep,Export Quantity,1970,3321003
+European Union,Sheep,Export Quantity,1971,3573540
+European Union,Sheep,Export Quantity,1972,3840011
+European Union,Sheep,Export Quantity,1973,3737300
+European Union,Sheep,Export Quantity,1974,3378418
+European Union,Sheep,Export Quantity,1975,4454469
+European Union,Sheep,Export Quantity,1976,4090040
+European Union,Sheep,Export Quantity,1977,4692379
+European Union,Sheep,Export Quantity,1978,5318674
+European Union,Sheep,Export Quantity,1979,5671308
+European Union,Sheep,Export Quantity,1980,5632246
+European Union,Sheep,Export Quantity,1981,4205565
+European Union,Sheep,Export Quantity,1982,4295616
+European Union,Sheep,Export Quantity,1983,4947924
+European Union,Sheep,Export Quantity,1984,4945525
+European Union,Sheep,Export Quantity,1985,4491596
+European Union,Sheep,Export Quantity,1986,4255543
+European Union,Sheep,Export Quantity,1987,5461532
+European Union,Sheep,Export Quantity,1988,5808647
+European Union,Sheep,Export Quantity,1989,5815272
+European Union,Sheep,Export Quantity,1990,6753355
+European Union,Sheep,Export Quantity,1991,8476175
+European Union,Sheep,Export Quantity,1992,9457469
+European Union,Sheep,Export Quantity,1993,6700146
+European Union,Sheep,Export Quantity,1994,7197501
+European Union,Sheep,Export Quantity,1995,5901755
+European Union,Sheep,Export Quantity,1996,5774801
+European Union,Sheep,Export Quantity,1997,4497156
+European Union,Sheep,Export Quantity,1998,4422542
+European Union,Sheep,Export Quantity,1999,5066102
+European Union,Sheep,Export Quantity,2000,4567817
+European Union,Sheep,Export Quantity,2001,4109038
+European Union,Sheep,Export Quantity,2002,4087916
+European Union,Sheep,Export Quantity,2003,4494714
+European Union,Sheep,Export Quantity,2004,4421391
+European Union,Sheep,Export Quantity,2005,4663326
+European Union,Sheep,Export Quantity,2006,4443409
+European Union,Sheep,Export Quantity,2007,4347810
+European Union,Sheep,Export Quantity,2008,3812038
+European Union,Sheep,Export Quantity,2009,4082195
+European Union,Sheep,Export Quantity,2010,4360829
+European Union,Sheep,Export Quantity,2011,5083986
+European Union,Sheep,Export Quantity,2012,4507008
+European Union,Sheep,Export Quantity,2013,4739709
+Least Developed Countries,Cattle,Import Quantity,2013,1279131
+Least Developed Countries,Cattle,Export Quantity,1972,1045216
+Least Developed Countries,Cattle,Export Quantity,1979,1037969
+Least Developed Countries,Cattle,Export Quantity,1980,1174131
+Least Developed Countries,Cattle,Export Quantity,1981,1216972
+Least Developed Countries,Cattle,Export Quantity,1982,1272100
+Least Developed Countries,Cattle,Export Quantity,1983,1080144
+Least Developed Countries,Cattle,Export Quantity,1984,1002204
+Least Developed Countries,Cattle,Export Quantity,2000,1000173
+Least Developed Countries,Cattle,Export Quantity,2001,1022959
+Least Developed Countries,Cattle,Export Quantity,2010,1041367
+Least Developed Countries,Cattle,Export Quantity,2012,1012732
+Least Developed Countries,Cattle,Export Quantity,2013,1576185
+Least Developed Countries,Sheep,Import Quantity,1999,1108261
+Least Developed Countries,Sheep,Import Quantity,2002,1111224
+Least Developed Countries,Sheep,Import Quantity,2003,1109414
+Least Developed Countries,Sheep,Import Quantity,2009,1088269
+Least Developed Countries,Sheep,Import Quantity,2010,1225682
+Least Developed Countries,Sheep,Import Quantity,2011,1142987
+Least Developed Countries,Sheep,Import Quantity,2012,1344629
+Least Developed Countries,Sheep,Import Quantity,2013,1004260
+Least Developed Countries,Sheep,Export Quantity,1961,1495836
+Least Developed Countries,Sheep,Export Quantity,1962,1616525
+Least Developed Countries,Sheep,Export Quantity,1963,1748184
+Least Developed Countries,Sheep,Export Quantity,1964,1869900
+Least Developed Countries,Sheep,Export Quantity,1965,1733978
+Least Developed Countries,Sheep,Export Quantity,1966,1676493
+Least Developed Countries,Sheep,Export Quantity,1967,1703192
+Least Developed Countries,Sheep,Export Quantity,1968,1919434
+Least Developed Countries,Sheep,Export Quantity,1969,1892701
+Least Developed Countries,Sheep,Export Quantity,1970,1667085
+Least Developed Countries,Sheep,Export Quantity,1971,1678121
+Least Developed Countries,Sheep,Export Quantity,1972,1959205
+Least Developed Countries,Sheep,Export Quantity,1973,1832253
+Least Developed Countries,Sheep,Export Quantity,1974,1852254
+Least Developed Countries,Sheep,Export Quantity,1975,1812031
+Least Developed Countries,Sheep,Export Quantity,1976,1403796
+Least Developed Countries,Sheep,Export Quantity,1977,1457567
+Least Developed Countries,Sheep,Export Quantity,1978,1789726
+Least Developed Countries,Sheep,Export Quantity,1979,1852949
+Least Developed Countries,Sheep,Export Quantity,1980,2223371
+Least Developed Countries,Sheep,Export Quantity,1981,2294473
+Least Developed Countries,Sheep,Export Quantity,1982,2306973
+Least Developed Countries,Sheep,Export Quantity,1983,1951445
+Least Developed Countries,Sheep,Export Quantity,1984,1774605
+Least Developed Countries,Sheep,Export Quantity,1985,2301077
+Least Developed Countries,Sheep,Export Quantity,1986,1710702
+Least Developed Countries,Sheep,Export Quantity,1987,1543912
+Least Developed Countries,Sheep,Export Quantity,1988,1523051
+Least Developed Countries,Sheep,Export Quantity,1989,1358594
+Least Developed Countries,Sheep,Export Quantity,1990,1822115
+Least Developed Countries,Sheep,Export Quantity,1991,1510899
+Least Developed Countries,Sheep,Export Quantity,1992,2232886
+Least Developed Countries,Sheep,Export Quantity,1993,2729229
+Least Developed Countries,Sheep,Export Quantity,1994,3136542
+Least Developed Countries,Sheep,Export Quantity,1995,3123564
+Least Developed Countries,Sheep,Export Quantity,1996,3604977
+Least Developed Countries,Sheep,Export Quantity,1997,3752391
+Least Developed Countries,Sheep,Export Quantity,1998,3369022
+Least Developed Countries,Sheep,Export Quantity,1999,4842032
+Least Developed Countries,Sheep,Export Quantity,2000,3527475
+Least Developed Countries,Sheep,Export Quantity,2001,1767946
+Least Developed Countries,Sheep,Export Quantity,2002,4303896
+Least Developed Countries,Sheep,Export Quantity,2003,3746700
+Least Developed Countries,Sheep,Export Quantity,2004,3501297
+Least Developed Countries,Sheep,Export Quantity,2005,3485099
+Least Developed Countries,Sheep,Export Quantity,2006,3285293
+Least Developed Countries,Sheep,Export Quantity,2007,2720960
+Least Developed Countries,Sheep,Export Quantity,2008,3207287
+Least Developed Countries,Sheep,Export Quantity,2009,3863494
+Least Developed Countries,Sheep,Export Quantity,2010,4826605
+Least Developed Countries,Sheep,Export Quantity,2011,5599354
+Least Developed Countries,Sheep,Export Quantity,2012,6813452
+Least Developed Countries,Sheep,Export Quantity,2013,7326703
+Land Locked Developing Countries,Sheep,Export Quantity,1961,2383491
+Land Locked Developing Countries,Sheep,Export Quantity,1962,2138374
+Land Locked Developing Countries,Sheep,Export Quantity,1963,1996338
+Land Locked Developing Countries,Sheep,Export Quantity,1964,1817519
+Land Locked Developing Countries,Sheep,Export Quantity,1965,2132835
+Land Locked Developing Countries,Sheep,Export Quantity,1966,2445241
+Land Locked Developing Countries,Sheep,Export Quantity,1967,2144319
+Land Locked Developing Countries,Sheep,Export Quantity,1968,1722647
+Land Locked Developing Countries,Sheep,Export Quantity,1969,1512102
+Land Locked Developing Countries,Sheep,Export Quantity,1970,1481862
+Land Locked Developing Countries,Sheep,Export Quantity,1971,1526548
+Land Locked Developing Countries,Sheep,Export Quantity,1972,1725384
+Land Locked Developing Countries,Sheep,Export Quantity,1973,1743783
+Land Locked Developing Countries,Sheep,Export Quantity,1974,1730370
+Land Locked Developing Countries,Sheep,Export Quantity,1975,1540619
+Land Locked Developing Countries,Sheep,Export Quantity,1976,1318790
+Land Locked Developing Countries,Sheep,Export Quantity,1984,1014897
+Land Locked Developing Countries,Sheep,Export Quantity,1987,1015207
+Land Locked Developing Countries,Sheep,Export Quantity,2008,1050880
+Land Locked Developing Countries,Sheep,Export Quantity,2010,1168792
+Land Locked Developing Countries,Sheep,Export Quantity,2013,1270774
+Small Island Developing States,Pigs,Import Quantity,1993,1038998
+Small Island Developing States,Pigs,Import Quantity,1994,1153662
+Small Island Developing States,Pigs,Import Quantity,1995,1146463
+Small Island Developing States,Pigs,Import Quantity,1996,1113984
+Small Island Developing States,Pigs,Import Quantity,1997,1046762
+Small Island Developing States,Pigs,Import Quantity,1998,1019086
+Low Income Food Deficit Countries,Cattle,Import Quantity,1979,1109100
+Low Income Food Deficit Countries,Cattle,Import Quantity,1984,1003195
+Low Income Food Deficit Countries,Cattle,Import Quantity,2006,1116444
+Low Income Food Deficit Countries,Cattle,Import Quantity,2007,1084950
+Low Income Food Deficit Countries,Cattle,Import Quantity,2008,1037052
+Low Income Food Deficit Countries,Cattle,Import Quantity,2009,1018345
+Low Income Food Deficit Countries,Cattle,Import Quantity,2010,1068169
+Low Income Food Deficit Countries,Cattle,Import Quantity,2011,1399896
+Low Income Food Deficit Countries,Cattle,Import Quantity,2012,1208106
+Low Income Food Deficit Countries,Cattle,Import Quantity,2013,1504600
+Low Income Food Deficit Countries,Cattle,Export Quantity,1961,1102120
+Low Income Food Deficit Countries,Cattle,Export Quantity,1962,1071594
+Low Income Food Deficit Countries,Cattle,Export Quantity,1963,1014044
+Low Income Food Deficit Countries,Cattle,Export Quantity,1964,1021904
+Low Income Food Deficit Countries,Cattle,Export Quantity,1965,1031734
+Low Income Food Deficit Countries,Cattle,Export Quantity,1966,1102251
+Low Income Food Deficit Countries,Cattle,Export Quantity,1967,1013185
+Low Income Food Deficit Countries,Cattle,Export Quantity,1968,1060233
+Low Income Food Deficit Countries,Cattle,Export Quantity,1969,1071068
+Low Income Food Deficit Countries,Cattle,Export Quantity,1970,1063061
+Low Income Food Deficit Countries,Cattle,Export Quantity,1972,1168175
+Low Income Food Deficit Countries,Cattle,Export Quantity,1973,1049464
+Low Income Food Deficit Countries,Cattle,Export Quantity,1977,1007328
+Low Income Food Deficit Countries,Cattle,Export Quantity,1978,1111898
+Low Income Food Deficit Countries,Cattle,Export Quantity,1979,1491808
+Low Income Food Deficit Countries,Cattle,Export Quantity,1980,1369036
+Low Income Food Deficit Countries,Cattle,Export Quantity,1981,1339127
+Low Income Food Deficit Countries,Cattle,Export Quantity,1982,1343668
+Low Income Food Deficit Countries,Cattle,Export Quantity,1983,1195044
+Low Income Food Deficit Countries,Cattle,Export Quantity,1984,1063255
+Low Income Food Deficit Countries,Cattle,Export Quantity,2010,1063550
+Low Income Food Deficit Countries,Cattle,Export Quantity,2013,1451872
+Low Income Food Deficit Countries,Sheep,Import Quantity,1961,1382394
+Low Income Food Deficit Countries,Sheep,Import Quantity,1962,1714777
+Low Income Food Deficit Countries,Sheep,Import Quantity,1963,1603217
+Low Income Food Deficit Countries,Sheep,Import Quantity,1964,1557151
+Low Income Food Deficit Countries,Sheep,Import Quantity,1965,1687146
+Low Income Food Deficit Countries,Sheep,Import Quantity,1966,1395395
+Low Income Food Deficit Countries,Sheep,Import Quantity,1967,1201007
+Low Income Food Deficit Countries,Sheep,Import Quantity,1968,1200461
+Low Income Food Deficit Countries,Sheep,Import Quantity,1969,1250334
+Low Income Food Deficit Countries,Sheep,Import Quantity,1970,1094727
+Low Income Food Deficit Countries,Sheep,Import Quantity,1971,1156450
+Low Income Food Deficit Countries,Sheep,Import Quantity,1972,1131309
+Low Income Food Deficit Countries,Sheep,Import Quantity,1973,1023350
+Low Income Food Deficit Countries,Sheep,Import Quantity,1980,1228909
+Low Income Food Deficit Countries,Sheep,Import Quantity,1981,1675386
+Low Income Food Deficit Countries,Sheep,Import Quantity,1982,1076007
+Low Income Food Deficit Countries,Sheep,Import Quantity,1983,1288356
+Low Income Food Deficit Countries,Sheep,Import Quantity,1984,1129175
+Low Income Food Deficit Countries,Sheep,Import Quantity,1985,1855569
+Low Income Food Deficit Countries,Sheep,Import Quantity,1986,1141952
+Low Income Food Deficit Countries,Sheep,Import Quantity,1988,1329587
+Low Income Food Deficit Countries,Sheep,Import Quantity,1989,1255460
+Low Income Food Deficit Countries,Sheep,Import Quantity,1990,1277305
+Low Income Food Deficit Countries,Sheep,Import Quantity,1991,2537597
+Low Income Food Deficit Countries,Sheep,Import Quantity,1992,3186873
+Low Income Food Deficit Countries,Sheep,Import Quantity,1993,3526437
+Low Income Food Deficit Countries,Sheep,Import Quantity,1994,2933247
+Low Income Food Deficit Countries,Sheep,Import Quantity,1995,2101332
+Low Income Food Deficit Countries,Sheep,Import Quantity,1996,2102245
+Low Income Food Deficit Countries,Sheep,Import Quantity,1997,1828115
+Low Income Food Deficit Countries,Sheep,Import Quantity,1998,1782633
+Low Income Food Deficit Countries,Sheep,Import Quantity,1999,1979982
+Low Income Food Deficit Countries,Sheep,Import Quantity,2000,1360623
+Low Income Food Deficit Countries,Sheep,Import Quantity,2001,1205528
+Low Income Food Deficit Countries,Sheep,Import Quantity,2002,1787942
+Low Income Food Deficit Countries,Sheep,Import Quantity,2003,1646002
+Low Income Food Deficit Countries,Sheep,Import Quantity,2006,1473316
+Low Income Food Deficit Countries,Sheep,Import Quantity,2007,1115079
+Low Income Food Deficit Countries,Sheep,Import Quantity,2008,1451925
+Low Income Food Deficit Countries,Sheep,Import Quantity,2009,1591642
+Low Income Food Deficit Countries,Sheep,Import Quantity,2010,2067897
+Low Income Food Deficit Countries,Sheep,Import Quantity,2011,1589441
+Low Income Food Deficit Countries,Sheep,Import Quantity,2012,1636935
+Low Income Food Deficit Countries,Sheep,Import Quantity,2013,1245879
+Low Income Food Deficit Countries,Sheep,Export Quantity,1961,3302536
+Low Income Food Deficit Countries,Sheep,Export Quantity,1962,3282817
+Low Income Food Deficit Countries,Sheep,Export Quantity,1963,3319311
+Low Income Food Deficit Countries,Sheep,Export Quantity,1964,3436637
+Low Income Food Deficit Countries,Sheep,Export Quantity,1965,3730690
+Low Income Food Deficit Countries,Sheep,Export Quantity,1966,4385098
+Low Income Food Deficit Countries,Sheep,Export Quantity,1967,3834881
+Low Income Food Deficit Countries,Sheep,Export Quantity,1968,3719534
+Low Income Food Deficit Countries,Sheep,Export Quantity,1969,3516648
+Low Income Food Deficit Countries,Sheep,Export Quantity,1970,3095995
+Low Income Food Deficit Countries,Sheep,Export Quantity,1971,2874326
+Low Income Food Deficit Countries,Sheep,Export Quantity,1972,3359925
+Low Income Food Deficit Countries,Sheep,Export Quantity,1973,3256209
+Low Income Food Deficit Countries,Sheep,Export Quantity,1974,3079261
+Low Income Food Deficit Countries,Sheep,Export Quantity,1975,2838958
+Low Income Food Deficit Countries,Sheep,Export Quantity,1976,2317581
+Low Income Food Deficit Countries,Sheep,Export Quantity,1977,2007099
+Low Income Food Deficit Countries,Sheep,Export Quantity,1978,2261801
+Low Income Food Deficit Countries,Sheep,Export Quantity,1979,2341784
+Low Income Food Deficit Countries,Sheep,Export Quantity,1980,2768750
+Low Income Food Deficit Countries,Sheep,Export Quantity,1981,2669409
+Low Income Food Deficit Countries,Sheep,Export Quantity,1982,2606086
+Low Income Food Deficit Countries,Sheep,Export Quantity,1983,2528208
+Low Income Food Deficit Countries,Sheep,Export Quantity,1984,2597628
+Low Income Food Deficit Countries,Sheep,Export Quantity,1985,2833498
+Low Income Food Deficit Countries,Sheep,Export Quantity,1986,2332801
+Low Income Food Deficit Countries,Sheep,Export Quantity,1987,2155467
+Low Income Food Deficit Countries,Sheep,Export Quantity,1988,2130909
+Low Income Food Deficit Countries,Sheep,Export Quantity,1989,2604313
+Low Income Food Deficit Countries,Sheep,Export Quantity,1990,2908846
+Low Income Food Deficit Countries,Sheep,Export Quantity,1991,2978408
+Low Income Food Deficit Countries,Sheep,Export Quantity,1992,3487065
+Low Income Food Deficit Countries,Sheep,Export Quantity,1993,3910157
+Low Income Food Deficit Countries,Sheep,Export Quantity,1994,4017523
+Low Income Food Deficit Countries,Sheep,Export Quantity,1995,4098492
+Low Income Food Deficit Countries,Sheep,Export Quantity,1996,4191095
+Low Income Food Deficit Countries,Sheep,Export Quantity,1997,4257664
+Low Income Food Deficit Countries,Sheep,Export Quantity,1998,4124752
+Low Income Food Deficit Countries,Sheep,Export Quantity,1999,5531075
+Low Income Food Deficit Countries,Sheep,Export Quantity,2000,4495639
+Low Income Food Deficit Countries,Sheep,Export Quantity,2001,2065332
+Low Income Food Deficit Countries,Sheep,Export Quantity,2002,6737684
+Low Income Food Deficit Countries,Sheep,Export Quantity,2003,5519728
+Low Income Food Deficit Countries,Sheep,Export Quantity,2004,5639316
+Low Income Food Deficit Countries,Sheep,Export Quantity,2005,5199421
+Low Income Food Deficit Countries,Sheep,Export Quantity,2006,5195688
+Low Income Food Deficit Countries,Sheep,Export Quantity,2007,4687226
+Low Income Food Deficit Countries,Sheep,Export Quantity,2008,5040977
+Low Income Food Deficit Countries,Sheep,Export Quantity,2009,4613885
+Low Income Food Deficit Countries,Sheep,Export Quantity,2010,5715072
+Low Income Food Deficit Countries,Sheep,Export Quantity,2011,5913543
+Low Income Food Deficit Countries,Sheep,Export Quantity,2012,7077235
+Low Income Food Deficit Countries,Sheep,Export Quantity,2013,7569734
+Net Food Importing Developing Countries,Cattle,Import Quantity,1979,1058018
+Net Food Importing Developing Countries,Cattle,Import Quantity,2009,1113191
+Net Food Importing Developing Countries,Cattle,Import Quantity,2010,1599145
+Net Food Importing Developing Countries,Cattle,Import Quantity,2011,1311693
+Net Food Importing Developing Countries,Cattle,Import Quantity,2012,1649940
+Net Food Importing Developing Countries,Cattle,Import Quantity,2013,2217707
+Net Food Importing Developing Countries,Cattle,Export Quantity,1961,1354565
+Net Food Importing Developing Countries,Cattle,Export Quantity,1962,1311599
+Net Food Importing Developing Countries,Cattle,Export Quantity,1963,1363431
+Net Food Importing Developing Countries,Cattle,Export Quantity,1964,1306852
+Net Food Importing Developing Countries,Cattle,Export Quantity,1965,1266022
+Net Food Importing Developing Countries,Cattle,Export Quantity,1966,1284287
+Net Food Importing Developing Countries,Cattle,Export Quantity,1967,1291652
+Net Food Importing Developing Countries,Cattle,Export Quantity,1968,1318043
+Net Food Importing Developing Countries,Cattle,Export Quantity,1969,1333963
+Net Food Importing Developing Countries,Cattle,Export Quantity,1970,1381879
+Net Food Importing Developing Countries,Cattle,Export Quantity,1971,1380555
+Net Food Importing Developing Countries,Cattle,Export Quantity,1972,1589019
+Net Food Importing Developing Countries,Cattle,Export Quantity,1973,1473088
+Net Food Importing Developing Countries,Cattle,Export Quantity,1974,1273723
+Net Food Importing Developing Countries,Cattle,Export Quantity,1975,1056738
+Net Food Importing Developing Countries,Cattle,Export Quantity,1976,1164199
+Net Food Importing Developing Countries,Cattle,Export Quantity,1977,1173365
+Net Food Importing Developing Countries,Cattle,Export Quantity,1978,1293742
+Net Food Importing Developing Countries,Cattle,Export Quantity,1979,1405398
+Net Food Importing Developing Countries,Cattle,Export Quantity,1980,1499637
+Net Food Importing Developing Countries,Cattle,Export Quantity,1981,1652980
+Net Food Importing Developing Countries,Cattle,Export Quantity,1982,1502715
+Net Food Importing Developing Countries,Cattle,Export Quantity,1983,1255404
+Net Food Importing Developing Countries,Cattle,Export Quantity,1984,1166870
+Net Food Importing Developing Countries,Cattle,Export Quantity,1994,1092691
+Net Food Importing Developing Countries,Cattle,Export Quantity,1995,1039661
+Net Food Importing Developing Countries,Cattle,Export Quantity,1996,1166019
+Net Food Importing Developing Countries,Cattle,Export Quantity,1999,1020239
+Net Food Importing Developing Countries,Cattle,Export Quantity,2000,1046340
+Net Food Importing Developing Countries,Cattle,Export Quantity,2001,1087597
+Net Food Importing Developing Countries,Cattle,Export Quantity,2004,1082889
+Net Food Importing Developing Countries,Cattle,Export Quantity,2005,1045304
+Net Food Importing Developing Countries,Cattle,Export Quantity,2006,1085943
+Net Food Importing Developing Countries,Cattle,Export Quantity,2008,1065143
+Net Food Importing Developing Countries,Cattle,Export Quantity,2010,1189122
+Net Food Importing Developing Countries,Cattle,Export Quantity,2011,1179640
+Net Food Importing Developing Countries,Cattle,Export Quantity,2012,1206918
+Net Food Importing Developing Countries,Cattle,Export Quantity,2013,1831309
+Net Food Importing Developing Countries,Sheep,Import Quantity,1962,1162318
+Net Food Importing Developing Countries,Sheep,Import Quantity,1963,1107069
+Net Food Importing Developing Countries,Sheep,Import Quantity,1964,1194779
+Net Food Importing Developing Countries,Sheep,Import Quantity,1965,1174506
+Net Food Importing Developing Countries,Sheep,Import Quantity,1966,1083662
+Net Food Importing Developing Countries,Sheep,Import Quantity,1969,1022017
+Net Food Importing Developing Countries,Sheep,Import Quantity,1980,1239186
+Net Food Importing Developing Countries,Sheep,Import Quantity,1981,1238566
+Net Food Importing Developing Countries,Sheep,Import Quantity,1982,1258635
+Net Food Importing Developing Countries,Sheep,Import Quantity,1983,1692962
+Net Food Importing Developing Countries,Sheep,Import Quantity,1984,1137932
+Net Food Importing Developing Countries,Sheep,Import Quantity,1985,1192940
+Net Food Importing Developing Countries,Sheep,Import Quantity,1991,1823152
+Net Food Importing Developing Countries,Sheep,Import Quantity,1992,1541756
+Net Food Importing Developing Countries,Sheep,Import Quantity,1993,1451476
+Net Food Importing Developing Countries,Sheep,Import Quantity,1994,1098664
+Net Food Importing Developing Countries,Sheep,Import Quantity,1995,1247244
+Net Food Importing Developing Countries,Sheep,Import Quantity,1996,1062548
+Net Food Importing Developing Countries,Sheep,Import Quantity,1997,1179359
+Net Food Importing Developing Countries,Sheep,Import Quantity,1998,1404192
+Net Food Importing Developing Countries,Sheep,Import Quantity,1999,1877115
+Net Food Importing Developing Countries,Sheep,Import Quantity,2000,1718683
+Net Food Importing Developing Countries,Sheep,Import Quantity,2001,1488744
+Net Food Importing Developing Countries,Sheep,Import Quantity,2002,1775337
+Net Food Importing Developing Countries,Sheep,Import Quantity,2003,1893003
+Net Food Importing Developing Countries,Sheep,Import Quantity,2004,1424224
+Net Food Importing Developing Countries,Sheep,Import Quantity,2005,1190845
+Net Food Importing Developing Countries,Sheep,Import Quantity,2006,1501978
+Net Food Importing Developing Countries,Sheep,Import Quantity,2007,1208909
+Net Food Importing Developing Countries,Sheep,Import Quantity,2008,1380832
+Net Food Importing Developing Countries,Sheep,Import Quantity,2009,1509395
+Net Food Importing Developing Countries,Sheep,Import Quantity,2010,1719696
+Net Food Importing Developing Countries,Sheep,Import Quantity,2011,1690599
+Net Food Importing Developing Countries,Sheep,Import Quantity,2012,2187378
+Net Food Importing Developing Countries,Sheep,Import Quantity,2013,1755814
+Net Food Importing Developing Countries,Sheep,Export Quantity,1961,3500053
+Net Food Importing Developing Countries,Sheep,Export Quantity,1962,3282806
+Net Food Importing Developing Countries,Sheep,Export Quantity,1963,3252313
+Net Food Importing Developing Countries,Sheep,Export Quantity,1964,3262233
+Net Food Importing Developing Countries,Sheep,Export Quantity,1965,3383245
+Net Food Importing Developing Countries,Sheep,Export Quantity,1966,3890679
+Net Food Importing Developing Countries,Sheep,Export Quantity,1967,3683839
+Net Food Importing Developing Countries,Sheep,Export Quantity,1968,3462168
+Net Food Importing Developing Countries,Sheep,Export Quantity,1969,3263262
+Net Food Importing Developing Countries,Sheep,Export Quantity,1970,3004388
+Net Food Importing Developing Countries,Sheep,Export Quantity,1971,3067974
+Net Food Importing Developing Countries,Sheep,Export Quantity,1972,3493211
+Net Food Importing Developing Countries,Sheep,Export Quantity,1973,3438603
+Net Food Importing Developing Countries,Sheep,Export Quantity,1974,3409329
+Net Food Importing Developing Countries,Sheep,Export Quantity,1975,3164232
+Net Food Importing Developing Countries,Sheep,Export Quantity,1976,2663388
+Net Food Importing Developing Countries,Sheep,Export Quantity,1977,2287405
+Net Food Importing Developing Countries,Sheep,Export Quantity,1978,2600632
+Net Food Importing Developing Countries,Sheep,Export Quantity,1979,2799841
+Net Food Importing Developing Countries,Sheep,Export Quantity,1980,3199196
+Net Food Importing Developing Countries,Sheep,Export Quantity,1981,3474540
+Net Food Importing Developing Countries,Sheep,Export Quantity,1982,3446989
+Net Food Importing Developing Countries,Sheep,Export Quantity,1983,3074239
+Net Food Importing Developing Countries,Sheep,Export Quantity,1984,2818264
+Net Food Importing Developing Countries,Sheep,Export Quantity,1985,3433049
+Net Food Importing Developing Countries,Sheep,Export Quantity,1986,2959580
+Net Food Importing Developing Countries,Sheep,Export Quantity,1987,2815106
+Net Food Importing Developing Countries,Sheep,Export Quantity,1988,2566656
+Net Food Importing Developing Countries,Sheep,Export Quantity,1989,2627339
+Net Food Importing Developing Countries,Sheep,Export Quantity,1990,3045038
+Net Food Importing Developing Countries,Sheep,Export Quantity,1991,3028946
+Net Food Importing Developing Countries,Sheep,Export Quantity,1992,4058336
+Net Food Importing Developing Countries,Sheep,Export Quantity,1993,4610847
+Net Food Importing Developing Countries,Sheep,Export Quantity,1994,4510180
+Net Food Importing Developing Countries,Sheep,Export Quantity,1995,4498498
+Net Food Importing Developing Countries,Sheep,Export Quantity,1996,5124449
+Net Food Importing Developing Countries,Sheep,Export Quantity,1997,5170080
+Net Food Importing Developing Countries,Sheep,Export Quantity,1998,5076078
+Net Food Importing Developing Countries,Sheep,Export Quantity,1999,5599679
+Net Food Importing Developing Countries,Sheep,Export Quantity,2000,4075825
+Net Food Importing Developing Countries,Sheep,Export Quantity,2001,2469742
+Net Food Importing Developing Countries,Sheep,Export Quantity,2002,5095957
+Net Food Importing Developing Countries,Sheep,Export Quantity,2003,4599412
+Net Food Importing Developing Countries,Sheep,Export Quantity,2004,4277258
+Net Food Importing Developing Countries,Sheep,Export Quantity,2005,4165068
+Net Food Importing Developing Countries,Sheep,Export Quantity,2006,4116669
+Net Food Importing Developing Countries,Sheep,Export Quantity,2007,3070291
+Net Food Importing Developing Countries,Sheep,Export Quantity,2008,3369523
+Net Food Importing Developing Countries,Sheep,Export Quantity,2009,4109653
+Net Food Importing Developing Countries,Sheep,Export Quantity,2010,5224001
+Net Food Importing Developing Countries,Sheep,Export Quantity,2011,6083835
+Net Food Importing Developing Countries,Sheep,Export Quantity,2012,7314850
+Net Food Importing Developing Countries,Sheep,Export Quantity,2013,8259538
